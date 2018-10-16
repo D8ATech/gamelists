@@ -1,0 +1,332 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Arc.rom</path>
+		<name>Arc</name>
+		<image>./boxart/Arc.png</image>
+		<marquee>./wheel/Arc.png</marquee>
+		<video>./snap/Arc.mp4</video>
+	</game>
+	<game>
+		<path>./Aura Battle Dunbine Disk 1 of 6.DSK</path>
+		<name>Aura Battle Dunbine Disk 1 of 6</name>
+		<image>./boxart/Aura Battle Dunbine Disk 1 of 6.png</image>
+		<marquee>./wheel/Aura Battle Dunbine Disk 1 of 6.png</marquee>
+		<video>./snap/Aura Battle Dunbine Disk 1 of 6.mp4</video>
+	</game>
+	<game>
+		<path>./Aura Battle Dunbine Disk 2 of 6.DSK</path>
+		<name>Aura Battle Dunbine Disk 2 of 6</name>
+		<image>./boxart/Aura Battle Dunbine Disk 2 of 6.png</image>
+		<marquee>./wheel/Aura Battle Dunbine Disk 2 of 6.png</marquee>
+		<video>./snap/Aura Battle Dunbine Disk 2 of 6.mp4</video>
+	</game>
+	<game>
+		<path>./Aura Battle Dunbine Disk 3 of 6.DSK</path>
+		<name>Aura Battle Dunbine Disk 3 of 6</name>
+		<image>./boxart/Aura Battle Dunbine Disk 3 of 6.png</image>
+		<marquee>./wheel/Aura Battle Dunbine Disk 3 of 6.png</marquee>
+		<video>./snap/Aura Battle Dunbine Disk 3 of 6.mp4</video>
+	</game>
+	<game>
+		<path>./Aura Battle Dunbine Disk 4 of 6.DSK</path>
+		<name>Aura Battle Dunbine Disk 4 of 6</name>
+		<image>./boxart/Aura Battle Dunbine Disk 4 of 6.png</image>
+		<marquee>./wheel/Aura Battle Dunbine Disk 4 of 6.png</marquee>
+		<video>./snap/Aura Battle Dunbine Disk 4 of 6.mp4</video>
+	</game>
+	<game>
+		<path>./Aura Battle Dunbine Disk 5 of 6.DSK</path>
+		<name>Aura Battle Dunbine Disk 5 of 6</name>
+		<image>./boxart/Aura Battle Dunbine Disk 5 of 6.png</image>
+		<marquee>./wheel/Aura Battle Dunbine Disk 5 of 6.png</marquee>
+		<video>./snap/Aura Battle Dunbine Disk 5 of 6.mp4</video>
+	</game>
+	<game>
+		<path>./Aura Battle Dunbine Disk 6 of 6.DSK</path>
+		<name>Aura Battle Dunbine Disk 6 of 6</name>
+		<image>./boxart/Aura Battle Dunbine Disk 6 of 6.png</image>
+		<marquee>./wheel/Aura Battle Dunbine Disk 6 of 6.png</marquee>
+		<video>./snap/Aura Battle Dunbine Disk 6 of 6.mp4</video>
+	</game>
+	<game>
+		<path>./Barunba.dsk</path>
+		<name>Barunba</name>
+		<image>./boxart/Barunba.png</image>
+		<marquee>./wheel/Barunba.png</marquee>
+		<video>./snap/Barunba.mp4</video>
+	</game>
+	<game>
+		<path>./D.C. Connection Disk 1 of 3.dsk</path>
+		<name>D.C. Connection Disk 1 of 3</name>
+		<image>./boxart/D.C. Connection Disk 1 of 3.png</image>
+		<marquee>./wheel/D.C. Connection Disk 1 of 3.png</marquee>
+		<video>./snap/D.C. Connection Disk 1 of 3.mp4</video>
+	</game>
+	<game>
+		<path>./D.C. Connection Disk 2 of 3.dsk</path>
+		<name>D.C. Connection Disk 2 of 3</name>
+		<image>./boxart/D.C. Connection Disk 2 of 3.png</image>
+		<marquee>./wheel/D.C. Connection Disk 2 of 3.png</marquee>
+		<video>./snap/D.C. Connection Disk 2 of 3.mp4</video>
+	</game>
+	<game>
+		<path>./D.C. Connection Disk 3 of 3.dsk</path>
+		<name>D.C. Connection Disk 3 of 3</name>
+		<image>./boxart/D.C. Connection Disk 3 of 3.png</image>
+		<marquee>./wheel/D.C. Connection Disk 3 of 3.png</marquee>
+		<video>./snap/D.C. Connection Disk 3 of 3.mp4</video>
+	</game>
+	<game>
+		<path>./DIX.DSK</path>
+		<name>DIX</name>
+		<image>./boxart/DIX.png</image>
+		<marquee>./wheel/DIX.png</marquee>
+		<video>./snap/DIX.mp4</video>
+	</game>
+	<game>
+		<path>./F 1 Spirit 3D Special Disk 3 of 3.dsk</path>
+		<name>F 1 Spirit 3D Special Disk 3 of 3</name>
+		<image>./boxart/F 1 Spirit 3D Special Disk 3 of 3.png</image>
+		<marquee>./wheel/F 1 Spirit 3D Special Disk 3 of 3.png</marquee>
+		<video>./snap/F 1 Spirit 3D Special Disk 3 of 3.mp4</video>
+	</game>
+	<game>
+		<path>./Family Stadium Pro Baseball Homerun Contest.dsk</path>
+		<name>Family Stadium Pro Baseball Homerun Contest</name>
+		<image>./boxart/Family Stadium Pro Baseball Homerun Contest.png</image>
+		<marquee>./wheel/Family Stadium Pro Baseball Homerun Contest.png</marquee>
+		<video>./snap/Family Stadium Pro Baseball Homerun Contest.mp4</video>
+	</game>
+	<game>
+		<path>./gamelist.xml</path>
+		<name>gamelist</name>
+		<image>./boxart/gamelist.png</image>
+		<marquee>./wheel/gamelist.png</marquee>
+		<video>./snap/gamelist.mp4</video>
+	</game>
+	<game>
+		<path>./Gladius.dsk</path>
+		<name>Gladius</name>
+		<image>./boxart/Gladius.png</image>
+		<marquee>./wheel/Gladius.png</marquee>
+		<video>./snap/Gladius.mp4</video>
+	</game>
+	<game>
+		<path>./Golvellius II.dsk</path>
+		<name>Golvellius II</name>
+		<image>./boxart/Golvellius II.png</image>
+		<marquee>./wheel/Golvellius II.png</marquee>
+		<video>./snap/Golvellius II.mp4</video>
+	</game>
+	<game>
+		<path>./Gradius III Legends.DSK</path>
+		<name>Gradius III Legends</name>
+		<image>./boxart/Gradius III Legends.png</image>
+		<marquee>./wheel/Gradius III Legends.png</marquee>
+		<video>./snap/Gradius III Legends.mp4</video>
+	</game>
+	<game>
+		<path>./Laydock 2 Last Attack Disk 1 of 2.dsk</path>
+		<name>Laydock 2 Last Attack Disk 1 of 2</name>
+		<image>./boxart/Laydock 2 Last Attack Disk 1 of 2.png</image>
+		<marquee>./wheel/Laydock 2 Last Attack Disk 1 of 2.png</marquee>
+		<video>./snap/Laydock 2 Last Attack Disk 1 of 2.mp4</video>
+	</game>
+	<game>
+		<path>./Laydock 2 Last Attack Disk 2 of 2.dsk</path>
+		<name>Laydock 2 Last Attack Disk 2 of 2</name>
+		<image>./boxart/Laydock 2 Last Attack Disk 2 of 2.png</image>
+		<marquee>./wheel/Laydock 2 Last Attack Disk 2 of 2.png</marquee>
+		<video>./snap/Laydock 2 Last Attack Disk 2 of 2.mp4</video>
+	</game>
+	<game>
+		<path>./Megadoom Disc 1 of 2.dsk</path>
+		<name>Megadoom Disc 1 of 2</name>
+		<image>./boxart/Megadoom Disc 1 of 2.png</image>
+		<marquee>./wheel/Megadoom Disc 1 of 2.png</marquee>
+		<video>./snap/Megadoom Disc 1 of 2.mp4</video>
+	</game>
+	<game>
+		<path>./Megadoom Disc 2 of 2.dsk</path>
+		<name>Megadoom Disc 2 of 2</name>
+		<image>./boxart/Megadoom Disc 2 of 2.png</image>
+		<marquee>./wheel/Megadoom Disc 2 of 2.png</marquee>
+		<video>./snap/Megadoom Disc 2 of 2.mp4</video>
+	</game>
+	<game>
+		<path>./Mid Garts Dual Side Disk 1 of 6.dsk</path>
+		<name>Mid Garts Dual Side Disk 1 of 6</name>
+		<image>./boxart/Mid Garts Dual Side Disk 1 of 6.png</image>
+		<marquee>./wheel/Mid Garts Dual Side Disk 1 of 6.png</marquee>
+		<video>./snap/Mid Garts Dual Side Disk 1 of 6.mp4</video>
+	</game>
+	<game>
+		<path>./Mid Garts Dual Side Disk 2 of 6.dsk</path>
+		<name>Mid Garts Dual Side Disk 2 of 6</name>
+		<image>./boxart/Mid Garts Dual Side Disk 2 of 6.png</image>
+		<marquee>./wheel/Mid Garts Dual Side Disk 2 of 6.png</marquee>
+		<video>./snap/Mid Garts Dual Side Disk 2 of 6.mp4</video>
+	</game>
+	<game>
+		<path>./Mid Garts Dual Side Disk 3 of 6.dsk</path>
+		<name>Mid Garts Dual Side Disk 3 of 6</name>
+		<image>./boxart/Mid Garts Dual Side Disk 3 of 6.png</image>
+		<marquee>./wheel/Mid Garts Dual Side Disk 3 of 6.png</marquee>
+		<video>./snap/Mid Garts Dual Side Disk 3 of 6.mp4</video>
+	</game>
+	<game>
+		<path>./Mid Garts Dual Side Disk 4 of 6.dsk</path>
+		<name>Mid Garts Dual Side Disk 4 of 6</name>
+		<image>./boxart/Mid Garts Dual Side Disk 4 of 6.png</image>
+		<marquee>./wheel/Mid Garts Dual Side Disk 4 of 6.png</marquee>
+		<video>./snap/Mid Garts Dual Side Disk 4 of 6.mp4</video>
+	</game>
+	<game>
+		<path>./Mid Garts Dual Side Disk 5 of 6.dsk</path>
+		<name>Mid Garts Dual Side Disk 5 of 6</name>
+		<image>./boxart/Mid Garts Dual Side Disk 5 of 6.png</image>
+		<marquee>./wheel/Mid Garts Dual Side Disk 5 of 6.png</marquee>
+		<video>./snap/Mid Garts Dual Side Disk 5 of 6.mp4</video>
+	</game>
+	<game>
+		<path>./Mid Garts Dual Side Disk 6 of 6.dsk</path>
+		<name>Mid Garts Dual Side Disk 6 of 6</name>
+		<image>./boxart/Mid Garts Dual Side Disk 6 of 6.png</image>
+		<marquee>./wheel/Mid Garts Dual Side Disk 6 of 6.png</marquee>
+		<video>./snap/Mid Garts Dual Side Disk 6 of 6.mp4</video>
+	</game>
+	<game>
+		<path>./New Legendly Nine Gems Shinku Disk 1 of 2.dsk</path>
+		<name>New Legendly Nine Gems Shinku Disk 1 of 2</name>
+		<image>./boxart/New Legendly Nine Gems Shinku Disk 1 of 2.png</image>
+		<marquee>./wheel/New Legendly Nine Gems Shinku Disk 1 of 2.png</marquee>
+		<video>./snap/New Legendly Nine Gems Shinku Disk 1 of 2.mp4</video>
+	</game>
+	<game>
+		<path>./New Legendly Nine Gems Shinku Disk 2 of 2.dsk</path>
+		<name>New Legendly Nine Gems Shinku Disk 2 of 2</name>
+		<image>./boxart/New Legendly Nine Gems Shinku Disk 2 of 2.png</image>
+		<marquee>./wheel/New Legendly Nine Gems Shinku Disk 2 of 2.png</marquee>
+		<video>./snap/New Legendly Nine Gems Shinku Disk 2 of 2.mp4</video>
+	</game>
+	<game>
+		<path>./Nyancle Racing.dsk</path>
+		<name>Nyancle Racing</name>
+		<image>./boxart/Nyancle Racing.png</image>
+		<marquee>./wheel/Nyancle Racing.png</marquee>
+		<video>./snap/Nyancle Racing.mp4</video>
+	</game>
+	<game>
+		<path>./Playball 3.dsk</path>
+		<name>Playball 3</name>
+		<image>./boxart/Playball 3.png</image>
+		<marquee>./wheel/Playball 3.png</marquee>
+		<video>./snap/Playball 3.mp4</video>
+	</game>
+	<game>
+		<path>./Playboy Strippoker.dsk</path>
+		<name>Playboy Strippoker</name>
+		<image>./boxart/Playboy Strippoker.png</image>
+		<marquee>./wheel/Playboy Strippoker.png</marquee>
+		<video>./snap/Playboy Strippoker.mp4</video>
+	</game>
+	<game>
+		<path>./Princess MakerDisk 1 of 7.dsk</path>
+		<name>Princess MakerDisk 1 of 7</name>
+		<image>./boxart/Princess MakerDisk 1 of 7.png</image>
+		<marquee>./wheel/Princess MakerDisk 1 of 7.png</marquee>
+		<video>./snap/Princess MakerDisk 1 of 7.mp4</video>
+	</game>
+	<game>
+		<path>./Princess MakerDisk 2 of 7.dsk</path>
+		<name>Princess MakerDisk 2 of 7</name>
+		<image>./boxart/Princess MakerDisk 2 of 7.png</image>
+		<marquee>./wheel/Princess MakerDisk 2 of 7.png</marquee>
+		<video>./snap/Princess MakerDisk 2 of 7.mp4</video>
+	</game>
+	<game>
+		<path>./Princess MakerDisk 3 of 7.dsk</path>
+		<name>Princess MakerDisk 3 of 7</name>
+		<image>./boxart/Princess MakerDisk 3 of 7.png</image>
+		<marquee>./wheel/Princess MakerDisk 3 of 7.png</marquee>
+		<video>./snap/Princess MakerDisk 3 of 7.mp4</video>
+	</game>
+	<game>
+		<path>./Princess MakerDisk 4 of 7.dsk</path>
+		<name>Princess MakerDisk 4 of 7</name>
+		<image>./boxart/Princess MakerDisk 4 of 7.png</image>
+		<marquee>./wheel/Princess MakerDisk 4 of 7.png</marquee>
+		<video>./snap/Princess MakerDisk 4 of 7.mp4</video>
+	</game>
+	<game>
+		<path>./Princess MakerDisk 5 of 7.dsk</path>
+		<name>Princess MakerDisk 5 of 7</name>
+		<image>./boxart/Princess MakerDisk 5 of 7.png</image>
+		<marquee>./wheel/Princess MakerDisk 5 of 7.png</marquee>
+		<video>./snap/Princess MakerDisk 5 of 7.mp4</video>
+	</game>
+	<game>
+		<path>./Princess MakerDisk 6 of 7.dsk</path>
+		<name>Princess MakerDisk 6 of 7</name>
+		<image>./boxart/Princess MakerDisk 6 of 7.png</image>
+		<marquee>./wheel/Princess MakerDisk 6 of 7.png</marquee>
+		<video>./snap/Princess MakerDisk 6 of 7.mp4</video>
+	</game>
+	<game>
+		<path>./Princess MakerDisk 7 of 7.dsk</path>
+		<name>Princess MakerDisk 7 of 7</name>
+		<image>./boxart/Princess MakerDisk 7 of 7.png</image>
+		<marquee>./wheel/Princess MakerDisk 7 of 7.png</marquee>
+		<video>./snap/Princess MakerDisk 7 of 7.mp4</video>
+	</game>
+	<game>
+		<path>./Quinpl.dsk</path>
+		<name>Quinpl</name>
+		<image>./boxart/Quinpl.png</image>
+		<marquee>./wheel/Quinpl.png</marquee>
+		<video>./snap/Quinpl.mp4</video>
+	</game>
+	<game>
+		<path>./Sea Sardine.dsk</path>
+		<name>Sea Sardine</name>
+		<image>./boxart/Sea Sardine.png</image>
+		<marquee>./wheel/Sea Sardine.png</marquee>
+		<video>./snap/Sea Sardine.mp4</video>
+	</game>
+	<game>
+		<path>./Sonyc.dsk</path>
+		<name>Sonyc</name>
+		<image>./boxart/Sonyc.png</image>
+		<marquee>./wheel/Sonyc.png</marquee>
+		<video>./snap/Sonyc.mp4</video>
+	</game>
+	<game>
+		<path>./Starship Rendezvous Disk 1 of 2.DSK</path>
+		<name>Starship Rendezvous Disk 1 of 2</name>
+		<image>./boxart/Starship Rendezvous Disk 1 of 2.png</image>
+		<marquee>./wheel/Starship Rendezvous Disk 1 of 2.png</marquee>
+		<video>./snap/Starship Rendezvous Disk 1 of 2.mp4</video>
+	</game>
+	<game>
+		<path>./Starship Rendezvous Disk 2 of 2.DSK</path>
+		<name>Starship Rendezvous Disk 2 of 2</name>
+		<image>./boxart/Starship Rendezvous Disk 2 of 2.png</image>
+		<marquee>./wheel/Starship Rendezvous Disk 2 of 2.png</marquee>
+		<video>./snap/Starship Rendezvous Disk 2 of 2.mp4</video>
+	</game>
+	<game>
+		<path>./Super Cooks.dsk</path>
+		<name>Super Cooks</name>
+		<image>./boxart/Super Cooks.png</image>
+		<marquee>./wheel/Super Cooks.png</marquee>
+		<video>./snap/Super Cooks.mp4</video>
+	</game>
+	<game>
+		<path>./Twinkle Star.dsk</path>
+		<name>Twinkle Star</name>
+		<image>./boxart/Twinkle Star.png</image>
+		<marquee>./wheel/Twinkle Star.png</marquee>
+		<video>./snap/Twinkle Star.mp4</video>
+	</game>
+</gameList>

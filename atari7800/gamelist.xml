@@ -1,0 +1,423 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./32 in 1.bin</path>
+		<name>32 in 1</name>
+		<image>./boxart/32 in 1.png</image>
+		<marquee>./wheel/32 in 1.png</marquee>
+		<video>./snap/32 in 1.mp4</video>
+	</game>
+	<game>
+		<path>./Ace of Aces.a78</path>
+		<name>Ace of Aces</name>
+		<image>./boxart/Ace of Aces.png</image>
+		<marquee>./wheel/Ace of Aces.png</marquee>
+		<video>./snap/Ace of Aces.mp4</video>
+	</game>
+	<game>
+		<path>./Alien Brigade.a78</path>
+		<name>Alien Brigade</name>
+		<image>./boxart/Alien Brigade.png</image>
+		<marquee>./wheel/Alien Brigade.png</marquee>
+		<video>./snap/Alien Brigade.mp4</video>
+	</game>
+	<game>
+		<path>./Asteroids.a78</path>
+		<name>Asteroids</name>
+		<image>./boxart/Asteroids.png</image>
+		<marquee>./wheel/Asteroids.png</marquee>
+		<video>./snap/Asteroids.mp4</video>
+	</game>
+	<game>
+		<path>./Ballblazer.a78</path>
+		<name>Ballblazer</name>
+		<image>./boxart/Ballblazer.png</image>
+		<marquee>./wheel/Ballblazer.png</marquee>
+		<video>./snap/Ballblazer.mp4</video>
+	</game>
+	<game>
+		<path>./Barnyard Blaster.a78</path>
+		<name>Barnyard Blaster</name>
+		<image>./boxart/Barnyard Blaster.png</image>
+		<marquee>./wheel/Barnyard Blaster.png</marquee>
+		<video>./snap/Barnyard Blaster.mp4</video>
+	</game>
+	<game>
+		<path>./Basketbrawl.a78</path>
+		<name>Basketbrawl</name>
+		<image>./boxart/Basketbrawl.png</image>
+		<marquee>./wheel/Basketbrawl.png</marquee>
+		<video>./snap/Basketbrawl.mp4</video>
+	</game>
+	<game>
+		<path>./Centipede.a78</path>
+		<name>Centipede</name>
+		<image>./boxart/Centipede.png</image>
+		<marquee>./wheel/Centipede.png</marquee>
+		<video>./snap/Centipede.mp4</video>
+	</game>
+	<game>
+		<path>./Choplifter.a78</path>
+		<name>Choplifter</name>
+		<image>./boxart/Choplifter.png</image>
+		<marquee>./wheel/Choplifter.png</marquee>
+		<video>./snap/Choplifter.mp4</video>
+	</game>
+	<game>
+		<path>./Commando.a78</path>
+		<name>Commando</name>
+		<image>./boxart/Commando.png</image>
+		<marquee>./wheel/Commando.png</marquee>
+		<video>./snap/Commando.mp4</video>
+	</game>
+	<game>
+		<path>./Cracked.a78</path>
+		<name>Cracked</name>
+		<image>./boxart/Cracked.png</image>
+		<marquee>./wheel/Cracked.png</marquee>
+		<video>./snap/Cracked.mp4</video>
+	</game>
+	<game>
+		<path>./Crossbow.a78</path>
+		<name>Crossbow</name>
+		<image>./boxart/Crossbow.png</image>
+		<marquee>./wheel/Crossbow.png</marquee>
+		<video>./snap/Crossbow.mp4</video>
+	</game>
+	<game>
+		<path>./Dark Chambers.a78</path>
+		<name>Dark Chambers</name>
+		<image>./boxart/Dark Chambers.png</image>
+		<marquee>./wheel/Dark Chambers.png</marquee>
+		<video>./snap/Dark Chambers.mp4</video>
+	</game>
+	<game>
+		<path>./Desert Falcon.a78</path>
+		<name>Desert Falcon</name>
+		<image>./boxart/Desert Falcon.png</image>
+		<marquee>./wheel/Desert Falcon.png</marquee>
+		<video>./snap/Desert Falcon.mp4</video>
+	</game>
+	<game>
+		<path>./Dig Dug.a78</path>
+		<name>Dig Dug</name>
+		<image>./boxart/Dig Dug.png</image>
+		<marquee>./wheel/Dig Dug.png</marquee>
+		<video>./snap/Dig Dug.mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong Junior.a78</path>
+		<name>Donkey Kong Junior</name>
+		<image>./boxart/Donkey Kong Junior.png</image>
+		<marquee>./wheel/Donkey Kong Junior.png</marquee>
+		<video>./snap/Donkey Kong Junior.mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong.a78</path>
+		<name>Donkey Kong</name>
+		<image>./boxart/Donkey Kong.png</image>
+		<marquee>./wheel/Donkey Kong.png</marquee>
+		<video>./snap/Donkey Kong.mp4</video>
+	</game>
+	<game>
+		<path>./Double Dragon.a78</path>
+		<name>Double Dragon</name>
+		<image>./boxart/Double Dragon.png</image>
+		<marquee>./wheel/Double Dragon.png</marquee>
+		<video>./snap/Double Dragon.mp4</video>
+	</game>
+	<game>
+		<path>./F 18 Hornet.a78</path>
+		<name>F 18 Hornet</name>
+		<image>./boxart/F 18 Hornet.png</image>
+		<marquee>./wheel/F 18 Hornet.png</marquee>
+		<video>./snap/F 18 Hornet.mp4</video>
+	</game>
+	<game>
+		<path>./Fatal Run.a78</path>
+		<name>Fatal Run</name>
+		<image>./boxart/Fatal Run.png</image>
+		<marquee>./wheel/Fatal Run.png</marquee>
+		<video>./snap/Fatal Run.mp4</video>
+	</game>
+	<game>
+		<path>./Fight Night.a78</path>
+		<name>Fight Night</name>
+		<image>./boxart/Fight Night.png</image>
+		<marquee>./wheel/Fight Night.png</marquee>
+		<video>./snap/Fight Night.mp4</video>
+	</game>
+	<game>
+		<path>./Food Fight.a78</path>
+		<name>Food Fight</name>
+		<image>./boxart/Food Fight.png</image>
+		<marquee>./wheel/Food Fight.png</marquee>
+		<video>./snap/Food Fight.mp4</video>
+	</game>
+	<game>
+		<path>./Galaga.a78</path>
+		<name>Galaga</name>
+		<image>./boxart/Galaga.png</image>
+		<marquee>./wheel/Galaga.png</marquee>
+		<video>./snap/Galaga.mp4</video>
+	</game>
+	<game>
+		<path>./gamelist.xml</path>
+		<name>gamelist</name>
+		<image>./boxart/gamelist.png</image>
+		<marquee>./wheel/gamelist.png</marquee>
+		<video>./snap/gamelist.mp4</video>
+	</game>
+	<game>
+		<path>./Hat Trick.a78</path>
+		<name>Hat Trick</name>
+		<image>./boxart/Hat Trick.png</image>
+		<marquee>./wheel/Hat Trick.png</marquee>
+		<video>./snap/Hat Trick.mp4</video>
+	</game>
+	<game>
+		<path>./Ikari Warriors.a78</path>
+		<name>Ikari Warriors</name>
+		<image>./boxart/Ikari Warriors.png</image>
+		<marquee>./wheel/Ikari Warriors.png</marquee>
+		<video>./snap/Ikari Warriors.mp4</video>
+	</game>
+	<game>
+		<path>./Impossible Mission.a78</path>
+		<name>Impossible Mission</name>
+		<image>./boxart/Impossible Mission.png</image>
+		<marquee>./wheel/Impossible Mission.png</marquee>
+		<video>./snap/Impossible Mission.mp4</video>
+	</game>
+	<game>
+		<path>./Jinks.a78</path>
+		<name>Jinks</name>
+		<image>./boxart/Jinks.png</image>
+		<marquee>./wheel/Jinks.png</marquee>
+		<video>./snap/Jinks.mp4</video>
+	</game>
+	<game>
+		<path>./Joust.a78</path>
+		<name>Joust</name>
+		<image>./boxart/Joust.png</image>
+		<marquee>./wheel/Joust.png</marquee>
+		<video>./snap/Joust.mp4</video>
+	</game>
+	<game>
+		<path>./Karateka.a78</path>
+		<name>Karateka</name>
+		<image>./boxart/Karateka.png</image>
+		<marquee>./wheel/Karateka.png</marquee>
+		<video>./snap/Karateka.mp4</video>
+	</game>
+	<game>
+		<path>./Kung Fu Master.a78</path>
+		<name>Kung Fu Master</name>
+		<image>./boxart/Kung Fu Master.png</image>
+		<marquee>./wheel/Kung Fu Master.png</marquee>
+		<video>./snap/Kung Fu Master.mp4</video>
+	</game>
+	<game>
+		<path>./Mario Bros..a78</path>
+		<name>Mario Bros.</name>
+		<image>./boxart/Mario Bros..png</image>
+		<marquee>./wheel/Mario Bros..png</marquee>
+		<video>./snap/Mario Bros..mp4</video>
+	</game>
+	<game>
+		<path>./Mat Mania Challenge.a78</path>
+		<name>Mat Mania Challenge</name>
+		<image>./boxart/Mat Mania Challenge.png</image>
+		<marquee>./wheel/Mat Mania Challenge.png</marquee>
+		<video>./snap/Mat Mania Challenge.mp4</video>
+	</game>
+	<game>
+		<path>./Mean 18 Ultimate Golf.a78</path>
+		<name>Mean 18 Ultimate Golf</name>
+		<image>./boxart/Mean 18 Ultimate Golf.png</image>
+		<marquee>./wheel/Mean 18 Ultimate Golf.png</marquee>
+		<video>./snap/Mean 18 Ultimate Golf.mp4</video>
+	</game>
+	<game>
+		<path>./Meltdown.a78</path>
+		<name>Meltdown</name>
+		<image>./boxart/Meltdown.png</image>
+		<marquee>./wheel/Meltdown.png</marquee>
+		<video>./snap/Meltdown.mp4</video>
+	</game>
+	<game>
+		<path>./Midnight Mutants.a78</path>
+		<name>Midnight Mutants</name>
+		<image>./boxart/Midnight Mutants.png</image>
+		<marquee>./wheel/Midnight Mutants.png</marquee>
+		<video>./snap/Midnight Mutants.mp4</video>
+	</game>
+	<game>
+		<path>./Motor Psycho.a78</path>
+		<name>Motor Psycho</name>
+		<image>./boxart/Motor Psycho.png</image>
+		<marquee>./wheel/Motor Psycho.png</marquee>
+		<video>./snap/Motor Psycho.mp4</video>
+	</game>
+	<game>
+		<path>./Ms. Pac Man.a78</path>
+		<name>Ms. Pac Man</name>
+		<image>./boxart/Ms. Pac Man.png</image>
+		<marquee>./wheel/Ms. Pac Man.png</marquee>
+		<video>./snap/Ms. Pac Man.mp4</video>
+	</game>
+	<game>
+		<path>./Ninja Golf.a78</path>
+		<name>Ninja Golf</name>
+		<image>./boxart/Ninja Golf.png</image>
+		<marquee>./wheel/Ninja Golf.png</marquee>
+		<video>./snap/Ninja Golf.mp4</video>
+	</game>
+	<game>
+		<path>./One on One Basketball.a78</path>
+		<name>One on One Basketball</name>
+		<image>./boxart/One on One Basketball.png</image>
+		<marquee>./wheel/One on One Basketball.png</marquee>
+		<video>./snap/One on One Basketball.mp4</video>
+	</game>
+	<game>
+		<path>./Pete Rose Baseball.a78</path>
+		<name>Pete Rose Baseball</name>
+		<image>./boxart/Pete Rose Baseball.png</image>
+		<marquee>./wheel/Pete Rose Baseball.png</marquee>
+		<video>./snap/Pete Rose Baseball.mp4</video>
+	</game>
+	<game>
+		<path>./Planet Smashers.a78</path>
+		<name>Planet Smashers</name>
+		<image>./boxart/Planet Smashers.png</image>
+		<marquee>./wheel/Planet Smashers.png</marquee>
+		<video>./snap/Planet Smashers.mp4</video>
+	</game>
+	<game>
+		<path>./Pole Position II.a78</path>
+		<name>Pole Position II</name>
+		<image>./boxart/Pole Position II.png</image>
+		<marquee>./wheel/Pole Position II.png</marquee>
+		<video>./snap/Pole Position II.mp4</video>
+	</game>
+	<game>
+		<path>./Rampage.a78</path>
+		<name>Rampage</name>
+		<image>./boxart/Rampage.png</image>
+		<marquee>./wheel/Rampage.png</marquee>
+		<video>./snap/Rampage.mp4</video>
+	</game>
+	<game>
+		<path>./RealSports Baseball.a78</path>
+		<name>RealSports Baseball</name>
+		<image>./boxart/RealSports Baseball.png</image>
+		<marquee>./wheel/RealSports Baseball.png</marquee>
+		<video>./snap/RealSports Baseball.mp4</video>
+	</game>
+	<game>
+		<path>./Robotron 2084.a78</path>
+		<name>Robotron 2084</name>
+		<image>./boxart/Robotron 2084.png</image>
+		<marquee>./wheel/Robotron 2084.png</marquee>
+		<video>./snap/Robotron 2084.mp4</video>
+	</game>
+	<game>
+		<path>./Scrapyard Dog.a78</path>
+		<name>Scrapyard Dog</name>
+		<image>./boxart/Scrapyard Dog.png</image>
+		<marquee>./wheel/Scrapyard Dog.png</marquee>
+		<video>./snap/Scrapyard Dog.mp4</video>
+	</game>
+	<game>
+		<path>./Sentinel.a78</path>
+		<name>Sentinel</name>
+		<image>./boxart/Sentinel.png</image>
+		<marquee>./wheel/Sentinel.png</marquee>
+		<video>./snap/Sentinel.mp4</video>
+	</game>
+	<game>
+		<path>./Summer Games.a78</path>
+		<name>Summer Games</name>
+		<image>./boxart/Summer Games.png</image>
+		<marquee>./wheel/Summer Games.png</marquee>
+		<video>./snap/Summer Games.mp4</video>
+	</game>
+	<game>
+		<path>./Super Huey UH 1X.a78</path>
+		<name>Super Huey UH 1X</name>
+		<image>./boxart/Super Huey UH 1X.png</image>
+		<marquee>./wheel/Super Huey UH 1X.png</marquee>
+		<video>./snap/Super Huey UH 1X.mp4</video>
+	</game>
+	<game>
+		<path>./Super Skateboardin.a78</path>
+		<name>Super Skateboardin</name>
+		<image>./boxart/Super Skateboardin.png</image>
+		<marquee>./wheel/Super Skateboardin.png</marquee>
+		<video>./snap/Super Skateboardin.mp4</video>
+	</game>
+	<game>
+		<path>./Tank Command.a78</path>
+		<name>Tank Command</name>
+		<image>./boxart/Tank Command.png</image>
+		<marquee>./wheel/Tank Command.png</marquee>
+		<video>./snap/Tank Command.mp4</video>
+	</game>
+	<game>
+		<path>./Title Match Pro Wrestling.a78</path>
+		<name>Title Match Pro Wrestling</name>
+		<image>./boxart/Title Match Pro Wrestling.png</image>
+		<marquee>./wheel/Title Match Pro Wrestling.png</marquee>
+		<video>./snap/Title Match Pro Wrestling.mp4</video>
+	</game>
+	<game>
+		<path>./Tomcat The F 14 Fighter Simulator.a78</path>
+		<name>Tomcat The F 14 Fighter Simulator</name>
+		<image>./boxart/Tomcat The F 14 Fighter Simulator.png</image>
+		<marquee>./wheel/Tomcat The F 14 Fighter Simulator.png</marquee>
+		<video>./snap/Tomcat The F 14 Fighter Simulator.mp4</video>
+	</game>
+	<game>
+		<path>./Touchdown Football.a78</path>
+		<name>Touchdown Football</name>
+		<image>./boxart/Touchdown Football.png</image>
+		<marquee>./wheel/Touchdown Football.png</marquee>
+		<video>./snap/Touchdown Football.mp4</video>
+	</game>
+	<game>
+		<path>./Tower Toppler.a78</path>
+		<name>Tower Toppler</name>
+		<image>./boxart/Tower Toppler.png</image>
+		<marquee>./wheel/Tower Toppler.png</marquee>
+		<video>./snap/Tower Toppler.mp4</video>
+	</game>
+	<game>
+		<path>./Water Ski.a78</path>
+		<name>Water Ski</name>
+		<image>./boxart/Water Ski.png</image>
+		<marquee>./wheel/Water Ski.png</marquee>
+		<video>./snap/Water Ski.mp4</video>
+	</game>
+	<game>
+		<path>./Winter Games.a78</path>
+		<name>Winter Games</name>
+		<image>./boxart/Winter Games.png</image>
+		<marquee>./wheel/Winter Games.png</marquee>
+		<video>./snap/Winter Games.mp4</video>
+	</game>
+	<game>
+		<path>./Xenophobe.a78</path>
+		<name>Xenophobe</name>
+		<image>./boxart/Xenophobe.png</image>
+		<marquee>./wheel/Xenophobe.png</marquee>
+		<video>./snap/Xenophobe.mp4</video>
+	</game>
+	<game>
+		<path>./Xevious.a78</path>
+		<name>Xevious</name>
+		<image>./boxart/Xevious.png</image>
+		<marquee>./wheel/Xevious.png</marquee>
+		<video>./snap/Xevious.mp4</video>
+	</game>
+</gameList>

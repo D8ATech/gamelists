@@ -1,0 +1,409 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Armor Battle.mgw</path>
+		<name>Armor Battle</name>
+		<image>./boxart/Armor Battle.png</image>
+		<marquee>./wheel/Armor Battle.png</marquee>
+		<video>./snap/Armor Battle.mp4</video>
+	</game>
+	<game>
+		<path>./Banana.mgw</path>
+		<name>Banana</name>
+		<image>./boxart/Banana.png</image>
+		<marquee>./wheel/Banana.png</marquee>
+		<video>./snap/Banana.mp4</video>
+	</game>
+	<game>
+		<path>./Banana.srm</path>
+		<name>Banana</name>
+		<image>./boxart/Banana.png</image>
+		<marquee>./wheel/Banana.png</marquee>
+		<video>./snap/Banana.mp4</video>
+	</game>
+	<game>
+		<path>./Baseball.mgw</path>
+		<name>Baseball</name>
+		<image>./boxart/Baseball.png</image>
+		<marquee>./wheel/Baseball.png</marquee>
+		<video>./snap/Baseball.mp4</video>
+	</game>
+	<game>
+		<path>./Bomb Fight.mgw</path>
+		<name>Bomb Fight</name>
+		<image>./boxart/Bomb Fight.png</image>
+		<marquee>./wheel/Bomb Fight.png</marquee>
+		<video>./snap/Bomb Fight.mp4</video>
+	</game>
+	<game>
+		<path>./Casio HF.mgw</path>
+		<name>Casio HF</name>
+		<image>./boxart/Casio HF.png</image>
+		<marquee>./wheel/Casio HF.png</marquee>
+		<video>./snap/Casio HF.mp4</video>
+	</game>
+	<game>
+		<path>./Casio SF.mgw</path>
+		<name>Casio SF</name>
+		<image>./boxart/Casio SF.png</image>
+		<marquee>./wheel/Casio SF.png</marquee>
+		<video>./snap/Casio SF.mp4</video>
+	</game>
+	<game>
+		<path>./Chicky Woggy copy.mgw</path>
+		<name>Chicky Woggy copy</name>
+		<image>./boxart/Chicky Woggy copy.png</image>
+		<marquee>./wheel/Chicky Woggy copy.png</marquee>
+		<video>./snap/Chicky Woggy copy.mp4</video>
+	</game>
+	<game>
+		<path>./Chicky Woggy.mgw</path>
+		<name>Chicky Woggy</name>
+		<image>./boxart/Chicky Woggy.png</image>
+		<marquee>./wheel/Chicky Woggy.png</marquee>
+		<video>./snap/Chicky Woggy.mp4</video>
+	</game>
+	<game>
+		<path>./Condor.mgw</path>
+		<name>Condor</name>
+		<image>./boxart/Condor.png</image>
+		<marquee>./wheel/Condor.png</marquee>
+		<video>./snap/Condor.mp4</video>
+	</game>
+	<game>
+		<path>./Crazy Chewy.mgw</path>
+		<name>Crazy Chewy</name>
+		<image>./boxart/Crazy Chewy.png</image>
+		<marquee>./wheel/Crazy Chewy.png</marquee>
+		<video>./snap/Crazy Chewy.mp4</video>
+	</game>
+	<game>
+		<path>./Defendo.mgw</path>
+		<name>Defendo</name>
+		<image>./boxart/Defendo.png</image>
+		<marquee>./wheel/Defendo.png</marquee>
+		<video>./snap/Defendo.mp4</video>
+	</game>
+	<game>
+		<path>./DKong.mgw</path>
+		<name>DKong</name>
+		<image>./boxart/DKong.png</image>
+		<marquee>./wheel/DKong.png</marquee>
+		<video>./snap/DKong.mp4</video>
+	</game>
+	<game>
+		<path>./DKong2.mgw</path>
+		<name>DKong2</name>
+		<image>./boxart/DKong2.png</image>
+		<marquee>./wheel/DKong2.png</marquee>
+		<video>./snap/DKong2.mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong Circus.mgw</path>
+		<name>Donkey Kong Circus</name>
+		<image>./boxart/Donkey Kong Circus.png</image>
+		<marquee>./wheel/Donkey Kong Circus.png</marquee>
+		<video>./snap/Donkey Kong Circus.mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong Coleco.mgw</path>
+		<name>Donkey Kong Coleco</name>
+		<image>./boxart/Donkey Kong Coleco.png</image>
+		<marquee>./wheel/Donkey Kong Coleco.png</marquee>
+		<video>./snap/Donkey Kong Coleco.mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong II.mgw</path>
+		<name>Donkey Kong II</name>
+		<image>./boxart/Donkey Kong II.png</image>
+		<marquee>./wheel/Donkey Kong II.png</marquee>
+		<video>./snap/Donkey Kong II.mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong Jr b.mgw</path>
+		<name>Donkey Kong Jr b</name>
+		<image>./boxart/Donkey Kong Jr b.png</image>
+		<marquee>./wheel/Donkey Kong Jr b.png</marquee>
+		<video>./snap/Donkey Kong Jr b.mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong Jr.mgw</path>
+		<name>Donkey Kong Jr</name>
+		<image>./boxart/Donkey Kong Jr.png</image>
+		<marquee>./wheel/Donkey Kong Jr.png</marquee>
+		<video>./snap/Donkey Kong Jr.mp4</video>
+	</game>
+	<game>
+		<path>./Dungeons & Dragons.mgw</path>
+		<name>Dungeons & Dragons</name>
+		<image>./boxart/Dungeons & Dragons.png</image>
+		<marquee>./wheel/Dungeons & Dragons.png</marquee>
+		<video>./snap/Dungeons & Dragons.mp4</video>
+	</game>
+	<game>
+		<path>./Egg.mgw</path>
+		<name>Egg</name>
+		<image>./boxart/Egg.png</image>
+		<marquee>./wheel/Egg.png</marquee>
+		<video>./snap/Egg.mp4</video>
+	</game>
+	<game>
+		<path>./Engine Room.mgw</path>
+		<name>Engine Room</name>
+		<image>./boxart/Engine Room.png</image>
+		<marquee>./wheel/Engine Room.png</marquee>
+		<video>./snap/Engine Room.mp4</video>
+	</game>
+	<game>
+		<path>./Escape.mgw</path>
+		<name>Escape</name>
+		<image>./boxart/Escape.png</image>
+		<marquee>./wheel/Escape.png</marquee>
+		<video>./snap/Escape.mp4</video>
+	</game>
+	<game>
+		<path>./Explorers of Space.mgw</path>
+		<name>Explorers of Space</name>
+		<image>./boxart/Explorers of Space.png</image>
+		<marquee>./wheel/Explorers of Space.png</marquee>
+		<video>./snap/Explorers of Space.mp4</video>
+	</game>
+	<game>
+		<path>./Fowling.mgw</path>
+		<name>Fowling</name>
+		<image>./boxart/Fowling.png</image>
+		<marquee>./wheel/Fowling.png</marquee>
+		<video>./snap/Fowling.mp4</video>
+	</game>
+	<game>
+		<path>./Frog Boaster.mgw</path>
+		<name>Frog Boaster</name>
+		<image>./boxart/Frog Boaster.png</image>
+		<marquee>./wheel/Frog Boaster.png</marquee>
+		<video>./snap/Frog Boaster.mp4</video>
+	</game>
+	<game>
+		<path>./Galaxy II.mgw</path>
+		<name>Galaxy II</name>
+		<image>./boxart/Galaxy II.png</image>
+		<marquee>./wheel/Galaxy II.png</marquee>
+		<video>./snap/Galaxy II.mp4</video>
+	</game>
+	<game>
+		<path>./gamelist.xml</path>
+		<name>gamelist</name>
+		<image>./boxart/gamelist.png</image>
+		<marquee>./wheel/gamelist.png</marquee>
+		<video>./snap/gamelist.mp4</video>
+	</game>
+	<game>
+		<path>./Grab Man.mgw</path>
+		<name>Grab Man</name>
+		<image>./boxart/Grab Man.png</image>
+		<marquee>./wheel/Grab Man.png</marquee>
+		<video>./snap/Grab Man.mp4</video>
+	</game>
+	<game>
+		<path>./Hippo Teeth.mgw</path>
+		<name>Hippo Teeth</name>
+		<image>./boxart/Hippo Teeth.png</image>
+		<marquee>./wheel/Hippo Teeth.png</marquee>
+		<video>./snap/Hippo Teeth.mp4</video>
+	</game>
+	<game>
+		<path>./HippoT.mgw</path>
+		<name>HippoT</name>
+		<image>./boxart/HippoT.png</image>
+		<marquee>./wheel/HippoT.png</marquee>
+		<video>./snap/HippoT.mp4</video>
+	</game>
+	<game>
+		<path>./Hot Line.mgw</path>
+		<name>Hot Line</name>
+		<image>./boxart/Hot Line.png</image>
+		<marquee>./wheel/Hot Line.png</marquee>
+		<video>./snap/Hot Line.mp4</video>
+	</game>
+	<game>
+		<path>./HotLine.mgw</path>
+		<name>HotLine</name>
+		<image>./boxart/HotLine.png</image>
+		<marquee>./wheel/HotLine.png</marquee>
+		<video>./snap/HotLine.mp4</video>
+	</game>
+	<game>
+		<path>./Las Vegas.mgw</path>
+		<name>Las Vegas</name>
+		<image>./boxart/Las Vegas.png</image>
+		<marquee>./wheel/Las Vegas.png</marquee>
+		<video>./snap/Las Vegas.mp4</video>
+	</game>
+	<game>
+		<path>./Lifeboat.mgw</path>
+		<name>Lifeboat</name>
+		<image>./boxart/Lifeboat.png</image>
+		<marquee>./wheel/Lifeboat.png</marquee>
+		<video>./snap/Lifeboat.mp4</video>
+	</game>
+	<game>
+		<path>./Mario Bros.mgw</path>
+		<name>Mario Bros</name>
+		<image>./boxart/Mario Bros.png</image>
+		<marquee>./wheel/Mario Bros.png</marquee>
+		<video>./snap/Mario Bros.mp4</video>
+	</game>
+	<game>
+		<path>./Marios Bombs Away.mgw</path>
+		<name>Marios Bombs Away</name>
+		<image>./boxart/Marios Bombs Away.png</image>
+		<marquee>./wheel/Marios Bombs Away.png</marquee>
+		<video>./snap/Marios Bombs Away.mp4</video>
+	</game>
+	<game>
+		<path>./Mickey Mouse.mgw</path>
+		<name>Mickey Mouse</name>
+		<image>./boxart/Mickey Mouse.png</image>
+		<marquee>./wheel/Mickey Mouse.png</marquee>
+		<video>./snap/Mickey Mouse.mp4</video>
+	</game>
+	<game>
+		<path>./MickeyMP.mgw</path>
+		<name>MickeyMP</name>
+		<image>./boxart/MickeyMP.png</image>
+		<marquee>./wheel/MickeyMP.png</marquee>
+		<video>./snap/MickeyMP.mp4</video>
+	</game>
+	<game>
+		<path>./Monkey Jump.mgw</path>
+		<name>Monkey Jump</name>
+		<image>./boxart/Monkey Jump.png</image>
+		<marquee>./wheel/Monkey Jump.png</marquee>
+		<video>./snap/Monkey Jump.mp4</video>
+	</game>
+	<game>
+		<path>./Monkey.mgw</path>
+		<name>Monkey</name>
+		<image>./boxart/Monkey.png</image>
+		<marquee>./wheel/Monkey.png</marquee>
+		<video>./snap/Monkey.mp4</video>
+	</game>
+	<game>
+		<path>./Motor Cross.mgw</path>
+		<name>Motor Cross</name>
+		<image>./boxart/Motor Cross.png</image>
+		<marquee>./wheel/Motor Cross.png</marquee>
+		<video>./snap/Motor Cross.mp4</video>
+	</game>
+	<game>
+		<path>./Pac Man.mgw</path>
+		<name>Pac Man</name>
+		<image>./boxart/Pac Man.png</image>
+		<marquee>./wheel/Pac Man.png</marquee>
+		<video>./snap/Pac Man.mp4</video>
+	</game>
+	<game>
+		<path>./Pancake.mgw</path>
+		<name>Pancake</name>
+		<image>./boxart/Pancake.png</image>
+		<marquee>./wheel/Pancake.png</marquee>
+		<video>./snap/Pancake.mp4</video>
+	</game>
+	<game>
+		<path>./Parachut.mgw</path>
+		<name>Parachut</name>
+		<image>./boxart/Parachut.png</image>
+		<marquee>./wheel/Parachut.png</marquee>
+		<video>./snap/Parachut.mp4</video>
+	</game>
+	<game>
+		<path>./Pirate.mgw</path>
+		<name>Pirate</name>
+		<image>./boxart/Pirate.png</image>
+		<marquee>./wheel/Pirate.png</marquee>
+		<video>./snap/Pirate.mp4</video>
+	</game>
+	<game>
+		<path>./Roller Coaster.mgw</path>
+		<name>Roller Coaster</name>
+		<image>./boxart/Roller Coaster.png</image>
+		<marquee>./wheel/Roller Coaster.png</marquee>
+		<video>./snap/Roller Coaster.mp4</video>
+	</game>
+	<game>
+		<path>./Safari.mgw</path>
+		<name>Safari</name>
+		<image>./boxart/Safari.png</image>
+		<marquee>./wheel/Safari.png</marquee>
+		<video>./snap/Safari.mp4</video>
+	</game>
+	<game>
+		<path>./Sleep Walker.mgw</path>
+		<name>Sleep Walker</name>
+		<image>./boxart/Sleep Walker.png</image>
+		<marquee>./wheel/Sleep Walker.png</marquee>
+		<video>./snap/Sleep Walker.mp4</video>
+	</game>
+	<game>
+		<path>./Snoopy Tennis.mgw</path>
+		<name>Snoopy Tennis</name>
+		<image>./boxart/Snoopy Tennis.png</image>
+		<marquee>./wheel/Snoopy Tennis.png</marquee>
+		<video>./snap/Snoopy Tennis.mp4</video>
+	</game>
+	<game>
+		<path>./Snoopy.mgw</path>
+		<name>Snoopy</name>
+		<image>./boxart/Snoopy.png</image>
+		<marquee>./wheel/Snoopy.png</marquee>
+		<video>./snap/Snoopy.mp4</video>
+	</game>
+	<game>
+		<path>./SnoopyPS.mgw</path>
+		<name>SnoopyPS</name>
+		<image>./boxart/SnoopyPS.png</image>
+		<marquee>./wheel/SnoopyPS.png</marquee>
+		<video>./snap/SnoopyPS.mp4</video>
+	</game>
+	<game>
+		<path>./Sub Chase.mgw</path>
+		<name>Sub Chase</name>
+		<image>./boxart/Sub Chase.png</image>
+		<marquee>./wheel/Sub Chase.png</marquee>
+		<video>./snap/Sub Chase.mp4</video>
+	</game>
+	<game>
+		<path>./Tennis Menace.mgw</path>
+		<name>Tennis Menace</name>
+		<image>./boxart/Tennis Menace.png</image>
+		<marquee>./wheel/Tennis Menace.png</marquee>
+		<video>./snap/Tennis Menace.mp4</video>
+	</game>
+	<game>
+		<path>./Terrahawks The Battlehawk.mgw</path>
+		<name>Terrahawks The Battlehawk</name>
+		<image>./boxart/Terrahawks The Battlehawk.png</image>
+		<marquee>./wheel/Terrahawks The Battlehawk.png</marquee>
+		<video>./snap/Terrahawks The Battlehawk.mp4</video>
+	</game>
+	<game>
+		<path>./Tron.mgw</path>
+		<name>Tron</name>
+		<image>./boxart/Tron.png</image>
+		<marquee>./wheel/Tron.png</marquee>
+		<video>./snap/Tron.mp4</video>
+	</game>
+	<game>
+		<path>./Turtle Bridge.mgw</path>
+		<name>Turtle Bridge</name>
+		<image>./boxart/Turtle Bridge.png</image>
+		<marquee>./wheel/Turtle Bridge.png</marquee>
+		<video>./snap/Turtle Bridge.mp4</video>
+	</game>
+	<game>
+		<path>./Wild Man Jump.mgw</path>
+		<name>Wild Man Jump</name>
+		<image>./boxart/Wild Man Jump.png</image>
+		<marquee>./wheel/Wild Man Jump.png</marquee>
+		<video>./snap/Wild Man Jump.mp4</video>
+	</game>
+</gameList>

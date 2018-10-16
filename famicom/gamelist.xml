@@ -1,0 +1,2712 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./1991 Du Ma Racing.nes</path>
+		<name>1991 Du Ma Racing</name>
+		<image>./boxart/1991 Du Ma Racing.png</image>
+		<marquee>./wheel/1991 Du Ma Racing.png</marquee>
+		<video>./snap/1991 Du Ma Racing.mp4</video>
+	</game>
+	<game>
+		<path>./4 Nin uchi Mahjong.nes</path>
+		<name>4 Nin uchi Mahjong</name>
+		<image>./boxart/4 Nin uchi Mahjong.png</image>
+		<marquee>./wheel/4 Nin uchi Mahjong.png</marquee>
+		<video>./snap/4 Nin uchi Mahjong.mp4</video>
+	</game>
+	<game>
+		<path>./Advanced Dungeons & Dragons Dragons of Flame.nes</path>
+		<name>Advanced Dungeons & Dragons Dragons of Flame</name>
+		<image>./boxart/Advanced Dungeons & Dragons Dragons of Flame.png</image>
+		<marquee>./wheel/Advanced Dungeons & Dragons Dragons of Flame.png</marquee>
+		<video>./snap/Advanced Dungeons & Dragons Dragons of Flame.mp4</video>
+	</game>
+	<game>
+		<path>./Airwolf.nes</path>
+		<name>Airwolf</name>
+		<image>./boxart/Airwolf.png</image>
+		<marquee>./wheel/Airwolf.png</marquee>
+		<video>./snap/Airwolf.mp4</video>
+	</game>
+	<game>
+		<path>./Akira.nes</path>
+		<name>Akira</name>
+		<image>./boxart/Akira.png</image>
+		<marquee>./wheel/Akira.png</marquee>
+		<video>./snap/Akira.mp4</video>
+	</game>
+	<game>
+		<path>./Akumajou Densetsu.nes</path>
+		<name>Akumajou Densetsu</name>
+		<image>./boxart/Akumajou Densetsu.png</image>
+		<marquee>./wheel/Akumajou Densetsu.png</marquee>
+		<video>./snap/Akumajou Densetsu.mp4</video>
+	</game>
+	<game>
+		<path>./Akumajou Special Boku Dracula kun.nes</path>
+		<name>Akumajou Special Boku Dracula kun</name>
+		<image>./boxart/Akumajou Special Boku Dracula kun.png</image>
+		<marquee>./wheel/Akumajou Special Boku Dracula kun.png</marquee>
+		<video>./snap/Akumajou Special Boku Dracula kun.mp4</video>
+	</game>
+	<game>
+		<path>./American Dream.nes</path>
+		<name>American Dream</name>
+		<image>./boxart/American Dream.png</image>
+		<marquee>./wheel/American Dream.png</marquee>
+		<video>./snap/American Dream.mp4</video>
+	</game>
+	<game>
+		<path>./Ankoku Shinwa Yamato Takeru Densetsu.nes</path>
+		<name>Ankoku Shinwa Yamato Takeru Densetsu</name>
+		<image>./boxart/Ankoku Shinwa Yamato Takeru Densetsu.png</image>
+		<marquee>./wheel/Ankoku Shinwa Yamato Takeru Densetsu.png</marquee>
+		<video>./snap/Ankoku Shinwa Yamato Takeru Densetsu.mp4</video>
+	</game>
+	<game>
+		<path>./Arctic.nes</path>
+		<name>Arctic</name>
+		<image>./boxart/Arctic.png</image>
+		<marquee>./wheel/Arctic.png</marquee>
+		<video>./snap/Arctic.mp4</video>
+	</game>
+	<game>
+		<path>./Argus.nes</path>
+		<name>Argus</name>
+		<image>./boxart/Argus.png</image>
+		<marquee>./wheel/Argus.png</marquee>
+		<video>./snap/Argus.mp4</video>
+	</game>
+	<game>
+		<path>./Arkanoid II.nes</path>
+		<name>Arkanoid II</name>
+		<image>./boxart/Arkanoid II.png</image>
+		<marquee>./wheel/Arkanoid II.png</marquee>
+		<video>./snap/Arkanoid II.mp4</video>
+	</game>
+	<game>
+		<path>./Armadillo.nes</path>
+		<name>Armadillo</name>
+		<image>./boxart/Armadillo.png</image>
+		<marquee>./wheel/Armadillo.png</marquee>
+		<video>./snap/Armadillo.mp4</video>
+	</game>
+	<game>
+		<path>./Astro Fang Super Machine.nes</path>
+		<name>Astro Fang Super Machine</name>
+		<image>./boxart/Astro Fang Super Machine.png</image>
+		<marquee>./wheel/Astro Fang Super Machine.png</marquee>
+		<video>./snap/Astro Fang Super Machine.mp4</video>
+	</game>
+	<game>
+		<path>./Astro Robo Sasa.nes</path>
+		<name>Astro Robo Sasa</name>
+		<image>./boxart/Astro Robo Sasa.png</image>
+		<marquee>./wheel/Astro Robo Sasa.png</marquee>
+		<video>./snap/Astro Robo Sasa.mp4</video>
+	</game>
+	<game>
+		<path>./Atlantis no Nazo.nes</path>
+		<name>Atlantis no Nazo</name>
+		<image>./boxart/Atlantis no Nazo.png</image>
+		<marquee>./wheel/Atlantis no Nazo.png</marquee>
+		<video>./snap/Atlantis no Nazo.mp4</video>
+	</game>
+	<game>
+		<path>./Attack Animal Gakuen.nes</path>
+		<name>Attack Animal Gakuen</name>
+		<image>./boxart/Attack Animal Gakuen.png</image>
+		<marquee>./wheel/Attack Animal Gakuen.png</marquee>
+		<video>./snap/Attack Animal Gakuen.mp4</video>
+	</game>
+	<game>
+		<path>./B Wings.nes</path>
+		<name>B Wings</name>
+		<image>./boxart/B Wings.png</image>
+		<marquee>./wheel/B Wings.png</marquee>
+		<video>./snap/B Wings.mp4</video>
+	</game>
+	<game>
+		<path>./Babel no Tou.nes</path>
+		<name>Babel no Tou</name>
+		<image>./boxart/Babel no Tou.png</image>
+		<marquee>./wheel/Babel no Tou.png</marquee>
+		<video>./snap/Babel no Tou.mp4</video>
+	</game>
+	<game>
+		<path>./Ballblazer.nes</path>
+		<name>Ballblazer</name>
+		<image>./boxart/Ballblazer.png</image>
+		<marquee>./wheel/Ballblazer.png</marquee>
+		<video>./snap/Ballblazer.mp4</video>
+	</game>
+	<game>
+		<path>./Baltron.nes</path>
+		<name>Baltron</name>
+		<image>./boxart/Baltron.png</image>
+		<marquee>./wheel/Baltron.png</marquee>
+		<video>./snap/Baltron.mp4</video>
+	</game>
+	<game>
+		<path>./Banana.nes</path>
+		<name>Banana</name>
+		<image>./boxart/Banana.png</image>
+		<marquee>./wheel/Banana.png</marquee>
+		<video>./snap/Banana.mp4</video>
+	</game>
+	<game>
+		<path>./Bats & Terry.nes</path>
+		<name>Bats & Terry</name>
+		<image>./boxart/Bats & Terry.png</image>
+		<marquee>./wheel/Bats & Terry.png</marquee>
+		<video>./snap/Bats & Terry.mp4</video>
+	</game>
+	<game>
+		<path>./Battle City.nes</path>
+		<name>Battle City</name>
+		<image>./boxart/Battle City.png</image>
+		<marquee>./wheel/Battle City.png</marquee>
+		<video>./snap/Battle City.mp4</video>
+	</game>
+	<game>
+		<path>./Battle Storm.nes</path>
+		<name>Battle Storm</name>
+		<image>./boxart/Battle Storm.png</image>
+		<marquee>./wheel/Battle Storm.png</marquee>
+		<video>./snap/Battle Storm.mp4</video>
+	</game>
+	<game>
+		<path>./Binary Land.nes</path>
+		<name>Binary Land</name>
+		<image>./boxart/Binary Land.png</image>
+		<marquee>./wheel/Binary Land.png</marquee>
+		<video>./snap/Binary Land.mp4</video>
+	</game>
+	<game>
+		<path>./Bio Force Ape.nes</path>
+		<name>Bio Force Ape</name>
+		<image>./boxart/Bio Force Ape.png</image>
+		<marquee>./wheel/Bio Force Ape.png</marquee>
+		<video>./snap/Bio Force Ape.mp4</video>
+	</game>
+	<game>
+		<path>./Bio Miracle Bokutte Upa.nes</path>
+		<name>Bio Miracle Bokutte Upa</name>
+		<image>./boxart/Bio Miracle Bokutte Upa.png</image>
+		<marquee>./wheel/Bio Miracle Bokutte Upa.png</marquee>
+		<video>./snap/Bio Miracle Bokutte Upa.mp4</video>
+	</game>
+	<game>
+		<path>./Bio Senshi Dan Increaser Tono Tatakai.nes</path>
+		<name>Bio Senshi Dan Increaser Tono Tatakai</name>
+		<image>./boxart/Bio Senshi Dan Increaser Tono Tatakai.png</image>
+		<marquee>./wheel/Bio Senshi Dan Increaser Tono Tatakai.png</marquee>
+		<video>./snap/Bio Senshi Dan Increaser Tono Tatakai.mp4</video>
+	</game>
+	<game>
+		<path>./Bird Week.nes</path>
+		<name>Bird Week</name>
+		<image>./boxart/Bird Week.png</image>
+		<marquee>./wheel/Bird Week.png</marquee>
+		<video>./snap/Bird Week.mp4</video>
+	</game>
+	<game>
+		<path>./Blodia Land Puzzle Quest.nes</path>
+		<name>Blodia Land Puzzle Quest</name>
+		<image>./boxart/Blodia Land Puzzle Quest.png</image>
+		<marquee>./wheel/Blodia Land Puzzle Quest.png</marquee>
+		<video>./snap/Blodia Land Puzzle Quest.mp4</video>
+	</game>
+	<game>
+		<path>./Bloody Warriors Shan Go no Gyakushuu.nes</path>
+		<name>Bloody Warriors Shan Go no Gyakushuu</name>
+		<image>./boxart/Bloody Warriors Shan Go no Gyakushuu.png</image>
+		<marquee>./wheel/Bloody Warriors Shan Go no Gyakushuu.png</marquee>
+		<video>./snap/Bloody Warriors Shan Go no Gyakushuu.mp4</video>
+	</game>
+	<game>
+		<path>./Bokosuka Wars.nes</path>
+		<name>Bokosuka Wars</name>
+		<image>./boxart/Bokosuka Wars.png</image>
+		<marquee>./wheel/Bokosuka Wars.png</marquee>
+		<video>./snap/Bokosuka Wars.mp4</video>
+	</game>
+	<game>
+		<path>./Booby Kids.nes</path>
+		<name>Booby Kids</name>
+		<image>./boxart/Booby Kids.png</image>
+		<marquee>./wheel/Booby Kids.png</marquee>
+		<video>./snap/Booby Kids.mp4</video>
+	</game>
+	<game>
+		<path>./Cadillac.nes</path>
+		<name>Cadillac</name>
+		<image>./boxart/Cadillac.png</image>
+		<marquee>./wheel/Cadillac.png</marquee>
+		<video>./snap/Cadillac.mp4</video>
+	</game>
+	<game>
+		<path>./Captain Silver.nes</path>
+		<name>Captain Silver</name>
+		<image>./boxart/Captain Silver.png</image>
+		<marquee>./wheel/Captain Silver.png</marquee>
+		<video>./snap/Captain Silver.mp4</video>
+	</game>
+	<game>
+		<path>./Captain Tsubasa Vol. II Super Striker.nes</path>
+		<name>Captain Tsubasa Vol. II Super Striker</name>
+		<image>./boxart/Captain Tsubasa Vol. II Super Striker.png</image>
+		<marquee>./wheel/Captain Tsubasa Vol. II Super Striker.png</marquee>
+		<video>./snap/Captain Tsubasa Vol. II Super Striker.mp4</video>
+	</game>
+	<game>
+		<path>./Castle Quest.nes</path>
+		<name>Castle Quest</name>
+		<image>./boxart/Castle Quest.png</image>
+		<marquee>./wheel/Castle Quest.png</marquee>
+		<video>./snap/Castle Quest.mp4</video>
+	</game>
+	<game>
+		<path>./Chackn Pop.nes</path>
+		<name>Chackn Pop</name>
+		<image>./boxart/Chackn Pop.png</image>
+		<marquee>./wheel/Chackn Pop.png</marquee>
+		<video>./snap/Chackn Pop.mp4</video>
+	</game>
+	<game>
+		<path>./Challenger.nes</path>
+		<name>Challenger</name>
+		<image>./boxart/Challenger.png</image>
+		<marquee>./wheel/Challenger.png</marquee>
+		<video>./snap/Challenger.mp4</video>
+	</game>
+	<game>
+		<path>./Championship Lode Runner.nes</path>
+		<name>Championship Lode Runner</name>
+		<image>./boxart/Championship Lode Runner.png</image>
+		<marquee>./wheel/Championship Lode Runner.png</marquee>
+		<video>./snap/Championship Lode Runner.mp4</video>
+	</game>
+	<game>
+		<path>./Chaos World.nes</path>
+		<name>Chaos World</name>
+		<image>./boxart/Chaos World.png</image>
+		<marquee>./wheel/Chaos World.png</marquee>
+		<video>./snap/Chaos World.mp4</video>
+	</game>
+	<game>
+		<path>./Chess Academy.nes</path>
+		<name>Chess Academy</name>
+		<image>./boxart/Chess Academy.png</image>
+		<marquee>./wheel/Chess Academy.png</marquee>
+		<video>./snap/Chess Academy.mp4</video>
+	</game>
+	<game>
+		<path>./Chester Field Ankoku Shin e no Chousen.nes</path>
+		<name>Chester Field Ankoku Shin e no Chousen</name>
+		<image>./boxart/Chester Field Ankoku Shin e no Chousen.png</image>
+		<marquee>./wheel/Chester Field Ankoku Shin e no Chousen.png</marquee>
+		<video>./snap/Chester Field Ankoku Shin e no Chousen.mp4</video>
+	</game>
+	<game>
+		<path>./Chiisana Obake Acchi Socchi Kocchi.nes</path>
+		<name>Chiisana Obake Acchi Socchi Kocchi</name>
+		<image>./boxart/Chiisana Obake Acchi Socchi Kocchi.png</image>
+		<marquee>./wheel/Chiisana Obake Acchi Socchi Kocchi.png</marquee>
+		<video>./snap/Chiisana Obake Acchi Socchi Kocchi.mp4</video>
+	</game>
+	<game>
+		<path>./Cho Jiku Yosai Macross.nes</path>
+		<name>Cho Jiku Yosai Macross</name>
+		<image>./boxart/Cho Jiku Yosai Macross.png</image>
+		<marquee>./wheel/Cho Jiku Yosai Macross.png</marquee>
+		<video>./snap/Cho Jiku Yosai Macross.mp4</video>
+	</game>
+	<game>
+		<path>./Choplifter.nes</path>
+		<name>Choplifter</name>
+		<image>./boxart/Choplifter.png</image>
+		<marquee>./wheel/Choplifter.png</marquee>
+		<video>./snap/Choplifter.mp4</video>
+	</game>
+	<game>
+		<path>./Choujin Sentai Jetman.nes</path>
+		<name>Choujin Sentai Jetman</name>
+		<image>./boxart/Choujin Sentai Jetman.png</image>
+		<marquee>./wheel/Choujin Sentai Jetman.png</marquee>
+		<video>./snap/Choujin Sentai Jetman.mp4</video>
+	</game>
+	<game>
+		<path>./Choujinrou Senki Warwolf.nes</path>
+		<name>Choujinrou Senki Warwolf</name>
+		<image>./boxart/Choujinrou Senki Warwolf.png</image>
+		<marquee>./wheel/Choujinrou Senki Warwolf.png</marquee>
+		<video>./snap/Choujinrou Senki Warwolf.mp4</video>
+	</game>
+	<game>
+		<path>./Chuuka Taisen.nes</path>
+		<name>Chuuka Taisen</name>
+		<image>./boxart/Chuuka Taisen.png</image>
+		<marquee>./wheel/Chuuka Taisen.png</marquee>
+		<video>./snap/Chuuka Taisen.mp4</video>
+	</game>
+	<game>
+		<path>./Circus Charlie.nes</path>
+		<name>Circus Charlie</name>
+		<image>./boxart/Circus Charlie.png</image>
+		<marquee>./wheel/Circus Charlie.png</marquee>
+		<video>./snap/Circus Charlie.mp4</video>
+	</game>
+	<game>
+		<path>./Cocoron.nes</path>
+		<name>Cocoron</name>
+		<image>./boxart/Cocoron.png</image>
+		<marquee>./wheel/Cocoron.png</marquee>
+		<video>./snap/Cocoron.mp4</video>
+	</game>
+	<game>
+		<path>./Columbus Ougon no Yoake.nes</path>
+		<name>Columbus Ougon no Yoake</name>
+		<image>./boxart/Columbus Ougon no Yoake.png</image>
+		<marquee>./wheel/Columbus Ougon no Yoake.png</marquee>
+		<video>./snap/Columbus Ougon no Yoake.mp4</video>
+	</game>
+	<game>
+		<path>./Contra.nes</path>
+		<name>Contra</name>
+		<image>./boxart/Contra.png</image>
+		<marquee>./wheel/Contra.png</marquee>
+		<video>./snap/Contra.mp4</video>
+	</game>
+	<game>
+		<path>./Cosmic Epsilon.nes</path>
+		<name>Cosmic Epsilon</name>
+		<image>./boxart/Cosmic Epsilon.png</image>
+		<marquee>./wheel/Cosmic Epsilon.png</marquee>
+		<video>./snap/Cosmic Epsilon.mp4</video>
+	</game>
+	<game>
+		<path>./Cosmo Genesis.nes</path>
+		<name>Cosmo Genesis</name>
+		<image>./boxart/Cosmo Genesis.png</image>
+		<marquee>./wheel/Cosmo Genesis.png</marquee>
+		<video>./snap/Cosmo Genesis.mp4</video>
+	</game>
+	<game>
+		<path>./Cosmo Police Galivan.nes</path>
+		<name>Cosmo Police Galivan</name>
+		<image>./boxart/Cosmo Police Galivan.png</image>
+		<marquee>./wheel/Cosmo Police Galivan.png</marquee>
+		<video>./snap/Cosmo Police Galivan.mp4</video>
+	</game>
+	<game>
+		<path>./Crazy Climber.nes</path>
+		<name>Crazy Climber</name>
+		<image>./boxart/Crazy Climber.png</image>
+		<marquee>./wheel/Crazy Climber.png</marquee>
+		<video>./snap/Crazy Climber.mp4</video>
+	</game>
+	<game>
+		<path>./Crisis Force.nes</path>
+		<name>Crisis Force</name>
+		<image>./boxart/Crisis Force.png</image>
+		<marquee>./wheel/Crisis Force.png</marquee>
+		<video>./snap/Crisis Force.mp4</video>
+	</game>
+	<game>
+		<path>./Cycle Race Road Man.nes</path>
+		<name>Cycle Race Road Man</name>
+		<image>./boxart/Cycle Race Road Man.png</image>
+		<marquee>./wheel/Cycle Race Road Man.png</marquee>
+		<video>./snap/Cycle Race Road Man.mp4</video>
+	</game>
+	<game>
+		<path>./Dai 2 Ji Super Robot Taisen.nes</path>
+		<name>Dai 2 Ji Super Robot Taisen</name>
+		<image>./boxart/Dai 2 Ji Super Robot Taisen.png</image>
+		<marquee>./wheel/Dai 2 Ji Super Robot Taisen.png</marquee>
+		<video>./snap/Dai 2 Ji Super Robot Taisen.mp4</video>
+	</game>
+	<game>
+		<path>./Dai Meiro Meikyuu no Tatsujin.nes</path>
+		<name>Dai Meiro Meikyuu no Tatsujin</name>
+		<image>./boxart/Dai Meiro Meikyuu no Tatsujin.png</image>
+		<marquee>./wheel/Dai Meiro Meikyuu no Tatsujin.png</marquee>
+		<video>./snap/Dai Meiro Meikyuu no Tatsujin.mp4</video>
+	</game>
+	<game>
+		<path>./Daisenryaku.nes</path>
+		<name>Daisenryaku</name>
+		<image>./boxart/Daisenryaku.png</image>
+		<marquee>./wheel/Daisenryaku.png</marquee>
+		<video>./snap/Daisenryaku.mp4</video>
+	</game>
+	<game>
+		<path>./Daiva Story 6 Imperial of Nirsartia.nes</path>
+		<name>Daiva Story 6 Imperial of Nirsartia</name>
+		<image>./boxart/Daiva Story 6 Imperial of Nirsartia.png</image>
+		<marquee>./wheel/Daiva Story 6 Imperial of Nirsartia.png</marquee>
+		<video>./snap/Daiva Story 6 Imperial of Nirsartia.mp4</video>
+	</game>
+	<game>
+		<path>./Dark Lord.nes</path>
+		<name>Dark Lord</name>
+		<image>./boxart/Dark Lord.png</image>
+		<marquee>./wheel/Dark Lord.png</marquee>
+		<video>./snap/Dark Lord.mp4</video>
+	</game>
+	<game>
+		<path>./Dash Yarou.nes</path>
+		<name>Dash Yarou</name>
+		<image>./boxart/Dash Yarou.png</image>
+		<marquee>./wheel/Dash Yarou.png</marquee>
+		<video>./snap/Dash Yarou.mp4</video>
+	</game>
+	<game>
+		<path>./Deblock.nes</path>
+		<name>Deblock</name>
+		<image>./boxart/Deblock.png</image>
+		<marquee>./wheel/Deblock.png</marquee>
+		<video>./snap/Deblock.mp4</video>
+	</game>
+	<game>
+		<path>./Deep Dungeon III Yuushi heno Tabi.nes</path>
+		<name>Deep Dungeon III Yuushi heno Tabi</name>
+		<image>./boxart/Deep Dungeon III Yuushi heno Tabi.png</image>
+		<marquee>./wheel/Deep Dungeon III Yuushi heno Tabi.png</marquee>
+		<video>./snap/Deep Dungeon III Yuushi heno Tabi.mp4</video>
+	</game>
+	<game>
+		<path>./Deep Dungeon IV Kuro no Youjutsushi.nes</path>
+		<name>Deep Dungeon IV Kuro no Youjutsushi</name>
+		<image>./boxart/Deep Dungeon IV Kuro no Youjutsushi.png</image>
+		<marquee>./wheel/Deep Dungeon IV Kuro no Youjutsushi.png</marquee>
+		<video>./snap/Deep Dungeon IV Kuro no Youjutsushi.mp4</video>
+	</game>
+	<game>
+		<path>./Devil Man.nes</path>
+		<name>Devil Man</name>
+		<image>./boxart/Devil Man.png</image>
+		<marquee>./wheel/Devil Man.png</marquee>
+		<video>./snap/Devil Man.mp4</video>
+	</game>
+	<game>
+		<path>./Dezaemon.nes</path>
+		<name>Dezaemon</name>
+		<image>./boxart/Dezaemon.png</image>
+		<marquee>./wheel/Dezaemon.png</marquee>
+		<video>./snap/Dezaemon.mp4</video>
+	</game>
+	<game>
+		<path>./Dig Dug.nes</path>
+		<name>Dig Dug</name>
+		<image>./boxart/Dig Dug.png</image>
+		<marquee>./wheel/Dig Dug.png</marquee>
+		<video>./snap/Dig Dug.mp4</video>
+	</game>
+	<game>
+		<path>./Digital Devil Monogatari Megami Tensei.nes</path>
+		<name>Digital Devil Monogatari Megami Tensei</name>
+		<image>./boxart/Digital Devil Monogatari Megami Tensei.png</image>
+		<marquee>./wheel/Digital Devil Monogatari Megami Tensei.png</marquee>
+		<video>./snap/Digital Devil Monogatari Megami Tensei.mp4</video>
+	</game>
+	<game>
+		<path>./Don Doko Don 2.nes</path>
+		<name>Don Doko Don 2</name>
+		<image>./boxart/Don Doko Don 2.png</image>
+		<marquee>./wheel/Don Doko Don 2.png</marquee>
+		<video>./snap/Don Doko Don 2.mp4</video>
+	</game>
+	<game>
+		<path>./Don Doko Don.nes</path>
+		<name>Don Doko Don</name>
+		<image>./boxart/Don Doko Don.png</image>
+		<marquee>./wheel/Don Doko Don.png</marquee>
+		<video>./snap/Don Doko Don.mp4</video>
+	</game>
+	<game>
+		<path>./Donald Land.nes</path>
+		<name>Donald Land</name>
+		<image>./boxart/Donald Land.png</image>
+		<marquee>./wheel/Donald Land.png</marquee>
+		<video>./snap/Donald Land.mp4</video>
+	</game>
+	<game>
+		<path>./Door Door.nes</path>
+		<name>Door Door</name>
+		<image>./boxart/Door Door.png</image>
+		<marquee>./wheel/Door Door.png</marquee>
+		<video>./snap/Door Door.mp4</video>
+	</game>
+	<game>
+		<path>./Doraemon Giga Zombie no Gyakushuu.nes</path>
+		<name>Doraemon Giga Zombie no Gyakushuu</name>
+		<image>./boxart/Doraemon Giga Zombie no Gyakushuu.png</image>
+		<marquee>./wheel/Doraemon Giga Zombie no Gyakushuu.png</marquee>
+		<video>./snap/Doraemon Giga Zombie no Gyakushuu.mp4</video>
+	</game>
+	<game>
+		<path>./Doraemon.nes</path>
+		<name>Doraemon</name>
+		<image>./boxart/Doraemon.png</image>
+		<marquee>./wheel/Doraemon.png</marquee>
+		<video>./snap/Doraemon.mp4</video>
+	</game>
+	<game>
+		<path>./Double Moon Densetsu.nes</path>
+		<name>Double Moon Densetsu</name>
+		<image>./boxart/Double Moon Densetsu.png</image>
+		<marquee>./wheel/Double Moon Densetsu.png</marquee>
+		<video>./snap/Double Moon Densetsu.mp4</video>
+	</game>
+	<game>
+		<path>./Dough Boy.nes</path>
+		<name>Dough Boy</name>
+		<image>./boxart/Dough Boy.png</image>
+		<marquee>./wheel/Dough Boy.png</marquee>
+		<video>./snap/Dough Boy.mp4</video>
+	</game>
+	<game>
+		<path>./Downtown Special Kunio kun no Jidaigeki Da yo Zenin Shuugou.nes</path>
+		<name>Downtown Special Kunio kun no Jidaigeki Da yo Zenin Shuugou</name>
+		<image>./boxart/Downtown Special Kunio kun no Jidaigeki Da yo Zenin Shuugou.png</image>
+		<marquee>./wheel/Downtown Special Kunio kun no Jidaigeki Da yo Zenin Shuugou.png</marquee>
+		<video>./snap/Downtown Special Kunio kun no Jidaigeki Da yo Zenin Shuugou.mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Ball Daimaou Fukkatsu.nes</path>
+		<name>Dragon Ball Daimaou Fukkatsu</name>
+		<image>./boxart/Dragon Ball Daimaou Fukkatsu.png</image>
+		<marquee>./wheel/Dragon Ball Daimaou Fukkatsu.png</marquee>
+		<video>./snap/Dragon Ball Daimaou Fukkatsu.mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Ball Shenron no Nazo.nes</path>
+		<name>Dragon Ball Shenron no Nazo</name>
+		<image>./boxart/Dragon Ball Shenron no Nazo.png</image>
+		<marquee>./wheel/Dragon Ball Shenron no Nazo.png</marquee>
+		<video>./snap/Dragon Ball Shenron no Nazo.mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Ball Z Gaiden Saiya Jin Zetsumetsu Keikaku.nes</path>
+		<name>Dragon Ball Z Gaiden Saiya Jin Zetsumetsu Keikaku</name>
+		<image>./boxart/Dragon Ball Z Gaiden Saiya Jin Zetsumetsu Keikaku.png</image>
+		<marquee>./wheel/Dragon Ball Z Gaiden Saiya Jin Zetsumetsu Keikaku.png</marquee>
+		<video>./snap/Dragon Ball Z Gaiden Saiya Jin Zetsumetsu Keikaku.mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Ball Z III Ressen Jinzou Ningen.nes</path>
+		<name>Dragon Ball Z III Ressen Jinzou Ningen</name>
+		<image>./boxart/Dragon Ball Z III Ressen Jinzou Ningen.png</image>
+		<marquee>./wheel/Dragon Ball Z III Ressen Jinzou Ningen.png</marquee>
+		<video>./snap/Dragon Ball Z III Ressen Jinzou Ningen.mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Ball Z Kyoushuu Saiya Jin.nes</path>
+		<name>Dragon Ball Z Kyoushuu Saiya Jin</name>
+		<image>./boxart/Dragon Ball Z Kyoushuu Saiya Jin.png</image>
+		<marquee>./wheel/Dragon Ball Z Kyoushuu Saiya Jin.png</marquee>
+		<video>./snap/Dragon Ball Z Kyoushuu Saiya Jin.mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Buster II Yami no Fuuin.nes</path>
+		<name>Dragon Buster II Yami no Fuuin</name>
+		<image>./boxart/Dragon Buster II Yami no Fuuin.png</image>
+		<marquee>./wheel/Dragon Buster II Yami no Fuuin.png</marquee>
+		<video>./snap/Dragon Buster II Yami no Fuuin.mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Buster.nes</path>
+		<name>Dragon Buster</name>
+		<image>./boxart/Dragon Buster.png</image>
+		<marquee>./wheel/Dragon Buster.png</marquee>
+		<video>./snap/Dragon Buster.mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Knife.nes</path>
+		<name>Dragon Knife</name>
+		<image>./boxart/Dragon Knife.png</image>
+		<marquee>./wheel/Dragon Knife.png</marquee>
+		<video>./snap/Dragon Knife.mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Ninja.nes</path>
+		<name>Dragon Ninja</name>
+		<image>./boxart/Dragon Ninja.png</image>
+		<marquee>./wheel/Dragon Ninja.png</marquee>
+		<video>./snap/Dragon Ninja.mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Scroll Yomigaerishi Maryuu.nes</path>
+		<name>Dragon Scroll Yomigaerishi Maryuu</name>
+		<image>./boxart/Dragon Scroll Yomigaerishi Maryuu.png</image>
+		<marquee>./wheel/Dragon Scroll Yomigaerishi Maryuu.png</marquee>
+		<video>./snap/Dragon Scroll Yomigaerishi Maryuu.mp4</video>
+	</game>
+	<game>
+		<path>./Dream Master.nes</path>
+		<name>Dream Master</name>
+		<image>./boxart/Dream Master.png</image>
+		<marquee>./wheel/Dream Master.png</marquee>
+		<video>./snap/Dream Master.mp4</video>
+	</game>
+	<game>
+		<path>./Dynamite Bowl.nes</path>
+		<name>Dynamite Bowl</name>
+		<image>./boxart/Dynamite Bowl.png</image>
+		<marquee>./wheel/Dynamite Bowl.png</marquee>
+		<video>./snap/Dynamite Bowl.mp4</video>
+	</game>
+	<game>
+		<path>./Eggerland Meikyuu no Fukkatsu.nes</path>
+		<name>Eggerland Meikyuu no Fukkatsu</name>
+		<image>./boxart/Eggerland Meikyuu no Fukkatsu.png</image>
+		<marquee>./wheel/Eggerland Meikyuu no Fukkatsu.png</marquee>
+		<video>./snap/Eggerland Meikyuu no Fukkatsu.mp4</video>
+	</game>
+	<game>
+		<path>./Egypt.nes</path>
+		<name>Egypt</name>
+		<image>./boxart/Egypt.png</image>
+		<marquee>./wheel/Egypt.png</marquee>
+		<video>./snap/Egypt.mp4</video>
+	</game>
+	<game>
+		<path>./Elnark no Zaihou.nes</path>
+		<name>Elnark no Zaihou</name>
+		<image>./boxart/Elnark no Zaihou.png</image>
+		<marquee>./wheel/Elnark no Zaihou.png</marquee>
+		<video>./snap/Elnark no Zaihou.mp4</video>
+	</game>
+	<game>
+		<path>./Elysion.nes</path>
+		<name>Elysion</name>
+		<image>./boxart/Elysion.png</image>
+		<marquee>./wheel/Elysion.png</marquee>
+		<video>./snap/Elysion.mp4</video>
+	</game>
+	<game>
+		<path>./Esper Bouken Tai.nes</path>
+		<name>Esper Bouken Tai</name>
+		<image>./boxart/Esper Bouken Tai.png</image>
+		<marquee>./wheel/Esper Bouken Tai.png</marquee>
+		<video>./snap/Esper Bouken Tai.mp4</video>
+	</game>
+	<game>
+		<path>./Esper Dream 2 Aratanaru Tatakai.nes</path>
+		<name>Esper Dream 2 Aratanaru Tatakai</name>
+		<image>./boxart/Esper Dream 2 Aratanaru Tatakai.png</image>
+		<marquee>./wheel/Esper Dream 2 Aratanaru Tatakai.png</marquee>
+		<video>./snap/Esper Dream 2 Aratanaru Tatakai.mp4</video>
+	</game>
+	<game>
+		<path>./Exciting Boxing.nes</path>
+		<name>Exciting Boxing</name>
+		<image>./boxart/Exciting Boxing.png</image>
+		<marquee>./wheel/Exciting Boxing.png</marquee>
+		<video>./snap/Exciting Boxing.mp4</video>
+	</game>
+	<game>
+		<path>./Exciting Rally World Rally Championship.nes</path>
+		<name>Exciting Rally World Rally Championship</name>
+		<image>./boxart/Exciting Rally World Rally Championship.png</image>
+		<marquee>./wheel/Exciting Rally World Rally Championship.png</marquee>
+		<video>./snap/Exciting Rally World Rally Championship.mp4</video>
+	</game>
+	<game>
+		<path>./Exed Exes.nes</path>
+		<name>Exed Exes</name>
+		<image>./boxart/Exed Exes.png</image>
+		<marquee>./wheel/Exed Exes.png</marquee>
+		<video>./snap/Exed Exes.mp4</video>
+	</game>
+	<game>
+		<path>./Exerion.nes</path>
+		<name>Exerion</name>
+		<image>./boxart/Exerion.png</image>
+		<marquee>./wheel/Exerion.png</marquee>
+		<video>./snap/Exerion.mp4</video>
+	</game>
+	<game>
+		<path>./F 1 Race.nes</path>
+		<name>F 1 Race</name>
+		<image>./boxart/F 1 Race.png</image>
+		<marquee>./wheel/F 1 Race.png</marquee>
+		<video>./snap/F 1 Race.mp4</video>
+	</game>
+	<game>
+		<path>./Famicom Wars.nes</path>
+		<name>Famicom Wars</name>
+		<image>./boxart/Famicom Wars.png</image>
+		<marquee>./wheel/Famicom Wars.png</marquee>
+		<video>./snap/Famicom Wars.mp4</video>
+	</game>
+	<game>
+		<path>./Family Jockey.nes</path>
+		<name>Family Jockey</name>
+		<image>./boxart/Family Jockey.png</image>
+		<marquee>./wheel/Family Jockey.png</marquee>
+		<video>./snap/Family Jockey.mp4</video>
+	</game>
+	<game>
+		<path>./Family Tennis.nes</path>
+		<name>Family Tennis</name>
+		<image>./boxart/Family Tennis.png</image>
+		<marquee>./wheel/Family Tennis.png</marquee>
+		<video>./snap/Family Tennis.mp4</video>
+	</game>
+	<game>
+		<path>./Fantasy Zone 2 Opa Opa no Namida.nes</path>
+		<name>Fantasy Zone 2 Opa Opa no Namida</name>
+		<image>./boxart/Fantasy Zone 2 Opa Opa no Namida.png</image>
+		<marquee>./wheel/Fantasy Zone 2 Opa Opa no Namida.png</marquee>
+		<video>./snap/Fantasy Zone 2 Opa Opa no Namida.mp4</video>
+	</game>
+	<game>
+		<path>./Field Combat.nes</path>
+		<name>Field Combat</name>
+		<image>./boxart/Field Combat.png</image>
+		<marquee>./wheel/Field Combat.png</marquee>
+		<video>./snap/Field Combat.mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy II.nes</path>
+		<name>Final Fantasy II</name>
+		<image>./boxart/Final Fantasy II.png</image>
+		<marquee>./wheel/Final Fantasy II.png</marquee>
+		<video>./snap/Final Fantasy II.mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy III.nes</path>
+		<name>Final Fantasy III</name>
+		<image>./boxart/Final Fantasy III.png</image>
+		<marquee>./wheel/Final Fantasy III.png</marquee>
+		<video>./snap/Final Fantasy III.mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy VII.nes</path>
+		<name>Final Fantasy VII</name>
+		<image>./boxart/Final Fantasy VII.png</image>
+		<marquee>./wheel/Final Fantasy VII.png</marquee>
+		<video>./snap/Final Fantasy VII.mp4</video>
+	</game>
+	<game>
+		<path>./Final Lap.nes</path>
+		<name>Final Lap</name>
+		<image>./boxart/Final Lap.png</image>
+		<marquee>./wheel/Final Lap.png</marquee>
+		<video>./snap/Final Lap.mp4</video>
+	</game>
+	<game>
+		<path>./Final Mission.nes</path>
+		<name>Final Mission</name>
+		<image>./boxart/Final Mission.png</image>
+		<marquee>./wheel/Final Mission.png</marquee>
+		<video>./snap/Final Mission.mp4</video>
+	</game>
+	<game>
+		<path>./Fire Emblem Gaiden.nes</path>
+		<name>Fire Emblem Gaiden</name>
+		<image>./boxart/Fire Emblem Gaiden.png</image>
+		<marquee>./wheel/Fire Emblem Gaiden.png</marquee>
+		<video>./snap/Fire Emblem Gaiden.mp4</video>
+	</game>
+	<game>
+		<path>./Fire Emblem.nes</path>
+		<name>Fire Emblem</name>
+		<image>./boxart/Fire Emblem.png</image>
+		<marquee>./wheel/Fire Emblem.png</marquee>
+		<video>./snap/Fire Emblem.mp4</video>
+	</game>
+	<game>
+		<path>./Flappy.nes</path>
+		<name>Flappy</name>
+		<image>./boxart/Flappy.png</image>
+		<marquee>./wheel/Flappy.png</marquee>
+		<video>./snap/Flappy.mp4</video>
+	</game>
+	<game>
+		<path>./Fleet Commander.nes</path>
+		<name>Fleet Commander</name>
+		<image>./boxart/Fleet Commander.png</image>
+		<marquee>./wheel/Fleet Commander.png</marquee>
+		<video>./snap/Fleet Commander.mp4</video>
+	</game>
+	<game>
+		<path>./Flipull An Exciting Cube Game.nes</path>
+		<name>Flipull An Exciting Cube Game</name>
+		<image>./boxart/Flipull An Exciting Cube Game.png</image>
+		<marquee>./wheel/Flipull An Exciting Cube Game.png</marquee>
+		<video>./snap/Flipull An Exciting Cube Game.mp4</video>
+	</game>
+	<game>
+		<path>./Flying Hero.nes</path>
+		<name>Flying Hero</name>
+		<image>./boxart/Flying Hero.png</image>
+		<marquee>./wheel/Flying Hero.png</marquee>
+		<video>./snap/Flying Hero.mp4</video>
+	</game>
+	<game>
+		<path>./Formation Z.nes</path>
+		<name>Formation Z</name>
+		<image>./boxart/Formation Z.png</image>
+		<marquee>./wheel/Formation Z.png</marquee>
+		<video>./snap/Formation Z.mp4</video>
+	</game>
+	<game>
+		<path>./Front Line.nes</path>
+		<name>Front Line</name>
+		<image>./boxart/Front Line.png</image>
+		<marquee>./wheel/Front Line.png</marquee>
+		<video>./snap/Front Line.mp4</video>
+	</game>
+	<game>
+		<path>./Fudou Myouou Den.nes</path>
+		<name>Fudou Myouou Den</name>
+		<image>./boxart/Fudou Myouou Den.png</image>
+		<marquee>./wheel/Fudou Myouou Den.png</marquee>
+		<video>./snap/Fudou Myouou Den.mp4</video>
+	</game>
+	<game>
+		<path>./Fushigi no Umi no Nadia.nes</path>
+		<name>Fushigi no Umi no Nadia</name>
+		<image>./boxart/Fushigi no Umi no Nadia.png</image>
+		<marquee>./wheel/Fushigi no Umi no Nadia.png</marquee>
+		<video>./snap/Fushigi no Umi no Nadia.mp4</video>
+	</game>
+	<game>
+		<path>./Fuzzical Fighter.nes</path>
+		<name>Fuzzical Fighter</name>
+		<image>./boxart/Fuzzical Fighter.png</image>
+		<marquee>./wheel/Fuzzical Fighter.png</marquee>
+		<video>./snap/Fuzzical Fighter.mp4</video>
+	</game>
+	<game>
+		<path>./Galaxian.nes</path>
+		<name>Galaxian</name>
+		<image>./boxart/Galaxian.png</image>
+		<marquee>./wheel/Galaxian.png</marquee>
+		<video>./snap/Galaxian.mp4</video>
+	</game>
+	<game>
+		<path>./Game Party.nes</path>
+		<name>Game Party</name>
+		<image>./boxart/Game Party.png</image>
+		<marquee>./wheel/Game Party.png</marquee>
+		<video>./snap/Game Party.mp4</video>
+	</game>
+	<game>
+		<path>./gamelist.xml</path>
+		<name>gamelist</name>
+		<image>./boxart/gamelist.png</image>
+		<marquee>./wheel/gamelist.png</marquee>
+		<video>./snap/gamelist.mp4</video>
+	</game>
+	<game>
+		<path>./Ganbare Goemon 2.nes</path>
+		<name>Ganbare Goemon 2</name>
+		<image>./boxart/Ganbare Goemon 2.png</image>
+		<marquee>./wheel/Ganbare Goemon 2.png</marquee>
+		<video>./snap/Ganbare Goemon 2.mp4</video>
+	</game>
+	<game>
+		<path>./Ganbare Goemon Karakuri Douchuu.nes</path>
+		<name>Ganbare Goemon Karakuri Douchuu</name>
+		<image>./boxart/Ganbare Goemon Karakuri Douchuu.png</image>
+		<marquee>./wheel/Ganbare Goemon Karakuri Douchuu.png</marquee>
+		<video>./snap/Ganbare Goemon Karakuri Douchuu.mp4</video>
+	</game>
+	<game>
+		<path>./Ganso Saiyuuki Super Monkey Daibouken.nes</path>
+		<name>Ganso Saiyuuki Super Monkey Daibouken</name>
+		<image>./boxart/Ganso Saiyuuki Super Monkey Daibouken.png</image>
+		<marquee>./wheel/Ganso Saiyuuki Super Monkey Daibouken.png</marquee>
+		<video>./snap/Ganso Saiyuuki Super Monkey Daibouken.mp4</video>
+	</game>
+	<game>
+		<path>./Garfield A Week of Garfield.nes</path>
+		<name>Garfield A Week of Garfield</name>
+		<image>./boxart/Garfield A Week of Garfield.png</image>
+		<marquee>./wheel/Garfield A Week of Garfield.png</marquee>
+		<video>./snap/Garfield A Week of Garfield.mp4</video>
+	</game>
+	<game>
+		<path>./Gegege no Kitarou 2 Youkai Gundan no Chousen.nes</path>
+		<name>Gegege no Kitarou 2 Youkai Gundan no Chousen</name>
+		<image>./boxart/Gegege no Kitarou 2 Youkai Gundan no Chousen.png</image>
+		<marquee>./wheel/Gegege no Kitarou 2 Youkai Gundan no Chousen.png</marquee>
+		<video>./snap/Gegege no Kitarou 2 Youkai Gundan no Chousen.mp4</video>
+	</game>
+	<game>
+		<path>./Gegege no Kitarou Youkai Daimakyou.nes</path>
+		<name>Gegege no Kitarou Youkai Daimakyou</name>
+		<image>./boxart/Gegege no Kitarou Youkai Daimakyou.png</image>
+		<marquee>./wheel/Gegege no Kitarou Youkai Daimakyou.png</marquee>
+		<video>./snap/Gegege no Kitarou Youkai Daimakyou.mp4</video>
+	</game>
+	<game>
+		<path>./Geimos.nes</path>
+		<name>Geimos</name>
+		<image>./boxart/Geimos.png</image>
+		<marquee>./wheel/Geimos.png</marquee>
+		<video>./snap/Geimos.mp4</video>
+	</game>
+	<game>
+		<path>./Gekitotsu Yonku Battle.nes</path>
+		<name>Gekitotsu Yonku Battle</name>
+		<image>./boxart/Gekitotsu Yonku Battle.png</image>
+		<marquee>./wheel/Gekitotsu Yonku Battle.png</marquee>
+		<video>./snap/Gekitotsu Yonku Battle.mp4</video>
+	</game>
+	<game>
+		<path>./Getsu Fuuma Den.nes</path>
+		<name>Getsu Fuuma Den</name>
+		<image>./boxart/Getsu Fuuma Den.png</image>
+		<marquee>./wheel/Getsu Fuuma Den.png</marquee>
+		<video>./snap/Getsu Fuuma Den.mp4</video>
+	</game>
+	<game>
+		<path>./Golf 92 The.nes</path>
+		<name>Golf 92 The</name>
+		<image>./boxart/Golf 92 The.png</image>
+		<marquee>./wheel/Golf 92 The.png</marquee>
+		<video>./snap/Golf 92 The.mp4</video>
+	</game>
+	<game>
+		<path>./Golf Club Birdie Rush.nes</path>
+		<name>Golf Club Birdie Rush</name>
+		<image>./boxart/Golf Club Birdie Rush.png</image>
+		<marquee>./wheel/Golf Club Birdie Rush.png</marquee>
+		<video>./snap/Golf Club Birdie Rush.mp4</video>
+	</game>
+	<game>
+		<path>./Goonies.nes</path>
+		<name>Goonies</name>
+		<image>./boxart/Goonies.png</image>
+		<marquee>./wheel/Goonies.png</marquee>
+		<video>./snap/Goonies.mp4</video>
+	</game>
+	<game>
+		<path>./Gorby no Pipeline Daisakusen.nes</path>
+		<name>Gorby no Pipeline Daisakusen</name>
+		<image>./boxart/Gorby no Pipeline Daisakusen.png</image>
+		<marquee>./wheel/Gorby no Pipeline Daisakusen.png</marquee>
+		<video>./snap/Gorby no Pipeline Daisakusen.mp4</video>
+	</game>
+	<game>
+		<path>./Gradius II.nes</path>
+		<name>Gradius II</name>
+		<image>./boxart/Gradius II.png</image>
+		<marquee>./wheel/Gradius II.png</marquee>
+		<video>./snap/Gradius II.mp4</video>
+	</game>
+	<game>
+		<path>./Grand Master.nes</path>
+		<name>Grand Master</name>
+		<image>./boxart/Grand Master.png</image>
+		<marquee>./wheel/Grand Master.png</marquee>
+		<video>./snap/Grand Master.mp4</video>
+	</game>
+	<game>
+		<path>./Great Deal.nes</path>
+		<name>Great Deal</name>
+		<image>./boxart/Great Deal.png</image>
+		<marquee>./wheel/Great Deal.png</marquee>
+		<video>./snap/Great Deal.mp4</video>
+	</game>
+	<game>
+		<path>./Gun Dec.nes</path>
+		<name>Gun Dec</name>
+		<image>./boxart/Gun Dec.png</image>
+		<marquee>./wheel/Gun Dec.png</marquee>
+		<video>./snap/Gun Dec.mp4</video>
+	</game>
+	<game>
+		<path>./Gyrodine.nes</path>
+		<name>Gyrodine</name>
+		<image>./boxart/Gyrodine.png</image>
+		<marquee>./wheel/Gyrodine.png</marquee>
+		<video>./snap/Gyrodine.mp4</video>
+	</game>
+	<game>
+		<path>./Hana no Star Kaidou.nes</path>
+		<name>Hana no Star Kaidou</name>
+		<image>./boxart/Hana no Star Kaidou.png</image>
+		<marquee>./wheel/Hana no Star Kaidou.png</marquee>
+		<video>./snap/Hana no Star Kaidou.mp4</video>
+	</game>
+	<game>
+		<path>./Hebereke.nes</path>
+		<name>Hebereke</name>
+		<image>./boxart/Hebereke.png</image>
+		<marquee>./wheel/Hebereke.png</marquee>
+		<video>./snap/Hebereke.mp4</video>
+	</game>
+	<game>
+		<path>./Heisei Tensai Bakabon.nes</path>
+		<name>Heisei Tensai Bakabon</name>
+		<image>./boxart/Heisei Tensai Bakabon.png</image>
+		<marquee>./wheel/Heisei Tensai Bakabon.png</marquee>
+		<video>./snap/Heisei Tensai Bakabon.mp4</video>
+	</game>
+	<game>
+		<path>./Hello Kitty no Ohanabatake.nes</path>
+		<name>Hello Kitty no Ohanabatake</name>
+		<image>./boxart/Hello Kitty no Ohanabatake.png</image>
+		<marquee>./wheel/Hello Kitty no Ohanabatake.png</marquee>
+		<video>./snap/Hello Kitty no Ohanabatake.mp4</video>
+	</game>
+	<game>
+		<path>./Hello Kitty World.nes</path>
+		<name>Hello Kitty World</name>
+		<image>./boxart/Hello Kitty World.png</image>
+		<marquee>./wheel/Hello Kitty World.png</marquee>
+		<video>./snap/Hello Kitty World.mp4</video>
+	</game>
+	<game>
+		<path>./Heracles no Eikou II Titan no Metsubou.nes</path>
+		<name>Heracles no Eikou II Titan no Metsubou</name>
+		<image>./boxart/Heracles no Eikou II Titan no Metsubou.png</image>
+		<marquee>./wheel/Heracles no Eikou II Titan no Metsubou.png</marquee>
+		<video>./snap/Heracles no Eikou II Titan no Metsubou.mp4</video>
+	</game>
+	<game>
+		<path>./Heracles no Eikou Toujin Makyou Den.nes</path>
+		<name>Heracles no Eikou Toujin Makyou Den</name>
+		<image>./boxart/Heracles no Eikou Toujin Makyou Den.png</image>
+		<marquee>./wheel/Heracles no Eikou Toujin Makyou Den.png</marquee>
+		<video>./snap/Heracles no Eikou Toujin Makyou Den.mp4</video>
+	</game>
+	<game>
+		<path>./Hi no Tori Hououhen Gaou no Bouken.nes</path>
+		<name>Hi no Tori Hououhen Gaou no Bouken</name>
+		<image>./boxart/Hi no Tori Hououhen Gaou no Bouken.png</image>
+		<marquee>./wheel/Hi no Tori Hououhen Gaou no Bouken.png</marquee>
+		<video>./snap/Hi no Tori Hououhen Gaou no Bouken.mp4</video>
+	</game>
+	<game>
+		<path>./Higemaru Makaijima Nanatsu no Shima Daibouken.nes</path>
+		<name>Higemaru Makaijima Nanatsu no Shima Daibouken</name>
+		<image>./boxart/Higemaru Makaijima Nanatsu no Shima Daibouken.png</image>
+		<marquee>./wheel/Higemaru Makaijima Nanatsu no Shima Daibouken.png</marquee>
+		<video>./snap/Higemaru Makaijima Nanatsu no Shima Daibouken.mp4</video>
+	</game>
+	<game>
+		<path>./Hikari no Senshi Photon The Ultimate Game on Planet Earth.nes</path>
+		<name>Hikari no Senshi Photon The Ultimate Game on Planet Earth</name>
+		<image>./boxart/Hikari no Senshi Photon The Ultimate Game on Planet Earth.png</image>
+		<marquee>./wheel/Hikari no Senshi Photon The Ultimate Game on Planet Earth.png</marquee>
+		<video>./snap/Hikari no Senshi Photon The Ultimate Game on Planet Earth.mp4</video>
+	</game>
+	<game>
+		<path>./Hirake Ponkikki.nes</path>
+		<name>Hirake Ponkikki</name>
+		<image>./boxart/Hirake Ponkikki.png</image>
+		<marquee>./wheel/Hirake Ponkikki.png</marquee>
+		<video>./snap/Hirake Ponkikki.mp4</video>
+	</game>
+	<game>
+		<path>./Hitler no Fukkatsu Top Secret.nes</path>
+		<name>Hitler no Fukkatsu Top Secret</name>
+		<image>./boxart/Hitler no Fukkatsu Top Secret.png</image>
+		<marquee>./wheel/Hitler no Fukkatsu Top Secret.png</marquee>
+		<video>./snap/Hitler no Fukkatsu Top Secret.mp4</video>
+	</game>
+	<game>
+		<path>./Hokuto no Ken.nes</path>
+		<name>Hokuto no Ken</name>
+		<image>./boxart/Hokuto no Ken.png</image>
+		<marquee>./wheel/Hokuto no Ken.png</marquee>
+		<video>./snap/Hokuto no Ken.mp4</video>
+	</game>
+	<game>
+		<path>./Holy Diver.nes</path>
+		<name>Holy Diver</name>
+		<image>./boxart/Holy Diver.png</image>
+		<marquee>./wheel/Holy Diver.png</marquee>
+		<video>./snap/Holy Diver.mp4</video>
+	</game>
+	<game>
+		<path>./Honoo no Doukyuuji Dodge Danpei 2.nes</path>
+		<name>Honoo no Doukyuuji Dodge Danpei 2</name>
+		<image>./boxart/Honoo no Doukyuuji Dodge Danpei 2.png</image>
+		<marquee>./wheel/Honoo no Doukyuuji Dodge Danpei 2.png</marquee>
+		<video>./snap/Honoo no Doukyuuji Dodge Danpei 2.mp4</video>
+	</game>
+	<game>
+		<path>./Honoo no Doukyuuji Dodge Danpei.nes</path>
+		<name>Honoo no Doukyuuji Dodge Danpei</name>
+		<image>./boxart/Honoo no Doukyuuji Dodge Danpei.png</image>
+		<marquee>./wheel/Honoo no Doukyuuji Dodge Danpei.png</marquee>
+		<video>./snap/Honoo no Doukyuuji Dodge Danpei.mp4</video>
+	</game>
+	<game>
+		<path>./Hottaman no Chitei Tanken.nes</path>
+		<name>Hottaman no Chitei Tanken</name>
+		<image>./boxart/Hottaman no Chitei Tanken.png</image>
+		<marquee>./wheel/Hottaman no Chitei Tanken.png</marquee>
+		<video>./snap/Hottaman no Chitei Tanken.mp4</video>
+	</game>
+	<game>
+		<path>./Hyaku no Sekai no Monogatari The Tales on a Watery Wilderness.nes</path>
+		<name>Hyaku no Sekai no Monogatari The Tales on a Watery Wilderness</name>
+		<image>./boxart/Hyaku no Sekai no Monogatari The Tales on a Watery Wilderness.png</image>
+		<marquee>./wheel/Hyaku no Sekai no Monogatari The Tales on a Watery Wilderness.png</marquee>
+		<video>./snap/Hyaku no Sekai no Monogatari The Tales on a Watery Wilderness.mp4</video>
+	</game>
+	<game>
+		<path>./Hyper Sports.nes</path>
+		<name>Hyper Sports</name>
+		<image>./boxart/Hyper Sports.png</image>
+		<marquee>./wheel/Hyper Sports.png</marquee>
+		<video>./snap/Hyper Sports.mp4</video>
+	</game>
+	<game>
+		<path>./Ike Ike Nekketsu Hockey bu Subette Koronde Dairantou.nes</path>
+		<name>Ike Ike Nekketsu Hockey bu Subette Koronde Dairantou</name>
+		<image>./boxart/Ike Ike Nekketsu Hockey bu Subette Koronde Dairantou.png</image>
+		<marquee>./wheel/Ike Ike Nekketsu Hockey bu Subette Koronde Dairantou.png</marquee>
+		<video>./snap/Ike Ike Nekketsu Hockey bu Subette Koronde Dairantou.mp4</video>
+	</game>
+	<game>
+		<path>./Ikinari Musician.nes</path>
+		<name>Ikinari Musician</name>
+		<image>./boxart/Ikinari Musician.png</image>
+		<marquee>./wheel/Ikinari Musician.png</marquee>
+		<video>./snap/Ikinari Musician.mp4</video>
+	</game>
+	<game>
+		<path>./Ikki.nes</path>
+		<name>Ikki</name>
+		<image>./boxart/Ikki.png</image>
+		<marquee>./wheel/Ikki.png</marquee>
+		<video>./snap/Ikki.mp4</video>
+	</game>
+	<game>
+		<path>./Insector X.nes</path>
+		<name>Insector X</name>
+		<image>./boxart/Insector X.png</image>
+		<marquee>./wheel/Insector X.png</marquee>
+		<video>./snap/Insector X.mp4</video>
+	</game>
+	<game>
+		<path>./J.League Fighting Soccer The King of Ace Strikers.nes</path>
+		<name>J.League Fighting Soccer The King of Ace Strikers</name>
+		<image>./boxart/J.League Fighting Soccer The King of Ace Strikers.png</image>
+		<marquee>./wheel/J.League Fighting Soccer The King of Ace Strikers.png</marquee>
+		<video>./snap/J.League Fighting Soccer The King of Ace Strikers.mp4</video>
+	</game>
+	<game>
+		<path>./J.League Winning Goal.nes</path>
+		<name>J.League Winning Goal</name>
+		<image>./boxart/J.League Winning Goal.png</image>
+		<marquee>./wheel/J.League Winning Goal.png</marquee>
+		<video>./snap/J.League Winning Goal.mp4</video>
+	</game>
+	<game>
+		<path>./Jajamaru Gekimaden Maboroshi no Kinmajou.nes</path>
+		<name>Jajamaru Gekimaden Maboroshi no Kinmajou</name>
+		<image>./boxart/Jajamaru Gekimaden Maboroshi no Kinmajou.png</image>
+		<marquee>./wheel/Jajamaru Gekimaden Maboroshi no Kinmajou.png</marquee>
+		<video>./snap/Jajamaru Gekimaden Maboroshi no Kinmajou.mp4</video>
+	</game>
+	<game>
+		<path>./Jajamaru no Daibouken.nes</path>
+		<name>Jajamaru no Daibouken</name>
+		<image>./boxart/Jajamaru no Daibouken.png</image>
+		<marquee>./wheel/Jajamaru no Daibouken.png</marquee>
+		<video>./snap/Jajamaru no Daibouken.mp4</video>
+	</game>
+	<game>
+		<path>./Jekyll Hakase no Houma ga Toki.nes</path>
+		<name>Jekyll Hakase no Houma ga Toki</name>
+		<image>./boxart/Jekyll Hakase no Houma ga Toki.png</image>
+		<marquee>./wheel/Jekyll Hakase no Houma ga Toki.png</marquee>
+		<video>./snap/Jekyll Hakase no Houma ga Toki.mp4</video>
+	</game>
+	<game>
+		<path>./Jesus Kyoufu no Bio Monster.nes</path>
+		<name>Jesus Kyoufu no Bio Monster</name>
+		<image>./boxart/Jesus Kyoufu no Bio Monster.png</image>
+		<marquee>./wheel/Jesus Kyoufu no Bio Monster.png</marquee>
+		<video>./snap/Jesus Kyoufu no Bio Monster.mp4</video>
+	</game>
+	<game>
+		<path>./Jigoku Gokuraku Maru.nes</path>
+		<name>Jigoku Gokuraku Maru</name>
+		<image>./boxart/Jigoku Gokuraku Maru.png</image>
+		<marquee>./wheel/Jigoku Gokuraku Maru.png</marquee>
+		<video>./snap/Jigoku Gokuraku Maru.mp4</video>
+	</game>
+	<game>
+		<path>./Jikuu Yuuden Debias.nes</path>
+		<name>Jikuu Yuuden Debias</name>
+		<image>./boxart/Jikuu Yuuden Debias.png</image>
+		<marquee>./wheel/Jikuu Yuuden Debias.png</marquee>
+		<video>./snap/Jikuu Yuuden Debias.mp4</video>
+	</game>
+	<game>
+		<path>./JJ Tobidase Daisakusen Part II.nes</path>
+		<name>JJ Tobidase Daisakusen Part II</name>
+		<image>./boxart/JJ Tobidase Daisakusen Part II.png</image>
+		<marquee>./wheel/JJ Tobidase Daisakusen Part II.png</marquee>
+		<video>./snap/JJ Tobidase Daisakusen Part II.mp4</video>
+	</game>
+	<game>
+		<path>./Joy Mech Fight.nes</path>
+		<name>Joy Mech Fight</name>
+		<image>./boxart/Joy Mech Fight.png</image>
+		<marquee>./wheel/Joy Mech Fight.png</marquee>
+		<video>./snap/Joy Mech Fight.mp4</video>
+	</game>
+	<game>
+		<path>./Jumbo Ozaki no Hole in One Professional.nes</path>
+		<name>Jumbo Ozaki no Hole in One Professional</name>
+		<image>./boxart/Jumbo Ozaki no Hole in One Professional.png</image>
+		<marquee>./wheel/Jumbo Ozaki no Hole in One Professional.png</marquee>
+		<video>./snap/Jumbo Ozaki no Hole in One Professional.mp4</video>
+	</game>
+	<game>
+		<path>./Just Breed.nes</path>
+		<name>Just Breed</name>
+		<image>./boxart/Just Breed.png</image>
+		<marquee>./wheel/Just Breed.png</marquee>
+		<video>./snap/Just Breed.mp4</video>
+	</game>
+	<game>
+		<path>./Juuouki.nes</path>
+		<name>Juuouki</name>
+		<image>./boxart/Juuouki.png</image>
+		<marquee>./wheel/Juuouki.png</marquee>
+		<video>./snap/Juuouki.mp4</video>
+	</game>
+	<game>
+		<path>./Juuryoku Soukou Metal Storm.nes</path>
+		<name>Juuryoku Soukou Metal Storm</name>
+		<image>./boxart/Juuryoku Soukou Metal Storm.png</image>
+		<marquee>./wheel/Juuryoku Soukou Metal Storm.png</marquee>
+		<video>./snap/Juuryoku Soukou Metal Storm.mp4</video>
+	</game>
+	<game>
+		<path>./Juvei Quest.nes</path>
+		<name>Juvei Quest</name>
+		<image>./boxart/Juvei Quest.png</image>
+		<marquee>./wheel/Juvei Quest.png</marquee>
+		<video>./snap/Juvei Quest.mp4</video>
+	</game>
+	<game>
+		<path>./Kaguya Hime Densetsu.nes</path>
+		<name>Kaguya Hime Densetsu</name>
+		<image>./boxart/Kaguya Hime Densetsu.png</image>
+		<marquee>./wheel/Kaguya Hime Densetsu.png</marquee>
+		<video>./snap/Kaguya Hime Densetsu.mp4</video>
+	</game>
+	<game>
+		<path>./Kai no Bouken The Quest of Ki.nes</path>
+		<name>Kai no Bouken The Quest of Ki</name>
+		<image>./boxart/Kai no Bouken The Quest of Ki.png</image>
+		<marquee>./wheel/Kai no Bouken The Quest of Ki.png</marquee>
+		<video>./snap/Kai no Bouken The Quest of Ki.mp4</video>
+	</game>
+	<game>
+		<path>./Kaijuu Monogatari.nes</path>
+		<name>Kaijuu Monogatari</name>
+		<image>./boxart/Kaijuu Monogatari.png</image>
+		<marquee>./wheel/Kaijuu Monogatari.png</marquee>
+		<video>./snap/Kaijuu Monogatari.mp4</video>
+	</game>
+	<game>
+		<path>./Kaiketsu Yancha Maru 2 Karakuri Land.nes</path>
+		<name>Kaiketsu Yancha Maru 2 Karakuri Land</name>
+		<image>./boxart/Kaiketsu Yancha Maru 2 Karakuri Land.png</image>
+		<marquee>./wheel/Kaiketsu Yancha Maru 2 Karakuri Land.png</marquee>
+		<video>./snap/Kaiketsu Yancha Maru 2 Karakuri Land.mp4</video>
+	</game>
+	<game>
+		<path>./Kaiketsu Yancha Maru 3 Taiketsu Zouringen.nes</path>
+		<name>Kaiketsu Yancha Maru 3 Taiketsu Zouringen</name>
+		<image>./boxart/Kaiketsu Yancha Maru 3 Taiketsu Zouringen.png</image>
+		<marquee>./wheel/Kaiketsu Yancha Maru 3 Taiketsu Zouringen.png</marquee>
+		<video>./snap/Kaiketsu Yancha Maru 3 Taiketsu Zouringen.mp4</video>
+	</game>
+	<game>
+		<path>./Kamen no Ninja Hanamaru.nes</path>
+		<name>Kamen no Ninja Hanamaru</name>
+		<image>./boxart/Kamen no Ninja Hanamaru.png</image>
+		<marquee>./wheel/Kamen no Ninja Hanamaru.png</marquee>
+		<video>./snap/Kamen no Ninja Hanamaru.mp4</video>
+	</game>
+	<game>
+		<path>./Kanshakudama Nage Kantarou no Toukaidou Gojuusan Tsugi.nes</path>
+		<name>Kanshakudama Nage Kantarou no Toukaidou Gojuusan Tsugi</name>
+		<image>./boxart/Kanshakudama Nage Kantarou no Toukaidou Gojuusan Tsugi.png</image>
+		<marquee>./wheel/Kanshakudama Nage Kantarou no Toukaidou Gojuusan Tsugi.png</marquee>
+		<video>./snap/Kanshakudama Nage Kantarou no Toukaidou Gojuusan Tsugi.mp4</video>
+	</game>
+	<game>
+		<path>./Karakuri Kengoden Musashi Lord Karakuri Jin Hashiru.nes</path>
+		<name>Karakuri Kengoden Musashi Lord Karakuri Jin Hashiru</name>
+		<image>./boxart/Karakuri Kengoden Musashi Lord Karakuri Jin Hashiru.png</image>
+		<marquee>./wheel/Karakuri Kengoden Musashi Lord Karakuri Jin Hashiru.png</marquee>
+		<video>./snap/Karakuri Kengoden Musashi Lord Karakuri Jin Hashiru.mp4</video>
+	</game>
+	<game>
+		<path>./Karateka.nes</path>
+		<name>Karateka</name>
+		<image>./boxart/Karateka.png</image>
+		<marquee>./wheel/Karateka.png</marquee>
+		<video>./snap/Karateka.mp4</video>
+	</game>
+	<game>
+		<path>./Karnov.nes</path>
+		<name>Karnov</name>
+		<image>./boxart/Karnov.png</image>
+		<marquee>./wheel/Karnov.png</marquee>
+		<video>./snap/Karnov.mp4</video>
+	</game>
+	<game>
+		<path>./Kawa no Nushi Tsuri.nes</path>
+		<name>Kawa no Nushi Tsuri</name>
+		<image>./boxart/Kawa no Nushi Tsuri.png</image>
+		<marquee>./wheel/Kawa no Nushi Tsuri.png</marquee>
+		<video>./snap/Kawa no Nushi Tsuri.mp4</video>
+	</game>
+	<game>
+		<path>./Keisan Game Sansuu 1 Nen.nes</path>
+		<name>Keisan Game Sansuu 1 Nen</name>
+		<image>./boxart/Keisan Game Sansuu 1 Nen.png</image>
+		<marquee>./wheel/Keisan Game Sansuu 1 Nen.png</marquee>
+		<video>./snap/Keisan Game Sansuu 1 Nen.mp4</video>
+	</game>
+	<game>
+		<path>./Keisan Game Sansuu 3 Nen.nes</path>
+		<name>Keisan Game Sansuu 3 Nen</name>
+		<image>./boxart/Keisan Game Sansuu 3 Nen.png</image>
+		<marquee>./wheel/Keisan Game Sansuu 3 Nen.png</marquee>
+		<video>./snap/Keisan Game Sansuu 3 Nen.mp4</video>
+	</game>
+	<game>
+		<path>./Keisan Game Sansuu 4 Nen.nes</path>
+		<name>Keisan Game Sansuu 4 Nen</name>
+		<image>./boxart/Keisan Game Sansuu 4 Nen.png</image>
+		<marquee>./wheel/Keisan Game Sansuu 4 Nen.png</marquee>
+		<video>./snap/Keisan Game Sansuu 4 Nen.mp4</video>
+	</game>
+	<game>
+		<path>./Keisan Game Sansuu 5+6 Nen.nes</path>
+		<name>Keisan Game Sansuu 5+6 Nen</name>
+		<image>./boxart/Keisan Game Sansuu 5+6 Nen.png</image>
+		<marquee>./wheel/Keisan Game Sansuu 5+6 Nen.png</marquee>
+		<video>./snap/Keisan Game Sansuu 5+6 Nen.mp4</video>
+	</game>
+	<game>
+		<path>./Kekkyoku Nankyoku Daibouken.nes</path>
+		<name>Kekkyoku Nankyoku Daibouken</name>
+		<image>./boxart/Kekkyoku Nankyoku Daibouken.png</image>
+		<marquee>./wheel/Kekkyoku Nankyoku Daibouken.png</marquee>
+		<video>./snap/Kekkyoku Nankyoku Daibouken.mp4</video>
+	</game>
+	<game>
+		<path>./Kero Kero Keroppi no Daibouken 2 Donuts Ike wa Oosawagi.nes</path>
+		<name>Kero Kero Keroppi no Daibouken 2 Donuts Ike wa Oosawagi</name>
+		<image>./boxart/Kero Kero Keroppi no Daibouken 2 Donuts Ike wa Oosawagi.png</image>
+		<marquee>./wheel/Kero Kero Keroppi no Daibouken 2 Donuts Ike wa Oosawagi.png</marquee>
+		<video>./snap/Kero Kero Keroppi no Daibouken 2 Donuts Ike wa Oosawagi.mp4</video>
+	</game>
+	<game>
+		<path>./Kero Kero Keroppi no Daibouken.nes</path>
+		<name>Kero Kero Keroppi no Daibouken</name>
+		<image>./boxart/Kero Kero Keroppi no Daibouken.png</image>
+		<marquee>./wheel/Kero Kero Keroppi no Daibouken.png</marquee>
+		<video>./snap/Kero Kero Keroppi no Daibouken.mp4</video>
+	</game>
+	<game>
+		<path>./Keroppi to Keroriinu no Splash Bomb.nes</path>
+		<name>Keroppi to Keroriinu no Splash Bomb</name>
+		<image>./boxart/Keroppi to Keroriinu no Splash Bomb.png</image>
+		<marquee>./wheel/Keroppi to Keroriinu no Splash Bomb.png</marquee>
+		<video>./snap/Keroppi to Keroriinu no Splash Bomb.mp4</video>
+	</game>
+	<game>
+		<path>./King Kong 2 Ikari no Megaton Punch.nes</path>
+		<name>King Kong 2 Ikari no Megaton Punch</name>
+		<image>./boxart/King Kong 2 Ikari no Megaton Punch.png</image>
+		<marquee>./wheel/King Kong 2 Ikari no Megaton Punch.png</marquee>
+		<video>./snap/King Kong 2 Ikari no Megaton Punch.mp4</video>
+	</game>
+	<game>
+		<path>./King of Kings.nes</path>
+		<name>King of Kings</name>
+		<image>./boxart/King of Kings.png</image>
+		<marquee>./wheel/King of Kings.png</marquee>
+		<video>./snap/King of Kings.mp4</video>
+	</game>
+	<game>
+		<path>./Kinnikuman Muscle Tag Match.nes</path>
+		<name>Kinnikuman Muscle Tag Match</name>
+		<image>./boxart/Kinnikuman Muscle Tag Match.png</image>
+		<marquee>./wheel/Kinnikuman Muscle Tag Match.png</marquee>
+		<video>./snap/Kinnikuman Muscle Tag Match.mp4</video>
+	</game>
+	<game>
+		<path>./Kouryuu Densetsu Villgust Gaiden.nes</path>
+		<name>Kouryuu Densetsu Villgust Gaiden</name>
+		<image>./boxart/Kouryuu Densetsu Villgust Gaiden.png</image>
+		<marquee>./wheel/Kouryuu Densetsu Villgust Gaiden.png</marquee>
+		<video>./snap/Kouryuu Densetsu Villgust Gaiden.mp4</video>
+	</game>
+	<game>
+		<path>./Kujaku Ou II.nes</path>
+		<name>Kujaku Ou II</name>
+		<image>./boxart/Kujaku Ou II.png</image>
+		<marquee>./wheel/Kujaku Ou II.png</marquee>
+		<video>./snap/Kujaku Ou II.mp4</video>
+	</game>
+	<game>
+		<path>./Kujaku Ou.nes</path>
+		<name>Kujaku Ou</name>
+		<image>./boxart/Kujaku Ou.png</image>
+		<marquee>./wheel/Kujaku Ou.png</marquee>
+		<video>./snap/Kujaku Ou.mp4</video>
+	</game>
+	<game>
+		<path>./Kunio kun no Nekketsu Soccer League.nes</path>
+		<name>Kunio kun no Nekketsu Soccer League</name>
+		<image>./boxart/Kunio kun no Nekketsu Soccer League.png</image>
+		<marquee>./wheel/Kunio kun no Nekketsu Soccer League.png</marquee>
+		<video>./snap/Kunio kun no Nekketsu Soccer League.mp4</video>
+	</game>
+	<game>
+		<path>./Kyatto Ninden Teyandee.nes</path>
+		<name>Kyatto Ninden Teyandee</name>
+		<image>./boxart/Kyatto Ninden Teyandee.png</image>
+		<marquee>./wheel/Kyatto Ninden Teyandee.png</marquee>
+		<video>./snap/Kyatto Ninden Teyandee.mp4</video>
+	</game>
+	<game>
+		<path>./Kyouryuu Sentai Zyuranger.nes</path>
+		<name>Kyouryuu Sentai Zyuranger</name>
+		<image>./boxart/Kyouryuu Sentai Zyuranger.png</image>
+		<marquee>./wheel/Kyouryuu Sentai Zyuranger.png</marquee>
+		<video>./snap/Kyouryuu Sentai Zyuranger.mp4</video>
+	</game>
+	<game>
+		<path>./Labyrinth Maou no Meikyuu.nes</path>
+		<name>Labyrinth Maou no Meikyuu</name>
+		<image>./boxart/Labyrinth Maou no Meikyuu.png</image>
+		<marquee>./wheel/Labyrinth Maou no Meikyuu.png</marquee>
+		<video>./snap/Labyrinth Maou no Meikyuu.mp4</video>
+	</game>
+	<game>
+		<path>./Lagrange Point.nes</path>
+		<name>Lagrange Point</name>
+		<image>./boxart/Lagrange Point.png</image>
+		<marquee>./wheel/Lagrange Point.png</marquee>
+		<video>./snap/Lagrange Point.mp4</video>
+	</game>
+	<game>
+		<path>./Layla.nes</path>
+		<name>Layla</name>
+		<image>./boxart/Layla.png</image>
+		<marquee>./wheel/Layla.png</marquee>
+		<video>./snap/Layla.mp4</video>
+	</game>
+	<game>
+		<path>./Lost Word of Jenny Ushinawareta Message.nes</path>
+		<name>Lost Word of Jenny Ushinawareta Message</name>
+		<image>./boxart/Lost Word of Jenny Ushinawareta Message.png</image>
+		<marquee>./wheel/Lost Word of Jenny Ushinawareta Message.png</marquee>
+		<video>./snap/Lost Word of Jenny Ushinawareta Message.mp4</video>
+	</game>
+	<game>
+		<path>./Lot Lot.nes</path>
+		<name>Lot Lot</name>
+		<image>./boxart/Lot Lot.png</image>
+		<marquee>./wheel/Lot Lot.png</marquee>
+		<video>./snap/Lot Lot.mp4</video>
+	</game>
+	<game>
+		<path>./Lupin Sansei Pandora no Isan.nes</path>
+		<name>Lupin Sansei Pandora no Isan</name>
+		<image>./boxart/Lupin Sansei Pandora no Isan.png</image>
+		<marquee>./wheel/Lupin Sansei Pandora no Isan.png</marquee>
+		<video>./snap/Lupin Sansei Pandora no Isan.mp4</video>
+	</game>
+	<game>
+		<path>./Mad City.nes</path>
+		<name>Mad City</name>
+		<image>./boxart/Mad City.png</image>
+		<marquee>./wheel/Mad City.png</marquee>
+		<video>./snap/Mad City.mp4</video>
+	</game>
+	<game>
+		<path>./Madoola no Tsubasa.nes</path>
+		<name>Madoola no Tsubasa</name>
+		<image>./boxart/Madoola no Tsubasa.png</image>
+		<marquee>./wheel/Madoola no Tsubasa.png</marquee>
+		<video>./snap/Madoola no Tsubasa.mp4</video>
+	</game>
+	<game>
+		<path>./Magic Candle The.nes</path>
+		<name>Magic Candle The</name>
+		<image>./boxart/Magic Candle The.png</image>
+		<marquee>./wheel/Magic Candle The.png</marquee>
+		<video>./snap/Magic Candle The.mp4</video>
+	</game>
+	<game>
+		<path>./Magic John.nes</path>
+		<name>Magic John</name>
+		<image>./boxart/Magic John.png</image>
+		<marquee>./wheel/Magic John.png</marquee>
+		<video>./snap/Magic John.mp4</video>
+	</game>
+	<game>
+		<path>./Magical Doropie.nes</path>
+		<name>Magical Doropie</name>
+		<image>./boxart/Magical Doropie.png</image>
+		<marquee>./wheel/Magical Doropie.png</marquee>
+		<video>./snap/Magical Doropie.mp4</video>
+	</game>
+	<game>
+		<path>./Magnum Kikiippatsu Empire City 1931.nes</path>
+		<name>Magnum Kikiippatsu Empire City 1931</name>
+		<image>./boxart/Magnum Kikiippatsu Empire City 1931.png</image>
+		<marquee>./wheel/Magnum Kikiippatsu Empire City 1931.png</marquee>
+		<video>./snap/Magnum Kikiippatsu Empire City 1931.mp4</video>
+	</game>
+	<game>
+		<path>./MahaRaja.nes</path>
+		<name>MahaRaja</name>
+		<image>./boxart/MahaRaja.png</image>
+		<marquee>./wheel/MahaRaja.png</marquee>
+		<video>./snap/MahaRaja.mp4</video>
+	</game>
+	<game>
+		<path>./Majin Eiyuuden Wataru Gaiden.nes</path>
+		<name>Majin Eiyuuden Wataru Gaiden</name>
+		<image>./boxart/Majin Eiyuuden Wataru Gaiden.png</image>
+		<marquee>./wheel/Majin Eiyuuden Wataru Gaiden.png</marquee>
+		<video>./snap/Majin Eiyuuden Wataru Gaiden.mp4</video>
+	</game>
+	<game>
+		<path>./Majou Densetsu II Daimashikyou Galious.nes</path>
+		<name>Majou Densetsu II Daimashikyou Galious</name>
+		<image>./boxart/Majou Densetsu II Daimashikyou Galious.png</image>
+		<marquee>./wheel/Majou Densetsu II Daimashikyou Galious.png</marquee>
+		<video>./snap/Majou Densetsu II Daimashikyou Galious.mp4</video>
+	</game>
+	<game>
+		<path>./Mappy Kids.nes</path>
+		<name>Mappy Kids</name>
+		<image>./boxart/Mappy Kids.png</image>
+		<marquee>./wheel/Mappy Kids.png</marquee>
+		<video>./snap/Mappy Kids.mp4</video>
+	</game>
+	<game>
+		<path>./Mappy.nes</path>
+		<name>Mappy</name>
+		<image>./boxart/Mappy.png</image>
+		<marquee>./wheel/Mappy.png</marquee>
+		<video>./snap/Mappy.mp4</video>
+	</game>
+	<game>
+		<path>./Matendouji.nes</path>
+		<name>Matendouji</name>
+		<image>./boxart/Matendouji.png</image>
+		<marquee>./wheel/Matendouji.png</marquee>
+		<video>./snap/Matendouji.mp4</video>
+	</game>
+	<game>
+		<path>./Metro Cross.nes</path>
+		<name>Metro Cross</name>
+		<image>./boxart/Metro Cross.png</image>
+		<marquee>./wheel/Metro Cross.png</marquee>
+		<video>./snap/Metro Cross.mp4</video>
+	</game>
+	<game>
+		<path>./Mickey Mouse 3 Yume Fuusen.nes</path>
+		<name>Mickey Mouse 3 Yume Fuusen</name>
+		<image>./boxart/Mickey Mouse 3 Yume Fuusen.png</image>
+		<marquee>./wheel/Mickey Mouse 3 Yume Fuusen.png</marquee>
+		<video>./snap/Mickey Mouse 3 Yume Fuusen.mp4</video>
+	</game>
+	<game>
+		<path>./Minelvaton Saga Ragon no Fukkatsu.nes</path>
+		<name>Minelvaton Saga Ragon no Fukkatsu</name>
+		<image>./boxart/Minelvaton Saga Ragon no Fukkatsu.png</image>
+		<marquee>./wheel/Minelvaton Saga Ragon no Fukkatsu.png</marquee>
+		<video>./snap/Minelvaton Saga Ragon no Fukkatsu.mp4</video>
+	</game>
+	<game>
+		<path>./Mini Putt.nes</path>
+		<name>Mini Putt</name>
+		<image>./boxart/Mini Putt.png</image>
+		<marquee>./wheel/Mini Putt.png</marquee>
+		<video>./snap/Mini Putt.mp4</video>
+	</game>
+	<game>
+		<path>./Minna no Taabou no Nakayoshi Daisakusen.nes</path>
+		<name>Minna no Taabou no Nakayoshi Daisakusen</name>
+		<image>./boxart/Minna no Taabou no Nakayoshi Daisakusen.png</image>
+		<marquee>./wheel/Minna no Taabou no Nakayoshi Daisakusen.png</marquee>
+		<video>./snap/Minna no Taabou no Nakayoshi Daisakusen.mp4</video>
+	</game>
+	<game>
+		<path>./Miracle Ropits Adventure in 2100.nes</path>
+		<name>Miracle Ropits Adventure in 2100</name>
+		<image>./boxart/Miracle Ropits Adventure in 2100.png</image>
+		<marquee>./wheel/Miracle Ropits Adventure in 2100.png</marquee>
+		<video>./snap/Miracle Ropits Adventure in 2100.mp4</video>
+	</game>
+	<game>
+		<path>./Mirai Senshi Lios.nes</path>
+		<name>Mirai Senshi Lios</name>
+		<image>./boxart/Mirai Senshi Lios.png</image>
+		<marquee>./wheel/Mirai Senshi Lios.png</marquee>
+		<video>./snap/Mirai Senshi Lios.mp4</video>
+	</game>
+	<game>
+		<path>./Mirai Shinwa Jarvas.nes</path>
+		<name>Mirai Shinwa Jarvas</name>
+		<image>./boxart/Mirai Shinwa Jarvas.png</image>
+		<marquee>./wheel/Mirai Shinwa Jarvas.png</marquee>
+		<video>./snap/Mirai Shinwa Jarvas.mp4</video>
+	</game>
+	<game>
+		<path>./Mitsume ga Tooru.nes</path>
+		<name>Mitsume ga Tooru</name>
+		<image>./boxart/Mitsume ga Tooru.png</image>
+		<marquee>./wheel/Mitsume ga Tooru.png</marquee>
+		<video>./snap/Mitsume ga Tooru.mp4</video>
+	</game>
+	<game>
+		<path>./Moai Kun.nes</path>
+		<name>Moai Kun</name>
+		<image>./boxart/Moai Kun.png</image>
+		<marquee>./wheel/Moai Kun.png</marquee>
+		<video>./snap/Moai Kun.mp4</video>
+	</game>
+	<game>
+		<path>./Moero TwinBee Cinnamon Hakase wo Sukue.nes</path>
+		<name>Moero TwinBee Cinnamon Hakase wo Sukue</name>
+		<image>./boxart/Moero TwinBee Cinnamon Hakase wo Sukue.png</image>
+		<marquee>./wheel/Moero TwinBee Cinnamon Hakase wo Sukue.png</marquee>
+		<video>./snap/Moero TwinBee Cinnamon Hakase wo Sukue.mp4</video>
+	</game>
+	<game>
+		<path>./Momotarou Densetsu.nes</path>
+		<name>Momotarou Densetsu</name>
+		<image>./boxart/Momotarou Densetsu.png</image>
+		<marquee>./wheel/Momotarou Densetsu.png</marquee>
+		<video>./snap/Momotarou Densetsu.mp4</video>
+	</game>
+	<game>
+		<path>./Moon Crystal.nes</path>
+		<name>Moon Crystal</name>
+		<image>./boxart/Moon Crystal.png</image>
+		<marquee>./wheel/Moon Crystal.png</marquee>
+		<video>./snap/Moon Crystal.mp4</video>
+	</game>
+	<game>
+		<path>./Mother.nes</path>
+		<name>Mother</name>
+		<image>./boxart/Mother.png</image>
+		<marquee>./wheel/Mother.png</marquee>
+		<video>./snap/Mother.mp4</video>
+	</game>
+	<game>
+		<path>./Motocross Champion.nes</path>
+		<name>Motocross Champion</name>
+		<image>./boxart/Motocross Champion.png</image>
+		<marquee>./wheel/Motocross Champion.png</marquee>
+		<video>./snap/Motocross Champion.mp4</video>
+	</game>
+	<game>
+		<path>./Mottomo Abunai Deka.nes</path>
+		<name>Mottomo Abunai Deka</name>
+		<image>./boxart/Mottomo Abunai Deka.png</image>
+		<marquee>./wheel/Mottomo Abunai Deka.png</marquee>
+		<video>./snap/Mottomo Abunai Deka.mp4</video>
+	</game>
+	<game>
+		<path>./Mouryou Senki Madara.nes</path>
+		<name>Mouryou Senki Madara</name>
+		<image>./boxart/Mouryou Senki Madara.png</image>
+		<marquee>./wheel/Mouryou Senki Madara.png</marquee>
+		<video>./snap/Mouryou Senki Madara.mp4</video>
+	</game>
+	<game>
+		<path>./Musashi no Bouken.nes</path>
+		<name>Musashi no Bouken</name>
+		<image>./boxart/Musashi no Bouken.png</image>
+		<marquee>./wheel/Musashi no Bouken.png</marquee>
+		<video>./snap/Musashi no Bouken.mp4</video>
+	</game>
+	<game>
+		<path>./Musashi no Ken Tadaima Shugyou Chuu.nes</path>
+		<name>Musashi no Ken Tadaima Shugyou Chuu</name>
+		<image>./boxart/Musashi no Ken Tadaima Shugyou Chuu.png</image>
+		<marquee>./wheel/Musashi no Ken Tadaima Shugyou Chuu.png</marquee>
+		<video>./snap/Musashi no Ken Tadaima Shugyou Chuu.mp4</video>
+	</game>
+	<game>
+		<path>./Nagagutsu o Haita Neko Sekai Isshuu 80 Nichi Daibouken.nes</path>
+		<name>Nagagutsu o Haita Neko Sekai Isshuu 80 Nichi Daibouken</name>
+		<image>./boxart/Nagagutsu o Haita Neko Sekai Isshuu 80 Nichi Daibouken.png</image>
+		<marquee>./wheel/Nagagutsu o Haita Neko Sekai Isshuu 80 Nichi Daibouken.png</marquee>
+		<video>./snap/Nagagutsu o Haita Neko Sekai Isshuu 80 Nichi Daibouken.mp4</video>
+	</game>
+	<game>
+		<path>./Nakayoshi to Issho.nes</path>
+		<name>Nakayoshi to Issho</name>
+		<image>./boxart/Nakayoshi to Issho.png</image>
+		<marquee>./wheel/Nakayoshi to Issho.png</marquee>
+		<video>./snap/Nakayoshi to Issho.mp4</video>
+	</game>
+	<game>
+		<path>./Nankoku Shirei Spy vs. Spy.nes</path>
+		<name>Nankoku Shirei Spy vs. Spy</name>
+		<image>./boxart/Nankoku Shirei Spy vs. Spy.png</image>
+		<marquee>./wheel/Nankoku Shirei Spy vs. Spy.png</marquee>
+		<video>./snap/Nankoku Shirei Spy vs. Spy.mp4</video>
+	</game>
+	<game>
+		<path>./Nekketsu Kakutou Densetsu.nes</path>
+		<name>Nekketsu Kakutou Densetsu</name>
+		<image>./boxart/Nekketsu Kakutou Densetsu.png</image>
+		<marquee>./wheel/Nekketsu Kakutou Densetsu.png</marquee>
+		<video>./snap/Nekketsu Kakutou Densetsu.mp4</video>
+	</game>
+	<game>
+		<path>./Nekketsu Kouha Kunio Kun.nes</path>
+		<name>Nekketsu Kouha Kunio Kun</name>
+		<image>./boxart/Nekketsu Kouha Kunio Kun.png</image>
+		<marquee>./wheel/Nekketsu Kouha Kunio Kun.png</marquee>
+		<video>./snap/Nekketsu Kouha Kunio Kun.mp4</video>
+	</game>
+	<game>
+		<path>./Nekketsu Street Basket Ganbare Dunk Heroes.nes</path>
+		<name>Nekketsu Street Basket Ganbare Dunk Heroes</name>
+		<image>./boxart/Nekketsu Street Basket Ganbare Dunk Heroes.png</image>
+		<marquee>./wheel/Nekketsu Street Basket Ganbare Dunk Heroes.png</marquee>
+		<video>./snap/Nekketsu Street Basket Ganbare Dunk Heroes.mp4</video>
+	</game>
+	<game>
+		<path>./Niji no Silk Road.nes</path>
+		<name>Niji no Silk Road</name>
+		<image>./boxart/Niji no Silk Road.png</image>
+		<marquee>./wheel/Niji no Silk Road.png</marquee>
+		<video>./snap/Niji no Silk Road.mp4</video>
+	</game>
+	<game>
+		<path>./Ninja Hattori kun Ninja wa Syugyou de Gozaru.nes</path>
+		<name>Ninja Hattori kun Ninja wa Syugyou de Gozaru</name>
+		<image>./boxart/Ninja Hattori kun Ninja wa Syugyou de Gozaru.png</image>
+		<marquee>./wheel/Ninja Hattori kun Ninja wa Syugyou de Gozaru.png</marquee>
+		<video>./snap/Ninja Hattori kun Ninja wa Syugyou de Gozaru.mp4</video>
+	</game>
+	<game>
+		<path>./Ninja Jajamaru Ginga Daisakusen.nes</path>
+		<name>Ninja Jajamaru Ginga Daisakusen</name>
+		<image>./boxart/Ninja Jajamaru Ginga Daisakusen.png</image>
+		<marquee>./wheel/Ninja Jajamaru Ginga Daisakusen.png</marquee>
+		<video>./snap/Ninja Jajamaru Ginga Daisakusen.mp4</video>
+	</game>
+	<game>
+		<path>./Ninja Jajamaru Kun.nes</path>
+		<name>Ninja Jajamaru Kun</name>
+		<image>./boxart/Ninja Jajamaru Kun.png</image>
+		<marquee>./wheel/Ninja Jajamaru Kun.png</marquee>
+		<video>./snap/Ninja Jajamaru Kun.mp4</video>
+	</game>
+	<game>
+		<path>./Ninja kun Ashura no Shou.nes</path>
+		<name>Ninja kun Ashura no Shou</name>
+		<image>./boxart/Ninja kun Ashura no Shou.png</image>
+		<marquee>./wheel/Ninja kun Ashura no Shou.png</marquee>
+		<video>./snap/Ninja kun Ashura no Shou.mp4</video>
+	</game>
+	<game>
+		<path>./Ninja kun Majou no Bouken.nes</path>
+		<name>Ninja kun Majou no Bouken</name>
+		<image>./boxart/Ninja kun Majou no Bouken.png</image>
+		<marquee>./wheel/Ninja kun Majou no Bouken.png</marquee>
+		<video>./snap/Ninja kun Majou no Bouken.mp4</video>
+	</game>
+	<game>
+		<path>./Ninjara Hoi.nes</path>
+		<name>Ninjara Hoi</name>
+		<image>./boxart/Ninjara Hoi.png</image>
+		<marquee>./wheel/Ninjara Hoi.png</marquee>
+		<video>./snap/Ninjara Hoi.mp4</video>
+	</game>
+	<game>
+		<path>./Nuts & Milk.nes</path>
+		<name>Nuts & Milk</name>
+		<image>./boxart/Nuts & Milk.png</image>
+		<marquee>./wheel/Nuts & Milk.png</marquee>
+		<video>./snap/Nuts & Milk.mp4</video>
+	</game>
+	<game>
+		<path>./Obake no Q Tarou Wan Wan Panic.nes</path>
+		<name>Obake no Q Tarou Wan Wan Panic</name>
+		<image>./boxart/Obake no Q Tarou Wan Wan Panic.png</image>
+		<marquee>./wheel/Obake no Q Tarou Wan Wan Panic.png</marquee>
+		<video>./snap/Obake no Q Tarou Wan Wan Panic.mp4</video>
+	</game>
+	<game>
+		<path>./Oishinbo Kyukyoku no Menu 3bon Syoubu.nes</path>
+		<name>Oishinbo Kyukyoku no Menu 3bon Syoubu</name>
+		<image>./boxart/Oishinbo Kyukyoku no Menu 3bon Syoubu.png</image>
+		<marquee>./wheel/Oishinbo Kyukyoku no Menu 3bon Syoubu.png</marquee>
+		<video>./snap/Oishinbo Kyukyoku no Menu 3bon Syoubu.mp4</video>
+	</game>
+	<game>
+		<path>./Onyanko Town.nes</path>
+		<name>Onyanko Town</name>
+		<image>./boxart/Onyanko Town.png</image>
+		<marquee>./wheel/Onyanko Town.png</marquee>
+		<video>./snap/Onyanko Town.mp4</video>
+	</game>
+	<game>
+		<path>./Paaman Part 2 Himitsu Kessha Madoodan o Taose.nes</path>
+		<name>Paaman Part 2 Himitsu Kessha Madoodan o Taose</name>
+		<image>./boxart/Paaman Part 2 Himitsu Kessha Madoodan o Taose.png</image>
+		<marquee>./wheel/Paaman Part 2 Himitsu Kessha Madoodan o Taose.png</marquee>
+		<video>./snap/Paaman Part 2 Himitsu Kessha Madoodan o Taose.mp4</video>
+	</game>
+	<game>
+		<path>./Pac Land.nes</path>
+		<name>Pac Land</name>
+		<image>./boxart/Pac Land.png</image>
+		<marquee>./wheel/Pac Land.png</marquee>
+		<video>./snap/Pac Land.mp4</video>
+	</game>
+	<game>
+		<path>./Pachicom.nes</path>
+		<name>Pachicom</name>
+		<image>./boxart/Pachicom.png</image>
+		<marquee>./wheel/Pachicom.png</marquee>
+		<video>./snap/Pachicom.mp4</video>
+	</game>
+	<game>
+		<path>./Pachinko Daisakusen 2.nes</path>
+		<name>Pachinko Daisakusen 2</name>
+		<image>./boxart/Pachinko Daisakusen 2.png</image>
+		<marquee>./wheel/Pachinko Daisakusen 2.png</marquee>
+		<video>./snap/Pachinko Daisakusen 2.mp4</video>
+	</game>
+	<game>
+		<path>./Pachinko Daisakusen.nes</path>
+		<name>Pachinko Daisakusen</name>
+		<image>./boxart/Pachinko Daisakusen.png</image>
+		<marquee>./wheel/Pachinko Daisakusen.png</marquee>
+		<video>./snap/Pachinko Daisakusen.mp4</video>
+	</game>
+	<game>
+		<path>./Palamedes II Star Twinkles.nes</path>
+		<name>Palamedes II Star Twinkles</name>
+		<image>./boxart/Palamedes II Star Twinkles.png</image>
+		<marquee>./wheel/Palamedes II Star Twinkles.png</marquee>
+		<video>./snap/Palamedes II Star Twinkles.mp4</video>
+	</game>
+	<game>
+		<path>./Parallel World.nes</path>
+		<name>Parallel World</name>
+		<image>./boxart/Parallel World.png</image>
+		<marquee>./wheel/Parallel World.png</marquee>
+		<video>./snap/Parallel World.mp4</video>
+	</game>
+	<game>
+		<path>./Paris Dakar Rally Special.nes</path>
+		<name>Paris Dakar Rally Special</name>
+		<image>./boxart/Paris Dakar Rally Special.png</image>
+		<marquee>./wheel/Paris Dakar Rally Special.png</marquee>
+		<video>./snap/Paris Dakar Rally Special.mp4</video>
+	</game>
+	<game>
+		<path>./Parodius Da.nes</path>
+		<name>Parodius Da</name>
+		<image>./boxart/Parodius Da.png</image>
+		<marquee>./wheel/Parodius Da.png</marquee>
+		<video>./snap/Parodius Da.mp4</video>
+	</game>
+	<game>
+		<path>./Parody World Monster Party.nes</path>
+		<name>Parody World Monster Party</name>
+		<image>./boxart/Parody World Monster Party.png</image>
+		<marquee>./wheel/Parody World Monster Party.png</marquee>
+		<video>./snap/Parody World Monster Party.mp4</video>
+	</game>
+	<game>
+		<path>./Peepar Time.nes</path>
+		<name>Peepar Time</name>
+		<image>./boxart/Peepar Time.png</image>
+		<marquee>./wheel/Peepar Time.png</marquee>
+		<video>./snap/Peepar Time.mp4</video>
+	</game>
+	<game>
+		<path>./Penguin Kun Wars.nes</path>
+		<name>Penguin Kun Wars</name>
+		<image>./boxart/Penguin Kun Wars.png</image>
+		<marquee>./wheel/Penguin Kun Wars.png</marquee>
+		<video>./snap/Penguin Kun Wars.mp4</video>
+	</game>
+	<game>
+		<path>./Perfect Bowling.nes</path>
+		<name>Perfect Bowling</name>
+		<image>./boxart/Perfect Bowling.png</image>
+		<marquee>./wheel/Perfect Bowling.png</marquee>
+		<video>./snap/Perfect Bowling.mp4</video>
+	</game>
+	<game>
+		<path>./Pescatore.nes</path>
+		<name>Pescatore</name>
+		<image>./boxart/Pescatore.png</image>
+		<marquee>./wheel/Pescatore.png</marquee>
+		<video>./snap/Pescatore.mp4</video>
+	</game>
+	<game>
+		<path>./Pizza Pop.nes</path>
+		<name>Pizza Pop</name>
+		<image>./boxart/Pizza Pop.png</image>
+		<marquee>./wheel/Pizza Pop.png</marquee>
+		<video>./snap/Pizza Pop.mp4</video>
+	</game>
+	<game>
+		<path>./Pooyan.nes</path>
+		<name>Pooyan</name>
+		<image>./boxart/Pooyan.png</image>
+		<marquee>./wheel/Pooyan.png</marquee>
+		<video>./snap/Pooyan.mp4</video>
+	</game>
+	<game>
+		<path>./Popeye no Eigo Asobi.nes</path>
+		<name>Popeye no Eigo Asobi</name>
+		<image>./boxart/Popeye no Eigo Asobi.png</image>
+		<marquee>./wheel/Popeye no Eigo Asobi.png</marquee>
+		<video>./snap/Popeye no Eigo Asobi.mp4</video>
+	</game>
+	<game>
+		<path>./Portopia Renzoku Satsujin Jiken.nes</path>
+		<name>Portopia Renzoku Satsujin Jiken</name>
+		<image>./boxart/Portopia Renzoku Satsujin Jiken.png</image>
+		<marquee>./wheel/Portopia Renzoku Satsujin Jiken.png</marquee>
+		<video>./snap/Portopia Renzoku Satsujin Jiken.mp4</video>
+	</game>
+	<game>
+		<path>./Power Blazer.nes</path>
+		<name>Power Blazer</name>
+		<image>./boxart/Power Blazer.png</image>
+		<marquee>./wheel/Power Blazer.png</marquee>
+		<video>./snap/Power Blazer.mp4</video>
+	</game>
+	<game>
+		<path>./Power Soccer.nes</path>
+		<name>Power Soccer</name>
+		<image>./boxart/Power Soccer.png</image>
+		<marquee>./wheel/Power Soccer.png</marquee>
+		<video>./snap/Power Soccer.mp4</video>
+	</game>
+	<game>
+		<path>./Puyo Puyo.nes</path>
+		<name>Puyo Puyo</name>
+		<image>./boxart/Puyo Puyo.png</image>
+		<marquee>./wheel/Puyo Puyo.png</marquee>
+		<video>./snap/Puyo Puyo.mp4</video>
+	</game>
+	<game>
+		<path>./Puzslot.nes</path>
+		<name>Puzslot</name>
+		<image>./boxart/Puzslot.png</image>
+		<marquee>./wheel/Puzslot.png</marquee>
+		<video>./snap/Puzslot.mp4</video>
+	</game>
+	<game>
+		<path>./Quarth.nes</path>
+		<name>Quarth</name>
+		<image>./boxart/Quarth.png</image>
+		<marquee>./wheel/Quarth.png</marquee>
+		<video>./snap/Quarth.mp4</video>
+	</game>
+	<game>
+		<path>./Radia Senki Reimei Hen.nes</path>
+		<name>Radia Senki Reimei Hen</name>
+		<image>./boxart/Radia Senki Reimei Hen.png</image>
+		<marquee>./wheel/Radia Senki Reimei Hen.png</marquee>
+		<video>./snap/Radia Senki Reimei Hen.mp4</video>
+	</game>
+	<game>
+		<path>./Robocco Wars.nes</path>
+		<name>Robocco Wars</name>
+		<image>./boxart/Robocco Wars.png</image>
+		<marquee>./wheel/Robocco Wars.png</marquee>
+		<video>./snap/Robocco Wars.mp4</video>
+	</game>
+	<game>
+		<path>./Rockman 2 Dr. Wily no Nazo.nes</path>
+		<name>Rockman 2 Dr. Wily no Nazo</name>
+		<image>./boxart/Rockman 2 Dr. Wily no Nazo.png</image>
+		<marquee>./wheel/Rockman 2 Dr. Wily no Nazo.png</marquee>
+		<video>./snap/Rockman 2 Dr. Wily no Nazo.mp4</video>
+	</game>
+	<game>
+		<path>./Romancia.nes</path>
+		<name>Romancia</name>
+		<image>./boxart/Romancia.png</image>
+		<marquee>./wheel/Romancia.png</marquee>
+		<video>./snap/Romancia.mp4</video>
+	</game>
+	<game>
+		<path>./Route 16 Turbo.nes</path>
+		<name>Route 16 Turbo</name>
+		<image>./boxart/Route 16 Turbo.png</image>
+		<marquee>./wheel/Route 16 Turbo.png</marquee>
+		<video>./snap/Route 16 Turbo.mp4</video>
+	</game>
+	<game>
+		<path>./Saint Seiya Ougon Densetsu Kanketsu Hen.nes</path>
+		<name>Saint Seiya Ougon Densetsu Kanketsu Hen</name>
+		<image>./boxart/Saint Seiya Ougon Densetsu Kanketsu Hen.png</image>
+		<marquee>./wheel/Saint Seiya Ougon Densetsu Kanketsu Hen.png</marquee>
+		<video>./snap/Saint Seiya Ougon Densetsu Kanketsu Hen.mp4</video>
+	</game>
+	<game>
+		<path>./Saint Seiya Ougon Densetsu.nes</path>
+		<name>Saint Seiya Ougon Densetsu</name>
+		<image>./boxart/Saint Seiya Ougon Densetsu.png</image>
+		<marquee>./wheel/Saint Seiya Ougon Densetsu.png</marquee>
+		<video>./snap/Saint Seiya Ougon Densetsu.mp4</video>
+	</game>
+	<game>
+		<path>./Saiyuuki World 2 Tenjoukai no Majin.nes</path>
+		<name>Saiyuuki World 2 Tenjoukai no Majin</name>
+		<image>./boxart/Saiyuuki World 2 Tenjoukai no Majin.png</image>
+		<marquee>./wheel/Saiyuuki World 2 Tenjoukai no Majin.png</marquee>
+		<video>./snap/Saiyuuki World 2 Tenjoukai no Majin.mp4</video>
+	</game>
+	<game>
+		<path>./Sanrio Carnival 2.nes</path>
+		<name>Sanrio Carnival 2</name>
+		<image>./boxart/Sanrio Carnival 2.png</image>
+		<marquee>./wheel/Sanrio Carnival 2.png</marquee>
+		<video>./snap/Sanrio Carnival 2.mp4</video>
+	</game>
+	<game>
+		<path>./Sanrio Cup Pon Pon Volley.nes</path>
+		<name>Sanrio Cup Pon Pon Volley</name>
+		<image>./boxart/Sanrio Cup Pon Pon Volley.png</image>
+		<marquee>./wheel/Sanrio Cup Pon Pon Volley.png</marquee>
+		<video>./snap/Sanrio Cup Pon Pon Volley.mp4</video>
+	</game>
+	<game>
+		<path>./Sansara Naga.nes</path>
+		<name>Sansara Naga</name>
+		<image>./boxart/Sansara Naga.png</image>
+		<marquee>./wheel/Sansara Naga.png</marquee>
+		<video>./snap/Sansara Naga.mp4</video>
+	</game>
+	<game>
+		<path>./SD Hero Soukessen Taose Aku no Gundan.nes</path>
+		<name>SD Hero Soukessen Taose Aku no Gundan</name>
+		<image>./boxart/SD Hero Soukessen Taose Aku no Gundan.png</image>
+		<marquee>./wheel/SD Hero Soukessen Taose Aku no Gundan.png</marquee>
+		<video>./snap/SD Hero Soukessen Taose Aku no Gundan.mp4</video>
+	</game>
+	<game>
+		<path>./SD Keiji Blader.nes</path>
+		<name>SD Keiji Blader</name>
+		<image>./boxart/SD Keiji Blader.png</image>
+		<marquee>./wheel/SD Keiji Blader.png</marquee>
+		<video>./snap/SD Keiji Blader.mp4</video>
+	</game>
+	<game>
+		<path>./Seirei Gari.nes</path>
+		<name>Seirei Gari</name>
+		<image>./boxart/Seirei Gari.png</image>
+		<marquee>./wheel/Seirei Gari.png</marquee>
+		<video>./snap/Seirei Gari.mp4</video>
+	</game>
+	<game>
+		<path>./Shanghai II.nes</path>
+		<name>Shanghai II</name>
+		<image>./boxart/Shanghai II.png</image>
+		<marquee>./wheel/Shanghai II.png</marquee>
+		<video>./snap/Shanghai II.mp4</video>
+	</game>
+	<game>
+		<path>./Shanghai.nes</path>
+		<name>Shanghai</name>
+		<image>./boxart/Shanghai.png</image>
+		<marquee>./wheel/Shanghai.png</marquee>
+		<video>./snap/Shanghai.mp4</video>
+	</game>
+	<game>
+		<path>./Shikinjou.nes</path>
+		<name>Shikinjou</name>
+		<image>./boxart/Shikinjou.png</image>
+		<marquee>./wheel/Shikinjou.png</marquee>
+		<video>./snap/Shikinjou.mp4</video>
+	</game>
+	<game>
+		<path>./Shinsenden.nes</path>
+		<name>Shinsenden</name>
+		<image>./boxart/Shinsenden.png</image>
+		<marquee>./wheel/Shinsenden.png</marquee>
+		<video>./snap/Shinsenden.mp4</video>
+	</game>
+	<game>
+		<path>./Shufflepuck Cafe.nes</path>
+		<name>Shufflepuck Cafe</name>
+		<image>./boxart/Shufflepuck Cafe.png</image>
+		<marquee>./wheel/Shufflepuck Cafe.png</marquee>
+		<video>./snap/Shufflepuck Cafe.mp4</video>
+	</game>
+	<game>
+		<path>./Silva Saga.nes</path>
+		<name>Silva Saga</name>
+		<image>./boxart/Silva Saga.png</image>
+		<marquee>./wheel/Silva Saga.png</marquee>
+		<video>./snap/Silva Saga.mp4</video>
+	</game>
+	<game>
+		<path>./Sky Destroyer.nes</path>
+		<name>Sky Destroyer</name>
+		<image>./boxart/Sky Destroyer.png</image>
+		<marquee>./wheel/Sky Destroyer.png</marquee>
+		<video>./snap/Sky Destroyer.mp4</video>
+	</game>
+	<game>
+		<path>./Softball Tengoku.nes</path>
+		<name>Softball Tengoku</name>
+		<image>./boxart/Softball Tengoku.png</image>
+		<marquee>./wheel/Softball Tengoku.png</marquee>
+		<video>./snap/Softball Tengoku.mp4</video>
+	</game>
+	<game>
+		<path>./Son Son.nes</path>
+		<name>Son Son</name>
+		<image>./boxart/Son Son.png</image>
+		<marquee>./wheel/Son Son.png</marquee>
+		<video>./snap/Son Son.mp4</video>
+	</game>
+	<game>
+		<path>./Space Harrier.nes</path>
+		<name>Space Harrier</name>
+		<image>./boxart/Space Harrier.png</image>
+		<marquee>./wheel/Space Harrier.png</marquee>
+		<video>./snap/Space Harrier.mp4</video>
+	</game>
+	<game>
+		<path>./Space Invaders.nes</path>
+		<name>Space Invaders</name>
+		<image>./boxart/Space Invaders.png</image>
+		<marquee>./wheel/Space Invaders.png</marquee>
+		<video>./snap/Space Invaders.mp4</video>
+	</game>
+	<game>
+		<path>./Space Shadow.nes</path>
+		<name>Space Shadow</name>
+		<image>./boxart/Space Shadow.png</image>
+		<marquee>./wheel/Space Shadow.png</marquee>
+		<video>./snap/Space Shadow.mp4</video>
+	</game>
+	<game>
+		<path>./Spartan X 2.nes</path>
+		<name>Spartan X 2</name>
+		<image>./boxart/Spartan X 2.png</image>
+		<marquee>./wheel/Spartan X 2.png</marquee>
+		<video>./snap/Spartan X 2.mp4</video>
+	</game>
+	<game>
+		<path>./Spelunker II Yuusha e no Chousen.nes</path>
+		<name>Spelunker II Yuusha e no Chousen</name>
+		<image>./boxart/Spelunker II Yuusha e no Chousen.png</image>
+		<marquee>./wheel/Spelunker II Yuusha e no Chousen.png</marquee>
+		<video>./snap/Spelunker II Yuusha e no Chousen.mp4</video>
+	</game>
+	<game>
+		<path>./Splatterhouse Wanpaku Graffiti.nes</path>
+		<name>Splatterhouse Wanpaku Graffiti</name>
+		<image>./boxart/Splatterhouse Wanpaku Graffiti.png</image>
+		<marquee>./wheel/Splatterhouse Wanpaku Graffiti.png</marquee>
+		<video>./snap/Splatterhouse Wanpaku Graffiti.mp4</video>
+	</game>
+	<game>
+		<path>./Sqoon.nes</path>
+		<name>Sqoon</name>
+		<image>./boxart/Sqoon.png</image>
+		<marquee>./wheel/Sqoon.png</marquee>
+		<video>./snap/Sqoon.mp4</video>
+	</game>
+	<game>
+		<path>./Star Luster.nes</path>
+		<name>Star Luster</name>
+		<image>./boxart/Star Luster.png</image>
+		<marquee>./wheel/Star Luster.png</marquee>
+		<video>./snap/Star Luster.mp4</video>
+	</game>
+	<game>
+		<path>./Star WarsNamco.nes</path>
+		<name>Star WarsNamco</name>
+		<image>./boxart/Star WarsNamco.png</image>
+		<marquee>./wheel/Star WarsNamco.png</marquee>
+		<video>./snap/Star WarsNamco.mp4</video>
+	</game>
+	<game>
+		<path>./Sted Iseki Wakusei no Yabou.nes</path>
+		<name>Sted Iseki Wakusei no Yabou</name>
+		<image>./boxart/Sted Iseki Wakusei no Yabou.png</image>
+		<marquee>./wheel/Sted Iseki Wakusei no Yabou.png</marquee>
+		<video>./snap/Sted Iseki Wakusei no Yabou.mp4</video>
+	</game>
+	<game>
+		<path>./Stick Hunter Exciting Ice Hockey.nes</path>
+		<name>Stick Hunter Exciting Ice Hockey</name>
+		<image>./boxart/Stick Hunter Exciting Ice Hockey.png</image>
+		<marquee>./wheel/Stick Hunter Exciting Ice Hockey.png</marquee>
+		<video>./snap/Stick Hunter Exciting Ice Hockey.mp4</video>
+	</game>
+	<game>
+		<path>./Sugoro Quest Dice no Senshitachi.nes</path>
+		<name>Sugoro Quest Dice no Senshitachi</name>
+		<image>./boxart/Sugoro Quest Dice no Senshitachi.png</image>
+		<marquee>./wheel/Sugoro Quest Dice no Senshitachi.png</marquee>
+		<video>./snap/Sugoro Quest Dice no Senshitachi.mp4</video>
+	</game>
+	<game>
+		<path>./Summer Carnival 92 Recca.nes</path>
+		<name>Summer Carnival 92 Recca</name>
+		<image>./boxart/Summer Carnival 92 Recca.png</image>
+		<marquee>./wheel/Summer Carnival 92 Recca.png</marquee>
+		<video>./snap/Summer Carnival 92 Recca.mp4</video>
+	</game>
+	<game>
+		<path>./Super Arabian.nes</path>
+		<name>Super Arabian</name>
+		<image>./boxart/Super Arabian.png</image>
+		<marquee>./wheel/Super Arabian.png</marquee>
+		<video>./snap/Super Arabian.mp4</video>
+	</game>
+	<game>
+		<path>./Super Black Onyx.nes</path>
+		<name>Super Black Onyx</name>
+		<image>./boxart/Super Black Onyx.png</image>
+		<marquee>./wheel/Super Black Onyx.png</marquee>
+		<video>./snap/Super Black Onyx.mp4</video>
+	</game>
+	<game>
+		<path>./Super Contra 7.nes</path>
+		<name>Super Contra 7</name>
+		<image>./boxart/Super Contra 7.png</image>
+		<marquee>./wheel/Super Contra 7.png</marquee>
+		<video>./snap/Super Contra 7.mp4</video>
+	</game>
+	<game>
+		<path>./Super Donkey Kong Xiang Jiao Chuan.nes</path>
+		<name>Super Donkey Kong Xiang Jiao Chuan</name>
+		<image>./boxart/Super Donkey Kong Xiang Jiao Chuan.png</image>
+		<marquee>./wheel/Super Donkey Kong Xiang Jiao Chuan.png</marquee>
+		<video>./snap/Super Donkey Kong Xiang Jiao Chuan.mp4</video>
+	</game>
+	<game>
+		<path>./Super Dynamix Badminton.nes</path>
+		<name>Super Dynamix Badminton</name>
+		<image>./boxart/Super Dynamix Badminton.png</image>
+		<marquee>./wheel/Super Dynamix Badminton.png</marquee>
+		<video>./snap/Super Dynamix Badminton.mp4</video>
+	</game>
+	<game>
+		<path>./Super Mario Bros 25 Anniversary Edition.nes</path>
+		<name>Super Mario Bros 25 Anniversary Edition</name>
+		<image>./boxart/Super Mario Bros 25 Anniversary Edition.png</image>
+		<marquee>./wheel/Super Mario Bros 25 Anniversary Edition.png</marquee>
+		<video>./snap/Super Mario Bros 25 Anniversary Edition.mp4</video>
+	</game>
+	<game>
+		<path>./Super Maruo.nes</path>
+		<name>Super Maruo</name>
+		<image>./boxart/Super Maruo.png</image>
+		<marquee>./wheel/Super Maruo.png</marquee>
+		<video>./snap/Super Maruo.mp4</video>
+	</game>
+	<game>
+		<path>./Super Pinball.nes</path>
+		<name>Super Pinball</name>
+		<image>./boxart/Super Pinball.png</image>
+		<marquee>./wheel/Super Pinball.png</marquee>
+		<video>./snap/Super Pinball.mp4</video>
+	</game>
+	<game>
+		<path>./Super Star Force.nes</path>
+		<name>Super Star Force</name>
+		<image>./boxart/Super Star Force.png</image>
+		<marquee>./wheel/Super Star Force.png</marquee>
+		<video>./snap/Super Star Force.mp4</video>
+	</game>
+	<game>
+		<path>./Super Xevious Gump no Nazo.nes</path>
+		<name>Super Xevious Gump no Nazo</name>
+		<image>./boxart/Super Xevious Gump no Nazo.png</image>
+		<marquee>./wheel/Super Xevious Gump no Nazo.png</marquee>
+		<video>./snap/Super Xevious Gump no Nazo.mp4</video>
+	</game>
+	<game>
+		<path>./Superstar Pro Wrestling.nes</path>
+		<name>Superstar Pro Wrestling</name>
+		<image>./boxart/Superstar Pro Wrestling.png</image>
+		<marquee>./wheel/Superstar Pro Wrestling.png</marquee>
+		<video>./snap/Superstar Pro Wrestling.mp4</video>
+	</game>
+	<game>
+		<path>./Sweet Home.nes</path>
+		<name>Sweet Home</name>
+		<image>./boxart/Sweet Home.png</image>
+		<marquee>./wheel/Sweet Home.png</marquee>
+		<video>./snap/Sweet Home.mp4</video>
+	</game>
+	<game>
+		<path>./Taito Chase H.Q..nes</path>
+		<name>Taito Chase H.Q.</name>
+		<image>./boxart/Taito Chase H.Q..png</image>
+		<marquee>./wheel/Taito Chase H.Q..png</marquee>
+		<video>./snap/Taito Chase H.Q..mp4</video>
+	</game>
+	<game>
+		<path>./Taito Grand Prix Eikou e no License.nes</path>
+		<name>Taito Grand Prix Eikou e no License</name>
+		<image>./boxart/Taito Grand Prix Eikou e no License.png</image>
+		<marquee>./wheel/Taito Grand Prix Eikou e no License.png</marquee>
+		<video>./snap/Taito Grand Prix Eikou e no License.mp4</video>
+	</game>
+	<game>
+		<path>./Taiyou no Yuusha Fighbird.nes</path>
+		<name>Taiyou no Yuusha Fighbird</name>
+		<image>./boxart/Taiyou no Yuusha Fighbird.png</image>
+		<marquee>./wheel/Taiyou no Yuusha Fighbird.png</marquee>
+		<video>./snap/Taiyou no Yuusha Fighbird.mp4</video>
+	</game>
+	<game>
+		<path>./Takahashi Meijin no Bouken Jima IV.nes</path>
+		<name>Takahashi Meijin no Bouken Jima IV</name>
+		<image>./boxart/Takahashi Meijin no Bouken Jima IV.png</image>
+		<marquee>./wheel/Takahashi Meijin no Bouken Jima IV.png</marquee>
+		<video>./snap/Takahashi Meijin no Bouken Jima IV.mp4</video>
+	</game>
+	<game>
+		<path>./Takahashi Meijin no Bugutte Honey.nes</path>
+		<name>Takahashi Meijin no Bugutte Honey</name>
+		<image>./boxart/Takahashi Meijin no Bugutte Honey.png</image>
+		<marquee>./wheel/Takahashi Meijin no Bugutte Honey.png</marquee>
+		<video>./snap/Takahashi Meijin no Bugutte Honey.mp4</video>
+	</game>
+	<game>
+		<path>./Takeshi no Chousenjou.nes</path>
+		<name>Takeshi no Chousenjou</name>
+		<image>./boxart/Takeshi no Chousenjou.png</image>
+		<marquee>./wheel/Takeshi no Chousenjou.png</marquee>
+		<video>./snap/Takeshi no Chousenjou.mp4</video>
+	</game>
+	<game>
+		<path>./Tao.nes</path>
+		<name>Tao</name>
+		<image>./boxart/Tao.png</image>
+		<marquee>./wheel/Tao.png</marquee>
+		<video>./snap/Tao.mp4</video>
+	</game>
+	<game>
+		<path>./Tashiro Masashi no Princess ga Ippai.nes</path>
+		<name>Tashiro Masashi no Princess ga Ippai</name>
+		<image>./boxart/Tashiro Masashi no Princess ga Ippai.png</image>
+		<marquee>./wheel/Tashiro Masashi no Princess ga Ippai.png</marquee>
+		<video>./snap/Tashiro Masashi no Princess ga Ippai.mp4</video>
+	</game>
+	<game>
+		<path>./Tenchi wo Kurau II Shokatsu Koumei Den.nes</path>
+		<name>Tenchi wo Kurau II Shokatsu Koumei Den</name>
+		<image>./boxart/Tenchi wo Kurau II Shokatsu Koumei Den.png</image>
+		<marquee>./wheel/Tenchi wo Kurau II Shokatsu Koumei Den.png</marquee>
+		<video>./snap/Tenchi wo Kurau II Shokatsu Koumei Den.mp4</video>
+	</game>
+	<game>
+		<path>./Tetrastar The Fighter.nes</path>
+		<name>Tetrastar The Fighter</name>
+		<image>./boxart/Tetrastar The Fighter.png</image>
+		<marquee>./wheel/Tetrastar The Fighter.png</marquee>
+		<video>./snap/Tetrastar The Fighter.mp4</video>
+	</game>
+	<game>
+		<path>./Tetris 2 + Bombliss.nes</path>
+		<name>Tetris 2 + Bombliss</name>
+		<image>./boxart/Tetris 2 + Bombliss.png</image>
+		<marquee>./wheel/Tetris 2 + Bombliss.png</marquee>
+		<video>./snap/Tetris 2 + Bombliss.mp4</video>
+	</game>
+	<game>
+		<path>./Tetris Bulletproof.nes</path>
+		<name>Tetris Bulletproof</name>
+		<image>./boxart/Tetris Bulletproof.png</image>
+		<marquee>./wheel/Tetris Bulletproof.png</marquee>
+		<video>./snap/Tetris Bulletproof.mp4</video>
+	</game>
+	<game>
+		<path>./Thexder.nes</path>
+		<name>Thexder</name>
+		<image>./boxart/Thexder.png</image>
+		<marquee>./wheel/Thexder.png</marquee>
+		<video>./snap/Thexder.mp4</video>
+	</game>
+	<game>
+		<path>./Time Zone.nes</path>
+		<name>Time Zone</name>
+		<image>./boxart/Time Zone.png</image>
+		<marquee>./wheel/Time Zone.png</marquee>
+		<video>./snap/Time Zone.mp4</video>
+	</game>
+	<game>
+		<path>./Titan.nes</path>
+		<name>Titan</name>
+		<image>./boxart/Titan.png</image>
+		<marquee>./wheel/Titan.png</marquee>
+		<video>./snap/Titan.mp4</video>
+	</game>
+	<game>
+		<path>./Tokkyuu Shirei Solbrain.nes</path>
+		<name>Tokkyuu Shirei Solbrain</name>
+		<image>./boxart/Tokkyuu Shirei Solbrain.png</image>
+		<marquee>./wheel/Tokkyuu Shirei Solbrain.png</marquee>
+		<video>./snap/Tokkyuu Shirei Solbrain.mp4</video>
+	</game>
+	<game>
+		<path>./Top Rider.nes</path>
+		<name>Top Rider</name>
+		<image>./boxart/Top Rider.png</image>
+		<marquee>./wheel/Top Rider.png</marquee>
+		<video>./snap/Top Rider.mp4</video>
+	</game>
+	<game>
+		<path>./Toukon Club.nes</path>
+		<name>Toukon Club</name>
+		<image>./boxart/Toukon Club.png</image>
+		<marquee>./wheel/Toukon Club.png</marquee>
+		<video>./snap/Toukon Club.mp4</video>
+	</game>
+	<game>
+		<path>./Tower of Druaga The.nes</path>
+		<name>Tower of Druaga The</name>
+		<image>./boxart/Tower of Druaga The.png</image>
+		<marquee>./wheel/Tower of Druaga The.png</marquee>
+		<video>./snap/Tower of Druaga The.mp4</video>
+	</game>
+	<game>
+		<path>./Transformers Convoy no Nazo.nes</path>
+		<name>Transformers Convoy no Nazo</name>
+		<image>./boxart/Transformers Convoy no Nazo.png</image>
+		<marquee>./wheel/Transformers Convoy no Nazo.png</marquee>
+		<video>./snap/Transformers Convoy no Nazo.mp4</video>
+	</game>
+	<game>
+		<path>./Triathron The.nes</path>
+		<name>Triathron The</name>
+		<image>./boxart/Triathron The.png</image>
+		<marquee>./wheel/Triathron The.png</marquee>
+		<video>./snap/Triathron The.mp4</video>
+	</game>
+	<game>
+		<path>./Tsuri Kichi Sanpei Blue Marlin Hen.nes</path>
+		<name>Tsuri Kichi Sanpei Blue Marlin Hen</name>
+		<image>./boxart/Tsuri Kichi Sanpei Blue Marlin Hen.png</image>
+		<marquee>./wheel/Tsuri Kichi Sanpei Blue Marlin Hen.png</marquee>
+		<video>./snap/Tsuri Kichi Sanpei Blue Marlin Hen.mp4</video>
+	</game>
+	<game>
+		<path>./TwinBee 3 Poko Poko Daimaou.nes</path>
+		<name>TwinBee 3 Poko Poko Daimaou</name>
+		<image>./boxart/TwinBee 3 Poko Poko Daimaou.png</image>
+		<marquee>./wheel/TwinBee 3 Poko Poko Daimaou.png</marquee>
+		<video>./snap/TwinBee 3 Poko Poko Daimaou.mp4</video>
+	</game>
+	<game>
+		<path>./TwinBee.nes</path>
+		<name>TwinBee</name>
+		<image>./boxart/TwinBee.png</image>
+		<marquee>./wheel/TwinBee.png</marquee>
+		<video>./snap/TwinBee.mp4</video>
+	</game>
+	<game>
+		<path>./Uchuu Keibitai SDF.nes</path>
+		<name>Uchuu Keibitai SDF</name>
+		<image>./boxart/Uchuu Keibitai SDF.png</image>
+		<marquee>./wheel/Uchuu Keibitai SDF.png</marquee>
+		<video>./snap/Uchuu Keibitai SDF.mp4</video>
+	</game>
+	<game>
+		<path>./Urusei Yatsura Lum no Wedding Bell.nes</path>
+		<name>Urusei Yatsura Lum no Wedding Bell</name>
+		<image>./boxart/Urusei Yatsura Lum no Wedding Bell.png</image>
+		<marquee>./wheel/Urusei Yatsura Lum no Wedding Bell.png</marquee>
+		<video>./snap/Urusei Yatsura Lum no Wedding Bell.mp4</video>
+	</game>
+	<game>
+		<path>./Valis The Fantastic Soldier.nes</path>
+		<name>Valis The Fantastic Soldier</name>
+		<image>./boxart/Valis The Fantastic Soldier.png</image>
+		<marquee>./wheel/Valis The Fantastic Soldier.png</marquee>
+		<video>./snap/Valis The Fantastic Soldier.mp4</video>
+	</game>
+	<game>
+		<path>./Valkyrie no Bouken Toki no Kagi Densetsu.nes</path>
+		<name>Valkyrie no Bouken Toki no Kagi Densetsu</name>
+		<image>./boxart/Valkyrie no Bouken Toki no Kagi Densetsu.png</image>
+		<marquee>./wheel/Valkyrie no Bouken Toki no Kagi Densetsu.png</marquee>
+		<video>./snap/Valkyrie no Bouken Toki no Kagi Densetsu.mp4</video>
+	</game>
+	<game>
+		<path>./Volguard II.nes</path>
+		<name>Volguard II</name>
+		<image>./boxart/Volguard II.png</image>
+		<marquee>./wheel/Volguard II.png</marquee>
+		<video>./snap/Volguard II.mp4</video>
+	</game>
+	<game>
+		<path>./Wagyan Land 2.nes</path>
+		<name>Wagyan Land 2</name>
+		<image>./boxart/Wagyan Land 2.png</image>
+		<marquee>./wheel/Wagyan Land 2.png</marquee>
+		<video>./snap/Wagyan Land 2.mp4</video>
+	</game>
+	<game>
+		<path>./Wagyan Land.nes</path>
+		<name>Wagyan Land</name>
+		<image>./boxart/Wagyan Land.png</image>
+		<marquee>./wheel/Wagyan Land.png</marquee>
+		<video>./snap/Wagyan Land.mp4</video>
+	</game>
+	<game>
+		<path>./Wai Wai World 2 SOS Paseri Jou.nes</path>
+		<name>Wai Wai World 2 SOS Paseri Jou</name>
+		<image>./boxart/Wai Wai World 2 SOS Paseri Jou.png</image>
+		<marquee>./wheel/Wai Wai World 2 SOS Paseri Jou.png</marquee>
+		<video>./snap/Wai Wai World 2 SOS Paseri Jou.mp4</video>
+	</game>
+	<game>
+		<path>./Wai Wai World.nes</path>
+		<name>Wai Wai World</name>
+		<image>./boxart/Wai Wai World.png</image>
+		<marquee>./wheel/Wai Wai World.png</marquee>
+		<video>./snap/Wai Wai World.mp4</video>
+	</game>
+	<game>
+		<path>./Wanpaku Kokkun no Gourmet World.nes</path>
+		<name>Wanpaku Kokkun no Gourmet World</name>
+		<image>./boxart/Wanpaku Kokkun no Gourmet World.png</image>
+		<marquee>./wheel/Wanpaku Kokkun no Gourmet World.png</marquee>
+		<video>./snap/Wanpaku Kokkun no Gourmet World.mp4</video>
+	</game>
+	<game>
+		<path>./Warpman.nes</path>
+		<name>Warpman</name>
+		<image>./boxart/Warpman.png</image>
+		<marquee>./wheel/Warpman.png</marquee>
+		<video>./snap/Warpman.mp4</video>
+	</game>
+	<game>
+		<path>./Wily & Light no Rockboard Thats Paradise.nes</path>
+		<name>Wily & Light no Rockboard Thats Paradise</name>
+		<image>./boxart/Wily & Light no Rockboard Thats Paradise.png</image>
+		<marquee>./wheel/Wily & Light no Rockboard Thats Paradise.png</marquee>
+		<video>./snap/Wily & Light no Rockboard Thats Paradise.mp4</video>
+	</game>
+	<game>
+		<path>./Wits.nes</path>
+		<name>Wits</name>
+		<image>./boxart/Wits.png</image>
+		<marquee>./wheel/Wits.png</marquee>
+		<video>./snap/Wits.mp4</video>
+	</game>
+	<game>
+		<path>./Wizardry II Llylgamyn no Densetsu.nes</path>
+		<name>Wizardry II Llylgamyn no Densetsu</name>
+		<image>./boxart/Wizardry II Llylgamyn no Densetsu.png</image>
+		<marquee>./wheel/Wizardry II Llylgamyn no Densetsu.png</marquee>
+		<video>./snap/Wizardry II Llylgamyn no Densetsu.mp4</video>
+	</game>
+	<game>
+		<path>./Woody Poko.nes</path>
+		<name>Woody Poko</name>
+		<image>./boxart/Woody Poko.png</image>
+		<marquee>./wheel/Woody Poko.png</marquee>
+		<video>./snap/Woody Poko.mp4</video>
+	</game>
+	<game>
+		<path>./Yie Ar Kung Fu.nes</path>
+		<name>Yie Ar Kung Fu</name>
+		<image>./boxart/Yie Ar Kung Fu.png</image>
+		<marquee>./wheel/Yie Ar Kung Fu.png</marquee>
+		<video>./snap/Yie Ar Kung Fu.mp4</video>
+	</game>
+	<game>
+		<path>./Youkai Club.nes</path>
+		<name>Youkai Club</name>
+		<image>./boxart/Youkai Club.png</image>
+		<marquee>./wheel/Youkai Club.png</marquee>
+		<video>./snap/Youkai Club.mp4</video>
+	</game>
+	<game>
+		<path>./Ys II Ancient Ys Vanished The Final Chapter.nes</path>
+		<name>Ys II Ancient Ys Vanished The Final Chapter</name>
+		<image>./boxart/Ys II Ancient Ys Vanished The Final Chapter.png</image>
+		<marquee>./wheel/Ys II Ancient Ys Vanished The Final Chapter.png</marquee>
+		<video>./snap/Ys II Ancient Ys Vanished The Final Chapter.mp4</video>
+	</game>
+	<game>
+		<path>./Ys III Wanderers from Ys.nes</path>
+		<name>Ys III Wanderers from Ys</name>
+		<image>./boxart/Ys III Wanderers from Ys.png</image>
+		<marquee>./wheel/Ys III Wanderers from Ys.png</marquee>
+		<video>./snap/Ys III Wanderers from Ys.mp4</video>
+	</game>
+	<game>
+		<path>./Ys.nes</path>
+		<name>Ys</name>
+		<image>./boxart/Ys.png</image>
+		<marquee>./wheel/Ys.png</marquee>
+		<video>./snap/Ys.mp4</video>
+	</game>
+	<game>
+		<path>./Yume Penguin Monogatari.nes</path>
+		<name>Yume Penguin Monogatari</name>
+		<image>./boxart/Yume Penguin Monogatari.png</image>
+		<marquee>./wheel/Yume Penguin Monogatari.png</marquee>
+		<video>./snap/Yume Penguin Monogatari.mp4</video>
+	</game>
+	<game>
+		<path>./Zippy Race.nes</path>
+		<name>Zippy Race</name>
+		<image>./boxart/Zippy Race.png</image>
+		<marquee>./wheel/Zippy Race.png</marquee>
+		<video>./snap/Zippy Race.mp4</video>
+	</game>
+	<game>
+		<path>./Zoids Mokushiroku.nes</path>
+		<name>Zoids Mokushiroku</name>
+		<image>./boxart/Zoids Mokushiroku.png</image>
+		<marquee>./wheel/Zoids Mokushiroku.png</marquee>
+		<video>./snap/Zoids Mokushiroku.mp4</video>
+	</game>
+	<game>
+		<path>./Zombie Hunter.nes</path>
+		<name>Zombie Hunter</name>
+		<image>./boxart/Zombie Hunter.png</image>
+		<marquee>./wheel/Zombie Hunter.png</marquee>
+		<video>./snap/Zombie Hunter.mp4</video>
+	</game>
+	<game>
+		<path>./Zunou Senkan Galg.nes</path>
+		<name>Zunou Senkan Galg</name>
+		<image>./boxart/Zunou Senkan Galg.png</image>
+		<marquee>./wheel/Zunou Senkan Galg.png</marquee>
+		<video>./snap/Zunou Senkan Galg.mp4</video>
+	</game>
+</gameList>

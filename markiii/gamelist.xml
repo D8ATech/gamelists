@@ -1,0 +1,493 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Action Fighter 1.sms</path>
+		<name>Action Fighter 1</name>
+		<image>./boxart/Action Fighter 1.png</image>
+		<marquee>./wheel/Action Fighter 1.png</marquee>
+		<video>./snap/Action Fighter 1.mp4</video>
+	</game>
+	<game>
+		<path>./After Burner.sms</path>
+		<name>After Burner</name>
+		<image>./boxart/After Burner.png</image>
+		<marquee>./wheel/After Burner.png</marquee>
+		<video>./snap/After Burner.mp4</video>
+	</game>
+	<game>
+		<path>./Aleste.sms</path>
+		<name>Aleste</name>
+		<image>./boxart/Aleste.png</image>
+		<marquee>./wheel/Aleste.png</marquee>
+		<video>./snap/Aleste.mp4</video>
+	</game>
+	<game>
+		<path>./Alex Kidd BMX Trial.sms</path>
+		<name>Alex Kidd BMX Trial</name>
+		<image>./boxart/Alex Kidd BMX Trial.png</image>
+		<marquee>./wheel/Alex Kidd BMX Trial.png</marquee>
+		<video>./snap/Alex Kidd BMX Trial.mp4</video>
+	</game>
+	<game>
+		<path>./Alex Kidd no Miracle World.sms</path>
+		<name>Alex Kidd no Miracle World</name>
+		<image>./boxart/Alex Kidd no Miracle World.png</image>
+		<marquee>./wheel/Alex Kidd no Miracle World.png</marquee>
+		<video>./snap/Alex Kidd no Miracle World.mp4</video>
+	</game>
+	<game>
+		<path>./Alex Kidd The Lost Stars.sms</path>
+		<name>Alex Kidd The Lost Stars</name>
+		<image>./boxart/Alex Kidd The Lost Stars.png</image>
+		<marquee>./wheel/Alex Kidd The Lost Stars.png</marquee>
+		<video>./snap/Alex Kidd The Lost Stars.mp4</video>
+	</game>
+	<game>
+		<path>./Alien Syndrome.sms</path>
+		<name>Alien Syndrome</name>
+		<image>./boxart/Alien Syndrome.png</image>
+		<marquee>./wheel/Alien Syndrome.png</marquee>
+		<video>./snap/Alien Syndrome.mp4</video>
+	</game>
+	<game>
+		<path>./Anmitsu Hime.sms</path>
+		<name>Anmitsu Hime</name>
+		<image>./boxart/Anmitsu Hime.png</image>
+		<marquee>./wheel/Anmitsu Hime.png</marquee>
+		<video>./snap/Anmitsu Hime.mp4</video>
+	</game>
+	<game>
+		<path>./Argos no Juujiken.sms</path>
+		<name>Argos no Juujiken</name>
+		<image>./boxart/Argos no Juujiken.png</image>
+		<marquee>./wheel/Argos no Juujiken.png</marquee>
+		<video>./snap/Argos no Juujiken.mp4</video>
+	</game>
+	<game>
+		<path>./Ashura.sms</path>
+		<name>Ashura</name>
+		<image>./boxart/Ashura.png</image>
+		<marquee>./wheel/Ashura.png</marquee>
+		<video>./snap/Ashura.mp4</video>
+	</game>
+	<game>
+		<path>./Astro Warrior.sms</path>
+		<name>Astro Warrior</name>
+		<image>./boxart/Astro Warrior.png</image>
+		<marquee>./wheel/Astro Warrior.png</marquee>
+		<video>./snap/Astro Warrior.mp4</video>
+	</game>
+	<game>
+		<path>./Aztec Adventure The Golden Road to Paradise.sms</path>
+		<name>Aztec Adventure The Golden Road to Paradise</name>
+		<image>./boxart/Aztec Adventure The Golden Road to Paradise.png</image>
+		<marquee>./wheel/Aztec Adventure The Golden Road to Paradise.png</marquee>
+		<video>./snap/Aztec Adventure The Golden Road to Paradise.mp4</video>
+	</game>
+	<game>
+		<path>./Blade Eagle.sms</path>
+		<name>Blade Eagle</name>
+		<image>./boxart/Blade Eagle.png</image>
+		<marquee>./wheel/Blade Eagle.png</marquee>
+		<video>./snap/Blade Eagle.mp4</video>
+	</game>
+	<game>
+		<path>./Bomber Raid.sms</path>
+		<name>Bomber Raid</name>
+		<image>./boxart/Bomber Raid.png</image>
+		<marquee>./wheel/Bomber Raid.png</marquee>
+		<video>./snap/Bomber Raid.mp4</video>
+	</game>
+	<game>
+		<path>./Captain Silver.sms</path>
+		<name>Captain Silver</name>
+		<image>./boxart/Captain Silver.png</image>
+		<marquee>./wheel/Captain Silver.png</marquee>
+		<video>./snap/Captain Silver.mp4</video>
+	</game>
+	<game>
+		<path>./Chouon Senshi Borgman.sms</path>
+		<name>Chouon Senshi Borgman</name>
+		<image>./boxart/Chouon Senshi Borgman.png</image>
+		<marquee>./wheel/Chouon Senshi Borgman.png</marquee>
+		<video>./snap/Chouon Senshi Borgman.mp4</video>
+	</game>
+	<game>
+		<path>./Circuit The.sms</path>
+		<name>Circuit The</name>
+		<image>./boxart/Circuit The.png</image>
+		<marquee>./wheel/Circuit The.png</marquee>
+		<video>./snap/Circuit The.mp4</video>
+	</game>
+	<game>
+		<path>./Doki Doki Penguin Land Uchuu Daibouken.sms</path>
+		<name>Doki Doki Penguin Land Uchuu Daibouken</name>
+		<image>./boxart/Doki Doki Penguin Land Uchuu Daibouken.png</image>
+		<marquee>./wheel/Doki Doki Penguin Land Uchuu Daibouken.png</marquee>
+		<video>./snap/Doki Doki Penguin Land Uchuu Daibouken.mp4</video>
+	</game>
+	<game>
+		<path>./Double Dragon.sms</path>
+		<name>Double Dragon</name>
+		<image>./boxart/Double Dragon.png</image>
+		<marquee>./wheel/Double Dragon.png</marquee>
+		<video>./snap/Double Dragon.mp4</video>
+	</game>
+	<game>
+		<path>./Double Target Cynthia no Nemuri.sms</path>
+		<name>Double Target Cynthia no Nemuri</name>
+		<image>./boxart/Double Target Cynthia no Nemuri.png</image>
+		<marquee>./wheel/Double Target Cynthia no Nemuri.png</marquee>
+		<video>./snap/Double Target Cynthia no Nemuri.mp4</video>
+	</game>
+	<game>
+		<path>./Enduro Racer.sms</path>
+		<name>Enduro Racer</name>
+		<image>./boxart/Enduro Racer.png</image>
+		<marquee>./wheel/Enduro Racer.png</marquee>
+		<video>./snap/Enduro Racer.mp4</video>
+	</game>
+	<game>
+		<path>./Family Games.sms</path>
+		<name>Family Games</name>
+		<image>./boxart/Family Games.png</image>
+		<marquee>./wheel/Family Games.png</marquee>
+		<video>./snap/Family Games.mp4</video>
+	</game>
+	<game>
+		<path>./Fantasy Zone II Opa Opa no Namida.sms</path>
+		<name>Fantasy Zone II Opa Opa no Namida</name>
+		<image>./boxart/Fantasy Zone II Opa Opa no Namida.png</image>
+		<marquee>./wheel/Fantasy Zone II Opa Opa no Namida.png</marquee>
+		<video>./snap/Fantasy Zone II Opa Opa no Namida.mp4</video>
+	</game>
+	<game>
+		<path>./Fantasy Zone.sms</path>
+		<name>Fantasy Zone</name>
+		<image>./boxart/Fantasy Zone.png</image>
+		<marquee>./wheel/Fantasy Zone.png</marquee>
+		<video>./snap/Fantasy Zone.mp4</video>
+	</game>
+	<game>
+		<path>./Final Bubble Bobble.sms</path>
+		<name>Final Bubble Bobble</name>
+		<image>./boxart/Final Bubble Bobble.png</image>
+		<marquee>./wheel/Final Bubble Bobble.png</marquee>
+		<video>./snap/Final Bubble Bobble.mp4</video>
+	</game>
+	<game>
+		<path>./Galactic Protector.sms</path>
+		<name>Galactic Protector</name>
+		<image>./boxart/Galactic Protector.png</image>
+		<marquee>./wheel/Galactic Protector.png</marquee>
+		<video>./snap/Galactic Protector.mp4</video>
+	</game>
+	<game>
+		<path>./gamelist.xml</path>
+		<name>gamelist</name>
+		<image>./boxart/gamelist.png</image>
+		<marquee>./wheel/gamelist.png</marquee>
+		<video>./snap/gamelist.mp4</video>
+	</game>
+	<game>
+		<path>./Gokuaku Doumei Dump Matsumoto.sms</path>
+		<name>Gokuaku Doumei Dump Matsumoto</name>
+		<image>./boxart/Gokuaku Doumei Dump Matsumoto.png</image>
+		<marquee>./wheel/Gokuaku Doumei Dump Matsumoto.png</marquee>
+		<video>./snap/Gokuaku Doumei Dump Matsumoto.mp4</video>
+	</game>
+	<game>
+		<path>./Great Basketball.sms</path>
+		<name>Great Basketball</name>
+		<image>./boxart/Great Basketball.png</image>
+		<marquee>./wheel/Great Basketball.png</marquee>
+		<video>./snap/Great Basketball.mp4</video>
+	</game>
+	<game>
+		<path>./Great Football.sms</path>
+		<name>Great Football</name>
+		<image>./boxart/Great Football.png</image>
+		<marquee>./wheel/Great Football.png</marquee>
+		<video>./snap/Great Football.mp4</video>
+	</game>
+	<game>
+		<path>./Great Golf.sms</path>
+		<name>Great Golf</name>
+		<image>./boxart/Great Golf.png</image>
+		<marquee>./wheel/Great Golf.png</marquee>
+		<video>./snap/Great Golf.mp4</video>
+	</game>
+	<game>
+		<path>./Great Volleyball.sms</path>
+		<name>Great Volleyball</name>
+		<image>./boxart/Great Volleyball.png</image>
+		<marquee>./wheel/Great Volleyball.png</marquee>
+		<video>./snap/Great Volleyball.mp4</video>
+	</game>
+	<game>
+		<path>./Haja no Fuuin.sms</path>
+		<name>Haja no Fuuin</name>
+		<image>./boxart/Haja no Fuuin.png</image>
+		<marquee>./wheel/Haja no Fuuin.png</marquee>
+		<video>./snap/Haja no Fuuin.mp4</video>
+	</game>
+	<game>
+		<path>./High School Kimengumi.sms</path>
+		<name>High School Kimengumi</name>
+		<image>./boxart/High School Kimengumi.png</image>
+		<marquee>./wheel/High School Kimengumi.png</marquee>
+		<video>./snap/High School Kimengumi.mp4</video>
+	</game>
+	<game>
+		<path>./Hokuto no Ken.sms</path>
+		<name>Hokuto no Ken</name>
+		<image>./boxart/Hokuto no Ken.png</image>
+		<marquee>./wheel/Hokuto no Ken.png</marquee>
+		<video>./snap/Hokuto no Ken.mp4</video>
+	</game>
+	<game>
+		<path>./Hoshi wo Sagasite....sms</path>
+		<name>Hoshi wo Sagasite...</name>
+		<image>./boxart/Hoshi wo Sagasite....png</image>
+		<marquee>./wheel/Hoshi wo Sagasite....png</marquee>
+		<video>./snap/Hoshi wo Sagasite....mp4</video>
+	</game>
+	<game>
+		<path>./Kenseiden.sms</path>
+		<name>Kenseiden</name>
+		<image>./boxart/Kenseiden.png</image>
+		<marquee>./wheel/Kenseiden.png</marquee>
+		<video>./snap/Kenseiden.mp4</video>
+	</game>
+	<game>
+		<path>./Kujaku Ou.sms</path>
+		<name>Kujaku Ou</name>
+		<image>./boxart/Kujaku Ou.png</image>
+		<marquee>./wheel/Kujaku Ou.png</marquee>
+		<video>./snap/Kujaku Ou.mp4</video>
+	</game>
+	<game>
+		<path>./Lord of Sword.sms</path>
+		<name>Lord of Sword</name>
+		<image>./boxart/Lord of Sword.png</image>
+		<marquee>./wheel/Lord of Sword.png</marquee>
+		<video>./snap/Lord of Sword.mp4</video>
+	</game>
+	<game>
+		<path>./Loretta no Shouzou.sms</path>
+		<name>Loretta no Shouzou</name>
+		<image>./boxart/Loretta no Shouzou.png</image>
+		<marquee>./wheel/Loretta no Shouzou.png</marquee>
+		<video>./snap/Loretta no Shouzou.mp4</video>
+	</game>
+	<game>
+		<path>./Mahjong Sengoku Jidai.sms</path>
+		<name>Mahjong Sengoku Jidai</name>
+		<image>./boxart/Mahjong Sengoku Jidai.png</image>
+		<marquee>./wheel/Mahjong Sengoku Jidai.png</marquee>
+		<video>./snap/Mahjong Sengoku Jidai.mp4</video>
+	</game>
+	<game>
+		<path>./Makai Retsuden.sms</path>
+		<name>Makai Retsuden</name>
+		<image>./boxart/Makai Retsuden.png</image>
+		<marquee>./wheel/Makai Retsuden.png</marquee>
+		<video>./snap/Makai Retsuden.mp4</video>
+	</game>
+	<game>
+		<path>./Maou Golvellius.sms</path>
+		<name>Maou Golvellius</name>
+		<image>./boxart/Maou Golvellius.png</image>
+		<marquee>./wheel/Maou Golvellius.png</marquee>
+		<video>./snap/Maou Golvellius.mp4</video>
+	</game>
+	<game>
+		<path>./Maze Walker.sms</path>
+		<name>Maze Walker</name>
+		<image>./boxart/Maze Walker.png</image>
+		<marquee>./wheel/Maze Walker.png</marquee>
+		<video>./snap/Maze Walker.mp4</video>
+	</game>
+	<game>
+		<path>./Megumi Rescue.sms</path>
+		<name>Megumi Rescue</name>
+		<image>./boxart/Megumi Rescue.png</image>
+		<marquee>./wheel/Megumi Rescue.png</marquee>
+		<video>./snap/Megumi Rescue.mp4</video>
+	</game>
+	<game>
+		<path>./Nekkyuu Koushien.sms</path>
+		<name>Nekkyuu Koushien</name>
+		<image>./boxart/Nekkyuu Koushien.png</image>
+		<marquee>./wheel/Nekkyuu Koushien.png</marquee>
+		<video>./snap/Nekkyuu Koushien.mp4</video>
+	</game>
+	<game>
+		<path>./Ninja.sms</path>
+		<name>Ninja</name>
+		<image>./boxart/Ninja.png</image>
+		<marquee>./wheel/Ninja.png</marquee>
+		<video>./snap/Ninja.mp4</video>
+	</game>
+	<game>
+		<path>./Opa Opa.sms</path>
+		<name>Opa Opa</name>
+		<image>./boxart/Opa Opa.png</image>
+		<marquee>./wheel/Opa Opa.png</marquee>
+		<video>./snap/Opa Opa.mp4</video>
+	</game>
+	<game>
+		<path>./Out Run.sms</path>
+		<name>Out Run</name>
+		<image>./boxart/Out Run.png</image>
+		<marquee>./wheel/Out Run.png</marquee>
+		<video>./snap/Out Run.mp4</video>
+	</game>
+	<game>
+		<path>./Phantasy Star.sms</path>
+		<name>Phantasy Star</name>
+		<image>./boxart/Phantasy Star.png</image>
+		<marquee>./wheel/Phantasy Star.png</marquee>
+		<video>./snap/Phantasy Star.mp4</video>
+	</game>
+	<game>
+		<path>./Pro Yakyuu Pennant Race The.sms</path>
+		<name>Pro Yakyuu Pennant Race The</name>
+		<image>./boxart/Pro Yakyuu Pennant Race The.png</image>
+		<marquee>./wheel/Pro Yakyuu Pennant Race The.png</marquee>
+		<video>./snap/Pro Yakyuu Pennant Race The.mp4</video>
+	</game>
+	<game>
+		<path>./R Type.sms</path>
+		<name>R Type</name>
+		<image>./boxart/R Type.png</image>
+		<marquee>./wheel/R Type.png</marquee>
+		<video>./snap/R Type.mp4</video>
+	</game>
+	<game>
+		<path>./Rocky.sms</path>
+		<name>Rocky</name>
+		<image>./boxart/Rocky.png</image>
+		<marquee>./wheel/Rocky.png</marquee>
+		<video>./snap/Rocky.mp4</video>
+	</game>
+	<game>
+		<path>./SDI.sms</path>
+		<name>SDI</name>
+		<image>./boxart/SDI.png</image>
+		<marquee>./wheel/SDI.png</marquee>
+		<video>./snap/SDI.mp4</video>
+	</game>
+	<game>
+		<path>./Shinobi.sms</path>
+		<name>Shinobi</name>
+		<image>./boxart/Shinobi.png</image>
+		<marquee>./wheel/Shinobi.png</marquee>
+		<video>./snap/Shinobi.mp4</video>
+	</game>
+	<game>
+		<path>./Solomon no Kagi Oujo Rihita no Namida.sms</path>
+		<name>Solomon no Kagi Oujo Rihita no Namida</name>
+		<image>./boxart/Solomon no Kagi Oujo Rihita no Namida.png</image>
+		<marquee>./wheel/Solomon no Kagi Oujo Rihita no Namida.png</marquee>
+		<video>./snap/Solomon no Kagi Oujo Rihita no Namida.mp4</video>
+	</game>
+	<game>
+		<path>./Space Harrier 3D.sms</path>
+		<name>Space Harrier 3D</name>
+		<image>./boxart/Space Harrier 3D.png</image>
+		<marquee>./wheel/Space Harrier 3D.png</marquee>
+		<video>./snap/Space Harrier 3D.mp4</video>
+	</game>
+	<game>
+		<path>./Space Harrier.sms</path>
+		<name>Space Harrier</name>
+		<image>./boxart/Space Harrier.png</image>
+		<marquee>./wheel/Space Harrier.png</marquee>
+		<video>./snap/Space Harrier.mp4</video>
+	</game>
+	<game>
+		<path>./Sports Pad Soccer.sms</path>
+		<name>Sports Pad Soccer</name>
+		<image>./boxart/Sports Pad Soccer.png</image>
+		<marquee>./wheel/Sports Pad Soccer.png</marquee>
+		<video>./snap/Sports Pad Soccer.mp4</video>
+	</game>
+	<game>
+		<path>./Sukeban Deka II Shoujo Tekkamen Densetsu.sms</path>
+		<name>Sukeban Deka II Shoujo Tekkamen Densetsu</name>
+		<image>./boxart/Sukeban Deka II Shoujo Tekkamen Densetsu.png</image>
+		<marquee>./wheel/Sukeban Deka II Shoujo Tekkamen Densetsu.png</marquee>
+		<video>./snap/Sukeban Deka II Shoujo Tekkamen Densetsu.mp4</video>
+	</game>
+	<game>
+		<path>./Super Racing.sms</path>
+		<name>Super Racing</name>
+		<image>./boxart/Super Racing.png</image>
+		<marquee>./wheel/Super Racing.png</marquee>
+		<video>./snap/Super Racing.mp4</video>
+	</game>
+	<game>
+		<path>./Super Wonder Boy Monster World.sms</path>
+		<name>Super Wonder Boy Monster World</name>
+		<image>./boxart/Super Wonder Boy Monster World.png</image>
+		<marquee>./wheel/Super Wonder Boy Monster World.png</marquee>
+		<video>./snap/Super Wonder Boy Monster World.mp4</video>
+	</game>
+	<game>
+		<path>./Super Wonder Boy.sms</path>
+		<name>Super Wonder Boy</name>
+		<image>./boxart/Super Wonder Boy.png</image>
+		<marquee>./wheel/Super Wonder Boy.png</marquee>
+		<video>./snap/Super Wonder Boy.mp4</video>
+	</game>
+	<game>
+		<path>./Tensai Bakabon.sms</path>
+		<name>Tensai Bakabon</name>
+		<image>./boxart/Tensai Bakabon.png</image>
+		<marquee>./wheel/Tensai Bakabon.png</marquee>
+		<video>./snap/Tensai Bakabon.mp4</video>
+	</game>
+	<game>
+		<path>./Thunder Blade.sms</path>
+		<name>Thunder Blade</name>
+		<image>./boxart/Thunder Blade.png</image>
+		<marquee>./wheel/Thunder Blade.png</marquee>
+		<video>./snap/Thunder Blade.mp4</video>
+	</game>
+	<game>
+		<path>./World Soccer.sms</path>
+		<name>World Soccer</name>
+		<image>./boxart/World Soccer.png</image>
+		<marquee>./wheel/World Soccer.png</marquee>
+		<video>./snap/World Soccer.mp4</video>
+	</game>
+	<game>
+		<path>./Ys.sms</path>
+		<name>Ys</name>
+		<image>./boxart/Ys.png</image>
+		<marquee>./wheel/Ys.png</marquee>
+		<video>./snap/Ys.mp4</video>
+	</game>
+	<game>
+		<path>./Zaxxon 3 D.sms</path>
+		<name>Zaxxon 3 D</name>
+		<image>./boxart/Zaxxon 3 D.png</image>
+		<marquee>./wheel/Zaxxon 3 D.png</marquee>
+		<video>./snap/Zaxxon 3 D.mp4</video>
+	</game>
+	<game>
+		<path>./Zillion II The Tri Formation.sms</path>
+		<name>Zillion II The Tri Formation</name>
+		<image>./boxart/Zillion II The Tri Formation.png</image>
+		<marquee>./wheel/Zillion II The Tri Formation.png</marquee>
+		<video>./snap/Zillion II The Tri Formation.mp4</video>
+	</game>
+	<game>
+		<path>./Zillion JapanJa.sms</path>
+		<name>Zillion JapanJa</name>
+		<image>./boxart/Zillion JapanJa.png</image>
+		<marquee>./wheel/Zillion JapanJa.png</marquee>
+		<video>./snap/Zillion JapanJa.mp4</video>
+	</game>
+</gameList>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./PiWizard-IRC-Chat.sh</path>
+		<name>PiWizard-IRC-Chat</name>
+		<playcount>1</playcount>
+		<desc />
+		<image>/home/pi/RetroPie/retropiemenu/icons/irc.png</image>
+		<video>/home/pi/RetroPie/retropiemenu/icons/irc.png</video>
+	</game>
+	<game>
+		<path>./Music-Start.sh</path>
+		<name>Music-Start</name>
+		<playcount>8</playcount>
+		<desc />
+		<image>/home/pi/RetroPie/retropiemenu/icons/musicstart.png</image>
+		<video>/home/pi/RetroPie/retropiemenu/icons/musicstart.png</video>
+	</game>
+	<game>
+		<path>./Music-Stop.sh</path>
+		<name>Music-Stop</name>
+		<playcount>4</playcount>
+		<desc />
+		<image>/home/pi/RetroPie/retropiemenu/icons/musicstop.png</image>
+		<video>/home/pi/RetroPie/retropiemenu/icons/musicstop.png</video>
+	</game>
+	<game>
+		<path>./PiWizard.sh</path>
+		<name>Pi Wizard Launcher</name>
+		<image>~/RetroPie/retropiemenu/icons/launcher.png</image>
+		<video>~/RetroPie/retropiemenu/icons/launcher.png</video>
+		<playcount>57</playcount>
+		<lastplayed>20181015T173603</lastplayed>
+	</game>
+</gameList>

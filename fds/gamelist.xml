@@ -1,0 +1,1473 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./19 Neunzehn.fds</path>
+		<name>19 Neunzehn</name>
+		<image>./boxart/19 Neunzehn.png</image>
+		<marquee>./wheel/19 Neunzehn.png</marquee>
+		<video>./snap/19 Neunzehn.mp4</video>
+	</game>
+	<game>
+		<path>./Adian no Tsue.fds</path>
+		<name>Adian no Tsue</name>
+		<image>./boxart/Adian no Tsue.png</image>
+		<marquee>./wheel/Adian no Tsue.png</marquee>
+		<video>./snap/Adian no Tsue.mp4</video>
+	</game>
+	<game>
+		<path>./Ai Senshi Nicol.fds</path>
+		<name>Ai Senshi Nicol</name>
+		<image>./boxart/Ai Senshi Nicol.png</image>
+		<marquee>./wheel/Ai Senshi Nicol.png</marquee>
+		<video>./snap/Ai Senshi Nicol.mp4</video>
+	</game>
+	<game>
+		<path>./Aki to Tsukasa no Fushigi no Kabe.fds</path>
+		<name>Aki to Tsukasa no Fushigi no Kabe</name>
+		<image>./boxart/Aki to Tsukasa no Fushigi no Kabe.png</image>
+		<marquee>./wheel/Aki to Tsukasa no Fushigi no Kabe.png</marquee>
+		<video>./snap/Aki to Tsukasa no Fushigi no Kabe.mp4</video>
+	</game>
+	<game>
+		<path>./Akumajou Dracula.fds</path>
+		<name>Akumajou Dracula</name>
+		<image>./boxart/Akumajou Dracula.png</image>
+		<marquee>./wheel/Akumajou Dracula.png</marquee>
+		<video>./snap/Akumajou Dracula.mp4</video>
+	</game>
+	<game>
+		<path>./Akuu Senki Raijin.fds</path>
+		<name>Akuu Senki Raijin</name>
+		<image>./boxart/Akuu Senki Raijin.png</image>
+		<marquee>./wheel/Akuu Senki Raijin.png</marquee>
+		<video>./snap/Akuu Senki Raijin.mp4</video>
+	</game>
+	<game>
+		<path>./Aliens Alien 2.fds</path>
+		<name>Aliens Alien 2</name>
+		<image>./boxart/Aliens Alien 2.png</image>
+		<marquee>./wheel/Aliens Alien 2.png</marquee>
+		<video>./snap/Aliens Alien 2.mp4</video>
+	</game>
+	<game>
+		<path>./All Night Nippon Super Mario BrothersPromotion Cart.fds</path>
+		<name>All Night Nippon Super Mario BrothersPromotion Cart</name>
+		<image>./boxart/All Night Nippon Super Mario BrothersPromotion Cart.png</image>
+		<marquee>./wheel/All Night Nippon Super Mario BrothersPromotion Cart.png</marquee>
+		<video>./snap/All Night Nippon Super Mario BrothersPromotion Cart.mp4</video>
+	</game>
+	<game>
+		<path>./All One Famimaga Disk Vol. 3.fds</path>
+		<name>All One Famimaga Disk Vol. 3</name>
+		<image>./boxart/All One Famimaga Disk Vol. 3.png</image>
+		<marquee>./wheel/All One Famimaga Disk Vol. 3.png</marquee>
+		<video>./snap/All One Famimaga Disk Vol. 3.mp4</video>
+	</game>
+	<game>
+		<path>./Apple Town Monogatari Little Computer People.fds</path>
+		<name>Apple Town Monogatari Little Computer People</name>
+		<image>./boxart/Apple Town Monogatari Little Computer People.png</image>
+		<marquee>./wheel/Apple Town Monogatari Little Computer People.png</marquee>
+		<video>./snap/Apple Town Monogatari Little Computer People.mp4</video>
+	</game>
+	<game>
+		<path>./Armana no Kiseki.fds</path>
+		<name>Armana no Kiseki</name>
+		<image>./boxart/Armana no Kiseki.png</image>
+		<marquee>./wheel/Armana no Kiseki.png</marquee>
+		<video>./snap/Armana no Kiseki.mp4</video>
+	</game>
+	<game>
+		<path>./Aspic Majaou no Noroi.fds</path>
+		<name>Aspic Majaou no Noroi</name>
+		<image>./boxart/Aspic Majaou no Noroi.png</image>
+		<marquee>./wheel/Aspic Majaou no Noroi.png</marquee>
+		<video>./snap/Aspic Majaou no Noroi.mp4</video>
+	</game>
+	<game>
+		<path>./Backgammon.fds</path>
+		<name>Backgammon</name>
+		<image>./boxart/Backgammon.png</image>
+		<marquee>./wheel/Backgammon.png</marquee>
+		<video>./snap/Backgammon.mp4</video>
+	</game>
+	<game>
+		<path>./Bakutoushi Patton kun.fds</path>
+		<name>Bakutoushi Patton kun</name>
+		<image>./boxart/Bakutoushi Patton kun.png</image>
+		<marquee>./wheel/Bakutoushi Patton kun.png</marquee>
+		<video>./snap/Bakutoushi Patton kun.mp4</video>
+	</game>
+	<game>
+		<path>./Baseball.fds</path>
+		<name>Baseball</name>
+		<image>./boxart/Baseball.png</image>
+		<marquee>./wheel/Baseball.png</marquee>
+		<video>./snap/Baseball.mp4</video>
+	</game>
+	<game>
+		<path>./Big Challenge Dogfight Spirit.fds</path>
+		<name>Big Challenge Dogfight Spirit</name>
+		<image>./boxart/Big Challenge Dogfight Spirit.png</image>
+		<marquee>./wheel/Big Challenge Dogfight Spirit.png</marquee>
+		<video>./snap/Big Challenge Dogfight Spirit.mp4</video>
+	</game>
+	<game>
+		<path>./Big Challenge Go Go Bowling.fds</path>
+		<name>Big Challenge Go Go Bowling</name>
+		<image>./boxart/Big Challenge Go Go Bowling.png</image>
+		<marquee>./wheel/Big Challenge Go Go Bowling.png</marquee>
+		<video>./snap/Big Challenge Go Go Bowling.mp4</video>
+	</game>
+	<game>
+		<path>./Big Challenge Gun Fighter.fds</path>
+		<name>Big Challenge Gun Fighter</name>
+		<image>./boxart/Big Challenge Gun Fighter.png</image>
+		<marquee>./wheel/Big Challenge Gun Fighter.png</marquee>
+		<video>./snap/Big Challenge Gun Fighter.mp4</video>
+	</game>
+	<game>
+		<path>./Big Challenge Juudou Senshuken.fds</path>
+		<name>Big Challenge Juudou Senshuken</name>
+		<image>./boxart/Big Challenge Juudou Senshuken.png</image>
+		<marquee>./wheel/Big Challenge Juudou Senshuken.png</marquee>
+		<video>./snap/Big Challenge Juudou Senshuken.mp4</video>
+	</game>
+	<game>
+		<path>./Bio Miracle Bokutte Upa.fds</path>
+		<name>Bio Miracle Bokutte Upa</name>
+		<image>./boxart/Bio Miracle Bokutte Upa.png</image>
+		<marquee>./wheel/Bio Miracle Bokutte Upa.png</marquee>
+		<video>./snap/Bio Miracle Bokutte Upa.mp4</video>
+	</game>
+	<game>
+		<path>./Bishoujo Control.fds</path>
+		<name>Bishoujo Control</name>
+		<image>./boxart/Bishoujo Control.png</image>
+		<marquee>./wheel/Bishoujo Control.png</marquee>
+		<video>./snap/Bishoujo Control.mp4</video>
+	</game>
+	<game>
+		<path>./Bishoujo Hanafuda Club Vol.1 Oichokabu Hen.fds</path>
+		<name>Bishoujo Hanafuda Club Vol.1 Oichokabu Hen</name>
+		<image>./boxart/Bishoujo Hanafuda Club Vol.1 Oichokabu Hen.png</image>
+		<marquee>./wheel/Bishoujo Hanafuda Club Vol.1 Oichokabu Hen.png</marquee>
+		<video>./snap/Bishoujo Hanafuda Club Vol.1 Oichokabu Hen.mp4</video>
+	</game>
+	<game>
+		<path>./Bishoujo Hanafuda Club Vol.2 Koikoi Bakappana Hen.fds</path>
+		<name>Bishoujo Hanafuda Club Vol.2 Koikoi Bakappana Hen</name>
+		<image>./boxart/Bishoujo Hanafuda Club Vol.2 Koikoi Bakappana Hen.png</image>
+		<marquee>./wheel/Bishoujo Hanafuda Club Vol.2 Koikoi Bakappana Hen.png</marquee>
+		<video>./snap/Bishoujo Hanafuda Club Vol.2 Koikoi Bakappana Hen.mp4</video>
+	</game>
+	<game>
+		<path>./Bishoujo Kachinuki Renju Gomoku Narabe.fds</path>
+		<name>Bishoujo Kachinuki Renju Gomoku Narabe</name>
+		<image>./boxart/Bishoujo Kachinuki Renju Gomoku Narabe.png</image>
+		<marquee>./wheel/Bishoujo Kachinuki Renju Gomoku Narabe.png</marquee>
+		<video>./snap/Bishoujo Kachinuki Renju Gomoku Narabe.mp4</video>
+	</game>
+	<game>
+		<path>./Bishoujo Mahjong Club.fds</path>
+		<name>Bishoujo Mahjong Club</name>
+		<image>./boxart/Bishoujo Mahjong Club.png</image>
+		<marquee>./wheel/Bishoujo Mahjong Club.png</marquee>
+		<video>./snap/Bishoujo Mahjong Club.mp4</video>
+	</game>
+	<game>
+		<path>./Bishoujo Sexy Derby [En by Spinner 8 v1.3] ~Pretty Girls Sexy Derby.fds</path>
+		<name>Bishoujo Sexy Derby [En by Spinner 8 v1.3] ~Pretty Girls Sexy Derby</name>
+		<image>./boxart/Bishoujo Sexy Derby [En by Spinner 8 v1.3] ~Pretty Girls Sexy Derby.png</image>
+		<marquee>./wheel/Bishoujo Sexy Derby [En by Spinner 8 v1.3] ~Pretty Girls Sexy Derby.png</marquee>
+		<video>./snap/Bishoujo Sexy Derby [En by Spinner 8 v1.3] ~Pretty Girls Sexy Derby.mp4</video>
+	</game>
+	<game>
+		<path>./Bishoujo Sexy Puzzle.fds</path>
+		<name>Bishoujo Sexy Puzzle</name>
+		<image>./boxart/Bishoujo Sexy Puzzle.png</image>
+		<marquee>./wheel/Bishoujo Sexy Puzzle.png</marquee>
+		<video>./snap/Bishoujo Sexy Puzzle.mp4</video>
+	</game>
+	<game>
+		<path>./Bishoujo Sexy Slot.fds</path>
+		<name>Bishoujo Sexy Slot</name>
+		<image>./boxart/Bishoujo Sexy Slot.png</image>
+		<marquee>./wheel/Bishoujo Sexy Slot.png</marquee>
+		<video>./snap/Bishoujo Sexy Slot.mp4</video>
+	</game>
+	<game>
+		<path>./Bishoujo SF Alien Battle.fds</path>
+		<name>Bishoujo SF Alien Battle</name>
+		<image>./boxart/Bishoujo SF Alien Battle.png</image>
+		<marquee>./wheel/Bishoujo SF Alien Battle.png</marquee>
+		<video>./snap/Bishoujo SF Alien Battle.mp4</video>
+	</game>
+	<game>
+		<path>./BodyConQuest I Abakareshi Musume Tachi.nes</path>
+		<name>BodyConQuest I Abakareshi Musume Tachi</name>
+		<image>./boxart/BodyConQuest I Abakareshi Musume Tachi.png</image>
+		<marquee>./wheel/BodyConQuest I Abakareshi Musume Tachi.png</marquee>
+		<video>./snap/BodyConQuest I Abakareshi Musume Tachi.mp4</video>
+	</game>
+	<game>
+		<path>./Bomber Man.fds</path>
+		<name>Bomber Man</name>
+		<image>./boxart/Bomber Man.png</image>
+		<marquee>./wheel/Bomber Man.png</marquee>
+		<video>./snap/Bomber Man.mp4</video>
+	</game>
+	<game>
+		<path>./Breeder.fds</path>
+		<name>Breeder</name>
+		<image>./boxart/Breeder.png</image>
+		<marquee>./wheel/Breeder.png</marquee>
+		<video>./snap/Breeder.mp4</video>
+	</game>
+	<game>
+		<path>./Bubble Bobble.fds</path>
+		<name>Bubble Bobble</name>
+		<image>./boxart/Bubble Bobble.png</image>
+		<marquee>./wheel/Bubble Bobble.png</marquee>
+		<video>./snap/Bubble Bobble.mp4</video>
+	</game>
+	<game>
+		<path>./BurgerTime.fds</path>
+		<name>BurgerTime</name>
+		<image>./boxart/BurgerTime.png</image>
+		<marquee>./wheel/BurgerTime.png</marquee>
+		<video>./snap/BurgerTime.mp4</video>
+	</game>
+	<game>
+		<path>./Casino de Pink.fds</path>
+		<name>Casino de Pink</name>
+		<image>./boxart/Casino de Pink.png</image>
+		<marquee>./wheel/Casino de Pink.png</marquee>
+		<video>./snap/Casino de Pink.mp4</video>
+	</game>
+	<game>
+		<path>./Chitei Tairiku Orudoora.fds</path>
+		<name>Chitei Tairiku Orudoora</name>
+		<image>./boxart/Chitei Tairiku Orudoora.png</image>
+		<marquee>./wheel/Chitei Tairiku Orudoora.png</marquee>
+		<video>./snap/Chitei Tairiku Orudoora.mp4</video>
+	</game>
+	<game>
+		<path>./City Connection UNL.fds</path>
+		<name>City Connection UNL</name>
+		<image>./boxart/City Connection UNL.png</image>
+		<marquee>./wheel/City Connection UNL.png</marquee>
+		<video>./snap/City Connection UNL.mp4</video>
+	</game>
+	<game>
+		<path>./Clox Famimaga Disk Vol. 4.fds</path>
+		<name>Clox Famimaga Disk Vol. 4</name>
+		<image>./boxart/Clox Famimaga Disk Vol. 4.png</image>
+		<marquee>./wheel/Clox Famimaga Disk Vol. 4.png</marquee>
+		<video>./snap/Clox Famimaga Disk Vol. 4.mp4</video>
+	</game>
+	<game>
+		<path>./Clu Clu Land Welcome to New Clu Clu Land.fds</path>
+		<name>Clu Clu Land Welcome to New Clu Clu Land</name>
+		<image>./boxart/Clu Clu Land Welcome to New Clu Clu Land.png</image>
+		<marquee>./wheel/Clu Clu Land Welcome to New Clu Clu Land.png</marquee>
+		<video>./snap/Clu Clu Land Welcome to New Clu Clu Land.mp4</video>
+	</game>
+	<game>
+		<path>./Cocona World.fds</path>
+		<name>Cocona World</name>
+		<image>./boxart/Cocona World.png</image>
+		<marquee>./wheel/Cocona World.png</marquee>
+		<video>./snap/Cocona World.mp4</video>
+	</game>
+	<game>
+		<path>./Comic Sakka Series Touma Senki 1 Mashoujo Gakuen Evil.fds</path>
+		<name>Comic Sakka Series Touma Senki 1 Mashoujo Gakuen Evil</name>
+		<image>./boxart/Comic Sakka Series Touma Senki 1 Mashoujo Gakuen Evil.png</image>
+		<marquee>./wheel/Comic Sakka Series Touma Senki 1 Mashoujo Gakuen Evil.png</marquee>
+		<video>./snap/Comic Sakka Series Touma Senki 1 Mashoujo Gakuen Evil.mp4</video>
+	</game>
+	<game>
+		<path>./Comic Sakka Series Touma Senki 2 Mermaid no Gyakushuu.fds</path>
+		<name>Comic Sakka Series Touma Senki 2 Mermaid no Gyakushuu</name>
+		<image>./boxart/Comic Sakka Series Touma Senki 2 Mermaid no Gyakushuu.png</image>
+		<marquee>./wheel/Comic Sakka Series Touma Senki 2 Mermaid no Gyakushuu.png</marquee>
+		<video>./snap/Comic Sakka Series Touma Senki 2 Mermaid no Gyakushuu.mp4</video>
+	</game>
+	<game>
+		<path>./Comic Sakka Series Touma Senki 3 Ryuujin Sensei Kikiippatsu.fds</path>
+		<name>Comic Sakka Series Touma Senki 3 Ryuujin Sensei Kikiippatsu</name>
+		<image>./boxart/Comic Sakka Series Touma Senki 3 Ryuujin Sensei Kikiippatsu.png</image>
+		<marquee>./wheel/Comic Sakka Series Touma Senki 3 Ryuujin Sensei Kikiippatsu.png</marquee>
+		<video>./snap/Comic Sakka Series Touma Senki 3 Ryuujin Sensei Kikiippatsu.mp4</video>
+	</game>
+	<game>
+		<path>./Comic Sakka Series Touma Senki 4 Tenkuu Ryuumaou Fukkatsu.fds</path>
+		<name>Comic Sakka Series Touma Senki 4 Tenkuu Ryuumaou Fukkatsu</name>
+		<image>./boxart/Comic Sakka Series Touma Senki 4 Tenkuu Ryuumaou Fukkatsu.png</image>
+		<marquee>./wheel/Comic Sakka Series Touma Senki 4 Tenkuu Ryuumaou Fukkatsu.png</marquee>
+		<video>./snap/Comic Sakka Series Touma Senki 4 Tenkuu Ryuumaou Fukkatsu.mp4</video>
+	</game>
+	<game>
+		<path>./Comic Sakka Series Touma Senki 5 Youjuu Rudo no Chousen.fds</path>
+		<name>Comic Sakka Series Touma Senki 5 Youjuu Rudo no Chousen</name>
+		<image>./boxart/Comic Sakka Series Touma Senki 5 Youjuu Rudo no Chousen.png</image>
+		<marquee>./wheel/Comic Sakka Series Touma Senki 5 Youjuu Rudo no Chousen.png</marquee>
+		<video>./snap/Comic Sakka Series Touma Senki 5 Youjuu Rudo no Chousen.mp4</video>
+	</game>
+	<game>
+		<path>./Dandy Zeuon no Fukkatsu.fds</path>
+		<name>Dandy Zeuon no Fukkatsu</name>
+		<image>./boxart/Dandy Zeuon no Fukkatsu.png</image>
+		<marquee>./wheel/Dandy Zeuon no Fukkatsu.png</marquee>
+		<video>./snap/Dandy Zeuon no Fukkatsu.mp4</video>
+	</game>
+	<game>
+		<path>./Date de Blackjack.fds</path>
+		<name>Date de Blackjack</name>
+		<image>./boxart/Date de Blackjack.png</image>
+		<marquee>./wheel/Date de Blackjack.png</marquee>
+		<video>./snap/Date de Blackjack.mp4</video>
+	</game>
+	<game>
+		<path>./Deep Dungeon II Yushi no Monshou.fds</path>
+		<name>Deep Dungeon II Yushi no Monshou</name>
+		<image>./boxart/Deep Dungeon II Yushi no Monshou.png</image>
+		<marquee>./wheel/Deep Dungeon II Yushi no Monshou.png</marquee>
+		<video>./snap/Deep Dungeon II Yushi no Monshou.mp4</video>
+	</game>
+	<game>
+		<path>./Deep Dungeon Madou Senki.fds</path>
+		<name>Deep Dungeon Madou Senki</name>
+		<image>./boxart/Deep Dungeon Madou Senki.png</image>
+		<marquee>./wheel/Deep Dungeon Madou Senki.png</marquee>
+		<video>./snap/Deep Dungeon Madou Senki.mp4</video>
+	</game>
+	<game>
+		<path>./Dig Dug IIDisk Writer.fds</path>
+		<name>Dig Dug IIDisk Writer</name>
+		<image>./boxart/Dig Dug IIDisk Writer.png</image>
+		<marquee>./wheel/Dig Dug IIDisk Writer.png</marquee>
+		<video>./snap/Dig Dug IIDisk Writer.mp4</video>
+	</game>
+	<game>
+		<path>./Dig DugDisk Writer.fds</path>
+		<name>Dig DugDisk Writer</name>
+		<image>./boxart/Dig DugDisk Writer.png</image>
+		<marquee>./wheel/Dig DugDisk Writer.png</marquee>
+		<video>./snap/Dig DugDisk Writer.mp4</video>
+	</game>
+	<game>
+		<path>./Dirty Pair Project Eden [T Eng_v0.9_Ballzysoft].fds</path>
+		<name>Dirty Pair Project Eden [T Eng_v0.9_Ballzysoft]</name>
+		<image>./boxart/Dirty Pair Project Eden [T Eng_v0.9_Ballzysoft].png</image>
+		<marquee>./wheel/Dirty Pair Project Eden [T Eng_v0.9_Ballzysoft].png</marquee>
+		<video>./snap/Dirty Pair Project Eden [T Eng_v0.9_Ballzysoft].mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong Jr.Disk Writer.fds</path>
+		<name>Donkey Kong Jr.Disk Writer</name>
+		<image>./boxart/Donkey Kong Jr.Disk Writer.png</image>
+		<marquee>./wheel/Donkey Kong Jr.Disk Writer.png</marquee>
+		<video>./snap/Donkey Kong Jr.Disk Writer.mp4</video>
+	</game>
+	<game>
+		<path>./Donkey KongDisk Writer.fds</path>
+		<name>Donkey KongDisk Writer</name>
+		<image>./boxart/Donkey KongDisk Writer.png</image>
+		<marquee>./wheel/Donkey KongDisk Writer.png</marquee>
+		<video>./snap/Donkey KongDisk Writer.mp4</video>
+	</game>
+	<game>
+		<path>./Doremikko.fds</path>
+		<name>Doremikko</name>
+		<image>./boxart/Doremikko.png</image>
+		<marquee>./wheel/Doremikko.png</marquee>
+		<video>./snap/Doremikko.mp4</video>
+	</game>
+	<game>
+		<path>./Dr. Chaos Jigoku no Tobira.fds</path>
+		<name>Dr. Chaos Jigoku no Tobira</name>
+		<image>./boxart/Dr. Chaos Jigoku no Tobira.png</image>
+		<marquee>./wheel/Dr. Chaos Jigoku no Tobira.png</marquee>
+		<video>./snap/Dr. Chaos Jigoku no Tobira.mp4</video>
+	</game>
+	<game>
+		<path>./Dracula II Noroi no Fuuin.fds</path>
+		<name>Dracula II Noroi no Fuuin</name>
+		<image>./boxart/Dracula II Noroi no Fuuin.png</image>
+		<marquee>./wheel/Dracula II Noroi no Fuuin.png</marquee>
+		<video>./snap/Dracula II Noroi no Fuuin.mp4</video>
+	</game>
+	<game>
+		<path>./Druid Kyoufu no Tobira.fds</path>
+		<name>Druid Kyoufu no Tobira</name>
+		<image>./boxart/Druid Kyoufu no Tobira.png</image>
+		<marquee>./wheel/Druid Kyoufu no Tobira.png</marquee>
+		<video>./snap/Druid Kyoufu no Tobira.mp4</video>
+	</game>
+	<game>
+		<path>./Egger Land Souzou heno Tabidachi.fds</path>
+		<name>Egger Land Souzou heno Tabidachi</name>
+		<image>./boxart/Egger Land Souzou heno Tabidachi.png</image>
+		<marquee>./wheel/Egger Land Souzou heno Tabidachi.png</marquee>
+		<video>./snap/Egger Land Souzou heno Tabidachi.mp4</video>
+	</game>
+	<game>
+		<path>./Egger Land.fds</path>
+		<name>Egger Land</name>
+		<image>./boxart/Egger Land.png</image>
+		<marquee>./wheel/Egger Land.png</marquee>
+		<video>./snap/Egger Land.mp4</video>
+	</game>
+	<game>
+		<path>./Electrician [T Eng_v1.0_KingMike].fds</path>
+		<name>Electrician [T Eng_v1.0_KingMike]</name>
+		<image>./boxart/Electrician [T Eng_v1.0_KingMike].png</image>
+		<marquee>./wheel/Electrician [T Eng_v1.0_KingMike].png</marquee>
+		<video>./snap/Electrician [T Eng_v1.0_KingMike].mp4</video>
+	</game>
+	<game>
+		<path>./Emi chan no Moero Yakyuuken.fds</path>
+		<name>Emi chan no Moero Yakyuuken</name>
+		<image>./boxart/Emi chan no Moero Yakyuuken.png</image>
+		<marquee>./wheel/Emi chan no Moero Yakyuuken.png</marquee>
+		<video>./snap/Emi chan no Moero Yakyuuken.mp4</video>
+	</game>
+	<game>
+		<path>./Esper Dream v1.01 [2 7a27e52d] [T Eng_R1_Mute].fds</path>
+		<name>Esper Dream v1.01 [2 7a27e52d] [T Eng_R1_Mute]</name>
+		<image>./boxart/Esper Dream v1.01 [2 7a27e52d] [T Eng_R1_Mute].png</image>
+		<marquee>./wheel/Esper Dream v1.01 [2 7a27e52d] [T Eng_R1_Mute].png</marquee>
+		<video>./snap/Esper Dream v1.01 [2 7a27e52d] [T Eng_R1_Mute].mp4</video>
+	</game>
+	<game>
+		<path>./Exciting Baseball.fds</path>
+		<name>Exciting Baseball</name>
+		<image>./boxart/Exciting Baseball.png</image>
+		<marquee>./wheel/Exciting Baseball.png</marquee>
+		<video>./snap/Exciting Baseball.mp4</video>
+	</game>
+	<game>
+		<path>./Exciting Basket.fds</path>
+		<name>Exciting Basket</name>
+		<image>./boxart/Exciting Basket.png</image>
+		<marquee>./wheel/Exciting Basket.png</marquee>
+		<video>./snap/Exciting Basket.mp4</video>
+	</game>
+	<game>
+		<path>./Exciting Billiard.fds</path>
+		<name>Exciting Billiard</name>
+		<image>./boxart/Exciting Billiard.png</image>
+		<marquee>./wheel/Exciting Billiard.png</marquee>
+		<video>./snap/Exciting Billiard.mp4</video>
+	</game>
+	<game>
+		<path>./Exciting Soccer Konami Cup.fds</path>
+		<name>Exciting Soccer Konami Cup</name>
+		<image>./boxart/Exciting Soccer Konami Cup.png</image>
+		<marquee>./wheel/Exciting Soccer Konami Cup.png</marquee>
+		<video>./snap/Exciting Soccer Konami Cup.mp4</video>
+	</game>
+	<game>
+		<path>./Fairy Pinball Yousei Tachi no Pinball.fds</path>
+		<name>Fairy Pinball Yousei Tachi no Pinball</name>
+		<image>./boxart/Fairy Pinball Yousei Tachi no Pinball.png</image>
+		<marquee>./wheel/Fairy Pinball Yousei Tachi no Pinball.png</marquee>
+		<video>./snap/Fairy Pinball Yousei Tachi no Pinball.mp4</video>
+	</game>
+	<game>
+		<path>./Fairytale.fds</path>
+		<name>Fairytale</name>
+		<image>./boxart/Fairytale.png</image>
+		<marquee>./wheel/Fairytale.png</marquee>
+		<video>./snap/Fairytale.mp4</video>
+	</game>
+	<game>
+		<path>./Falsion.fds</path>
+		<name>Falsion</name>
+		<image>./boxart/Falsion.png</image>
+		<marquee>./wheel/Falsion.png</marquee>
+		<video>./snap/Falsion.mp4</video>
+	</game>
+	<game>
+		<path>./Famicom Grand Prix F1 Race.fds</path>
+		<name>Famicom Grand Prix F1 Race</name>
+		<image>./boxart/Famicom Grand Prix F1 Race.png</image>
+		<marquee>./wheel/Famicom Grand Prix F1 Race.png</marquee>
+		<video>./snap/Famicom Grand Prix F1 Race.mp4</video>
+	</game>
+	<game>
+		<path>./Famicom Grand Prix II 3D Hot Rally.fds</path>
+		<name>Famicom Grand Prix II 3D Hot Rally</name>
+		<image>./boxart/Famicom Grand Prix II 3D Hot Rally.png</image>
+		<marquee>./wheel/Famicom Grand Prix II 3D Hot Rally.png</marquee>
+		<video>./snap/Famicom Grand Prix II 3D Hot Rally.mp4</video>
+	</game>
+	<game>
+		<path>./Family Composer.fds</path>
+		<name>Family Composer</name>
+		<image>./boxart/Family Composer.png</image>
+		<marquee>./wheel/Family Composer.png</marquee>
+		<video>./snap/Family Composer.mp4</video>
+	</game>
+	<game>
+		<path>./Family Computer Golf Japan Course.fds</path>
+		<name>Family Computer Golf Japan Course</name>
+		<image>./boxart/Family Computer Golf Japan Course.png</image>
+		<marquee>./wheel/Family Computer Golf Japan Course.png</marquee>
+		<video>./snap/Family Computer Golf Japan Course.mp4</video>
+	</game>
+	<game>
+		<path>./Family Computer Golf Special CoursePrize Card.fds</path>
+		<name>Family Computer Golf Special CoursePrize Card</name>
+		<image>./boxart/Family Computer Golf Special CoursePrize Card.png</image>
+		<marquee>./wheel/Family Computer Golf Special CoursePrize Card.png</marquee>
+		<video>./snap/Family Computer Golf Special CoursePrize Card.mp4</video>
+	</game>
+	<game>
+		<path>./Family Computer Golf Tournament Japan CoursePrize Card.fds</path>
+		<name>Family Computer Golf Tournament Japan CoursePrize Card</name>
+		<image>./boxart/Family Computer Golf Tournament Japan CoursePrize Card.png</image>
+		<marquee>./wheel/Family Computer Golf Tournament Japan CoursePrize Card.png</marquee>
+		<video>./snap/Family Computer Golf Tournament Japan CoursePrize Card.mp4</video>
+	</game>
+	<game>
+		<path>./Family Computer Golf U.S. Course.fds</path>
+		<name>Family Computer Golf U.S. Course</name>
+		<image>./boxart/Family Computer Golf U.S. Course.png</image>
+		<marquee>./wheel/Family Computer Golf U.S. Course.png</marquee>
+		<video>./snap/Family Computer Golf U.S. Course.mp4</video>
+	</game>
+	<game>
+		<path>./Family Computer Othello.fds</path>
+		<name>Family Computer Othello</name>
+		<image>./boxart/Family Computer Othello.png</image>
+		<marquee>./wheel/Family Computer Othello.png</marquee>
+		<video>./snap/Family Computer Othello.mp4</video>
+	</game>
+	<game>
+		<path>./Final Commando Akai Yousai.fds</path>
+		<name>Final Commando Akai Yousai</name>
+		<image>./boxart/Final Commando Akai Yousai.png</image>
+		<marquee>./wheel/Final Commando Akai Yousai.png</marquee>
+		<video>./snap/Final Commando Akai Yousai.mp4</video>
+	</game>
+	<game>
+		<path>./Fire Bam.fds</path>
+		<name>Fire Bam</name>
+		<image>./boxart/Fire Bam.png</image>
+		<marquee>./wheel/Fire Bam.png</marquee>
+		<video>./snap/Fire Bam.mp4</video>
+	</game>
+	<game>
+		<path>./Fire Rock.fds</path>
+		<name>Fire Rock</name>
+		<image>./boxart/Fire Rock.png</image>
+		<marquee>./wheel/Fire Rock.png</marquee>
+		<video>./snap/Fire Rock.mp4</video>
+	</game>
+	<game>
+		<path>./Fuuun Shourin Ken Ankoku no Maou.fds</path>
+		<name>Fuuun Shourin Ken Ankoku no Maou</name>
+		<image>./boxart/Fuuun Shourin Ken Ankoku no Maou.png</image>
+		<marquee>./wheel/Fuuun Shourin Ken Ankoku no Maou.png</marquee>
+		<video>./snap/Fuuun Shourin Ken Ankoku no Maou.mp4</video>
+	</game>
+	<game>
+		<path>./Fuuun Shourin Ken.fds</path>
+		<name>Fuuun Shourin Ken</name>
+		<image>./boxart/Fuuun Shourin Ken.png</image>
+		<marquee>./wheel/Fuuun Shourin Ken.png</marquee>
+		<video>./snap/Fuuun Shourin Ken.mp4</video>
+	</game>
+	<game>
+		<path>./Galaga.fds</path>
+		<name>Galaga</name>
+		<image>./boxart/Galaga.png</image>
+		<marquee>./wheel/Galaga.png</marquee>
+		<video>./snap/Galaga.mp4</video>
+	</game>
+	<game>
+		<path>./Galaxian.fds</path>
+		<name>Galaxian</name>
+		<image>./boxart/Galaxian.png</image>
+		<marquee>./wheel/Galaxian.png</marquee>
+		<video>./snap/Galaxian.mp4</video>
+	</game>
+	<game>
+		<path>./Gall Force Eternal Story[En by Gil Galad v1.0].fds</path>
+		<name>Gall Force Eternal Story[En by Gil Galad v1.0]</name>
+		<image>./boxart/Gall Force Eternal Story[En by Gil Galad v1.0].png</image>
+		<marquee>./wheel/Gall Force Eternal Story[En by Gil Galad v1.0].png</marquee>
+		<video>./snap/Gall Force Eternal Story[En by Gil Galad v1.0].mp4</video>
+	</game>
+	<game>
+		<path>./gamelist.xml</path>
+		<name>gamelist</name>
+		<image>./boxart/gamelist.png</image>
+		<marquee>./wheel/gamelist.png</marquee>
+		<video>./snap/gamelist.mp4</video>
+	</game>
+	<game>
+		<path>./Ginga Denshou Galaxy Odyssey.fds</path>
+		<name>Ginga Denshou Galaxy Odyssey</name>
+		<image>./boxart/Ginga Denshou Galaxy Odyssey.png</image>
+		<marquee>./wheel/Ginga Denshou Galaxy Odyssey.png</marquee>
+		<video>./snap/Ginga Denshou Galaxy Odyssey.mp4</video>
+	</game>
+	<game>
+		<path>./Gokuraku Yuugi Game Tengoku.fds</path>
+		<name>Gokuraku Yuugi Game Tengoku</name>
+		<image>./boxart/Gokuraku Yuugi Game Tengoku.png</image>
+		<marquee>./wheel/Gokuraku Yuugi Game Tengoku.png</marquee>
+		<video>./snap/Gokuraku Yuugi Game Tengoku.mp4</video>
+	</game>
+	<game>
+		<path>./Golf The Bishoujo Classic.fds</path>
+		<name>Golf The Bishoujo Classic</name>
+		<image>./boxart/Golf The Bishoujo Classic.png</image>
+		<marquee>./wheel/Golf The Bishoujo Classic.png</marquee>
+		<video>./snap/Golf The Bishoujo Classic.mp4</video>
+	</game>
+	<game>
+		<path>./Golfv1.1.fds</path>
+		<name>Golfv1.1</name>
+		<image>./boxart/Golfv1.1.png</image>
+		<marquee>./wheel/Golfv1.1.png</marquee>
+		<video>./snap/Golfv1.1.mp4</video>
+	</game>
+	<game>
+		<path>./Goonies.fds</path>
+		<name>Goonies</name>
+		<image>./boxart/Goonies.png</image>
+		<marquee>./wheel/Goonies.png</marquee>
+		<video>./snap/Goonies.mp4</video>
+	</game>
+	<game>
+		<path>./Green Beret.fds</path>
+		<name>Green Beret</name>
+		<image>./boxart/Green Beret.png</image>
+		<marquee>./wheel/Green Beret.png</marquee>
+		<video>./snap/Green Beret.mp4</video>
+	</game>
+	<game>
+		<path>./Gun.Smoke.fds</path>
+		<name>Gun.Smoke</name>
+		<image>./boxart/Gun.Smoke.png</image>
+		<marquee>./wheel/Gun.Smoke.png</marquee>
+		<video>./snap/Gun.Smoke.mp4</video>
+	</game>
+	<game>
+		<path>./Gyruss.fds</path>
+		<name>Gyruss</name>
+		<image>./boxart/Gyruss.png</image>
+		<marquee>./wheel/Gyruss.png</marquee>
+		<video>./snap/Gyruss.mp4</video>
+	</game>
+	<game>
+		<path>./Halley Wars.fds</path>
+		<name>Halley Wars</name>
+		<image>./boxart/Halley Wars.png</image>
+		<marquee>./wheel/Halley Wars.png</marquee>
+		<video>./snap/Halley Wars.mp4</video>
+	</game>
+	<game>
+		<path>./Hao kun no Fushigi na Tabi.fds</path>
+		<name>Hao kun no Fushigi na Tabi</name>
+		<image>./boxart/Hao kun no Fushigi na Tabi.png</image>
+		<marquee>./wheel/Hao kun no Fushigi na Tabi.png</marquee>
+		<video>./snap/Hao kun no Fushigi na Tabi.mp4</video>
+	</game>
+	<game>
+		<path>./Hikari Shinwa Parthenon no Kagamiv1.1.fds</path>
+		<name>Hikari Shinwa Parthenon no Kagamiv1.1</name>
+		<image>./boxart/Hikari Shinwa Parthenon no Kagamiv1.1.png</image>
+		<marquee>./wheel/Hikari Shinwa Parthenon no Kagamiv1.1.png</marquee>
+		<video>./snap/Hikari Shinwa Parthenon no Kagamiv1.1.mp4</video>
+	</game>
+	<game>
+		<path>./Hong Kong Famimaga Disk Vol. 1.fds</path>
+		<name>Hong Kong Famimaga Disk Vol. 1</name>
+		<image>./boxart/Hong Kong Famimaga Disk Vol. 1.png</image>
+		<marquee>./wheel/Hong Kong Famimaga Disk Vol. 1.png</marquee>
+		<video>./snap/Hong Kong Famimaga Disk Vol. 1.mp4</video>
+	</game>
+	<game>
+		<path>./Ice Climber.fds</path>
+		<name>Ice Climber</name>
+		<image>./boxart/Ice Climber.png</image>
+		<marquee>./wheel/Ice Climber.png</marquee>
+		<video>./snap/Ice Climber.mp4</video>
+	</game>
+	<game>
+		<path>./Ice Hockey.fds</path>
+		<name>Ice Hockey</name>
+		<image>./boxart/Ice Hockey.png</image>
+		<marquee>./wheel/Ice Hockey.png</marquee>
+		<video>./snap/Ice Hockey.mp4</video>
+	</game>
+	<game>
+		<path>./Igo Kyuu Roban Taikyoku.fds</path>
+		<name>Igo Kyuu Roban Taikyoku</name>
+		<image>./boxart/Igo Kyuu Roban Taikyoku.png</image>
+		<marquee>./wheel/Igo Kyuu Roban Taikyoku.png</marquee>
+		<video>./snap/Igo Kyuu Roban Taikyoku.mp4</video>
+	</game>
+	<game>
+		<path>./Ishido.fds</path>
+		<name>Ishido</name>
+		<image>./boxart/Ishido.png</image>
+		<marquee>./wheel/Ishido.png</marquee>
+		<video>./snap/Ishido.mp4</video>
+	</game>
+	<game>
+		<path>./Janken Disk Jou Famimaga Disk Vol. 6.fds</path>
+		<name>Janken Disk Jou Famimaga Disk Vol. 6</name>
+		<image>./boxart/Janken Disk Jou Famimaga Disk Vol. 6.png</image>
+		<marquee>./wheel/Janken Disk Jou Famimaga Disk Vol. 6.png</marquee>
+		<video>./snap/Janken Disk Jou Famimaga Disk Vol. 6.mp4</video>
+	</game>
+	<game>
+		<path>./Jikai Shounen Metmag.fds</path>
+		<name>Jikai Shounen Metmag</name>
+		<image>./boxart/Jikai Shounen Metmag.png</image>
+		<marquee>./wheel/Jikai Shounen Metmag.png</marquee>
+		<video>./snap/Jikai Shounen Metmag.mp4</video>
+	</game>
+	<game>
+		<path>./Kaettekita Mario BrothersDisk Writer.fds</path>
+		<name>Kaettekita Mario BrothersDisk Writer</name>
+		<image>./boxart/Kaettekita Mario BrothersDisk Writer.png</image>
+		<marquee>./wheel/Kaettekita Mario BrothersDisk Writer.png</marquee>
+		<video>./snap/Kaettekita Mario BrothersDisk Writer.mp4</video>
+	</game>
+	<game>
+		<path>./Kamen Rider Black Taiketsu Shadow Moon.fds</path>
+		<name>Kamen Rider Black Taiketsu Shadow Moon</name>
+		<image>./boxart/Kamen Rider Black Taiketsu Shadow Moon.png</image>
+		<marquee>./wheel/Kamen Rider Black Taiketsu Shadow Moon.png</marquee>
+		<video>./snap/Kamen Rider Black Taiketsu Shadow Moon.mp4</video>
+	</game>
+	<game>
+		<path>./Karate Champ.fds</path>
+		<name>Karate Champ</name>
+		<image>./boxart/Karate Champ.png</image>
+		<marquee>./wheel/Karate Champ.png</marquee>
+		<video>./snap/Karate Champ.mp4</video>
+	</game>
+	<game>
+		<path>./Karin no Tsurugi[En by Filler+KingMike+Satsu v1.0] ~Sword of Kalin The.fds</path>
+		<name>Karin no Tsurugi[En by Filler+KingMike+Satsu v1.0] ~Sword of Kalin The</name>
+		<image>./boxart/Karin no Tsurugi[En by Filler+KingMike+Satsu v1.0] ~Sword of Kalin The.png</image>
+		<marquee>./wheel/Karin no Tsurugi[En by Filler+KingMike+Satsu v1.0] ~Sword of Kalin The.png</marquee>
+		<video>./snap/Karin no Tsurugi[En by Filler+KingMike+Satsu v1.0] ~Sword of Kalin The.mp4</video>
+	</game>
+	<game>
+		<path>./Kick and Run.fds</path>
+		<name>Kick and Run</name>
+		<image>./boxart/Kick and Run.png</image>
+		<marquee>./wheel/Kick and Run.png</marquee>
+		<video>./snap/Kick and Run.mp4</video>
+	</game>
+	<game>
+		<path>./Kick Challenger Air Foot Yasai no Kuni no Ashi Senshi.fds</path>
+		<name>Kick Challenger Air Foot Yasai no Kuni no Ashi Senshi</name>
+		<image>./boxart/Kick Challenger Air Foot Yasai no Kuni no Ashi Senshi.png</image>
+		<marquee>./wheel/Kick Challenger Air Foot Yasai no Kuni no Ashi Senshi.png</marquee>
+		<video>./snap/Kick Challenger Air Foot Yasai no Kuni no Ashi Senshi.mp4</video>
+	</game>
+	<game>
+		<path>./Kieta Princess.fds</path>
+		<name>Kieta Princess</name>
+		<image>./boxart/Kieta Princess.png</image>
+		<marquee>./wheel/Kieta Princess.png</marquee>
+		<video>./snap/Kieta Princess.mp4</video>
+	</game>
+	<game>
+		<path>./Kikikai kai Dotou Hen.fds</path>
+		<name>Kikikai kai Dotou Hen</name>
+		<image>./boxart/Kikikai kai Dotou Hen.png</image>
+		<marquee>./wheel/Kikikai kai Dotou Hen.png</marquee>
+		<video>./snap/Kikikai kai Dotou Hen.mp4</video>
+	</game>
+	<game>
+		<path>./Kineko Kinetic Connection The Monitor Puzzle Vol. II.fds</path>
+		<name>Kineko Kinetic Connection The Monitor Puzzle Vol. II</name>
+		<image>./boxart/Kineko Kinetic Connection The Monitor Puzzle Vol. II.png</image>
+		<marquee>./wheel/Kineko Kinetic Connection The Monitor Puzzle Vol. II.png</marquee>
+		<video>./snap/Kineko Kinetic Connection The Monitor Puzzle Vol. II.mp4</video>
+	</game>
+	<game>
+		<path>./Kinnikuman Kinnikusei Oui Soudatsusen.fds</path>
+		<name>Kinnikuman Kinnikusei Oui Soudatsusen</name>
+		<image>./boxart/Kinnikuman Kinnikusei Oui Soudatsusen.png</image>
+		<marquee>./wheel/Kinnikuman Kinnikusei Oui Soudatsusen.png</marquee>
+		<video>./snap/Kinnikuman Kinnikusei Oui Soudatsusen.mp4</video>
+	</game>
+	<game>
+		<path>./Knight Lore Majou no Ookami Otoko.fds</path>
+		<name>Knight Lore Majou no Ookami Otoko</name>
+		<image>./boxart/Knight Lore Majou no Ookami Otoko.png</image>
+		<marquee>./wheel/Knight Lore Majou no Ookami Otoko.png</marquee>
+		<video>./snap/Knight Lore Majou no Ookami Otoko.mp4</video>
+	</game>
+	<game>
+		<path>./Knight Move [T Eng_v1.0_PentarouZero].fds</path>
+		<name>Knight Move [T Eng_v1.0_PentarouZero]</name>
+		<image>./boxart/Knight Move [T Eng_v1.0_PentarouZero].png</image>
+		<marquee>./wheel/Knight Move [T Eng_v1.0_PentarouZero].png</marquee>
+		<video>./snap/Knight Move [T Eng_v1.0_PentarouZero].mp4</video>
+	</game>
+	<game>
+		<path>./Kobayashi Hitomi Shocking Tennis.fds</path>
+		<name>Kobayashi Hitomi Shocking Tennis</name>
+		<image>./boxart/Kobayashi Hitomi Shocking Tennis.png</image>
+		<marquee>./wheel/Kobayashi Hitomi Shocking Tennis.png</marquee>
+		<video>./snap/Kobayashi Hitomi Shocking Tennis.mp4</video>
+	</game>
+	<game>
+		<path>./Konamic Ice Hockey.fds</path>
+		<name>Konamic Ice Hockey</name>
+		<image>./boxart/Konamic Ice Hockey.png</image>
+		<marquee>./wheel/Konamic Ice Hockey.png</marquee>
+		<video>./snap/Konamic Ice Hockey.mp4</video>
+	</game>
+	<game>
+		<path>./Konamic Tennis.fds</path>
+		<name>Konamic Tennis</name>
+		<image>./boxart/Konamic Tennis.png</image>
+		<marquee>./wheel/Konamic Tennis.png</marquee>
+		<video>./snap/Konamic Tennis.mp4</video>
+	</game>
+	<game>
+		<path>./Koneko Monogatari The Adventures of Chatran.fds</path>
+		<name>Koneko Monogatari The Adventures of Chatran</name>
+		<image>./boxart/Koneko Monogatari The Adventures of Chatran.png</image>
+		<marquee>./wheel/Koneko Monogatari The Adventures of Chatran.png</marquee>
+		<video>./snap/Koneko Monogatari The Adventures of Chatran.mp4</video>
+	</game>
+	<game>
+		<path>./Legend of Zelda 2 The Link no Boukenv1.1.fds</path>
+		<name>Legend of Zelda 2 The Link no Boukenv1.1</name>
+		<image>./boxart/Legend of Zelda 2 The Link no Boukenv1.1.png</image>
+		<marquee>./wheel/Legend of Zelda 2 The Link no Boukenv1.1.png</marquee>
+		<video>./snap/Legend of Zelda 2 The Link no Boukenv1.1.mp4</video>
+	</game>
+	<game>
+		<path>./Lipstick .1 Lolita Hen.fds</path>
+		<name>Lipstick .1 Lolita Hen</name>
+		<image>./boxart/Lipstick .1 Lolita Hen.png</image>
+		<marquee>./wheel/Lipstick .1 Lolita Hen.png</marquee>
+		<video>./snap/Lipstick .1 Lolita Hen.mp4</video>
+	</game>
+	<game>
+		<path>./Lipstick .2 Joshi Gakusei Hen.fds</path>
+		<name>Lipstick .2 Joshi Gakusei Hen</name>
+		<image>./boxart/Lipstick .2 Joshi Gakusei Hen.png</image>
+		<marquee>./wheel/Lipstick .2 Joshi Gakusei Hen.png</marquee>
+		<video>./snap/Lipstick .2 Joshi Gakusei Hen.mp4</video>
+	</game>
+	<game>
+		<path>./Lipstick .3 OL Hen.fds</path>
+		<name>Lipstick .3 OL Hen</name>
+		<image>./boxart/Lipstick .3 OL Hen.png</image>
+		<marquee>./wheel/Lipstick .3 OL Hen.png</marquee>
+		<video>./snap/Lipstick .3 OL Hen.mp4</video>
+	</game>
+	<game>
+		<path>./Lipstick .4 Hakui no Tenshi Hen.fds</path>
+		<name>Lipstick .4 Hakui no Tenshi Hen</name>
+		<image>./boxart/Lipstick .4 Hakui no Tenshi Hen.png</image>
+		<marquee>./wheel/Lipstick .4 Hakui no Tenshi Hen.png</marquee>
+		<video>./snap/Lipstick .4 Hakui no Tenshi Hen.mp4</video>
+	</game>
+	<game>
+		<path>./Lipstick .5 Stewardess Hen.fds</path>
+		<name>Lipstick .5 Stewardess Hen</name>
+		<image>./boxart/Lipstick .5 Stewardess Hen.png</image>
+		<marquee>./wheel/Lipstick .5 Stewardess Hen.png</marquee>
+		<video>./snap/Lipstick .5 Stewardess Hen.mp4</video>
+	</game>
+	<game>
+		<path>./Lutter [T Eng_v1.0_Mute].fds</path>
+		<name>Lutter [T Eng_v1.0_Mute]</name>
+		<image>./boxart/Lutter [T Eng_v1.0_Mute].png</image>
+		<marquee>./wheel/Lutter [T Eng_v1.0_Mute].png</marquee>
+		<video>./snap/Lutter [T Eng_v1.0_Mute].mp4</video>
+	</game>
+	<game>
+		<path>./Mahjong Goraku Bishoujo Meijinsen.fds</path>
+		<name>Mahjong Goraku Bishoujo Meijinsen</name>
+		<image>./boxart/Mahjong Goraku Bishoujo Meijinsen.png</image>
+		<marquee>./wheel/Mahjong Goraku Bishoujo Meijinsen.png</marquee>
+		<video>./snap/Mahjong Goraku Bishoujo Meijinsen.mp4</video>
+	</game>
+	<game>
+		<path>./Mahjong Kazoku.fds</path>
+		<name>Mahjong Kazoku</name>
+		<image>./boxart/Mahjong Kazoku.png</image>
+		<marquee>./wheel/Mahjong Kazoku.png</marquee>
+		<video>./snap/Mahjong Kazoku.mp4</video>
+	</game>
+	<game>
+		<path>./Mahjong.fds</path>
+		<name>Mahjong</name>
+		<image>./boxart/Mahjong.png</image>
+		<marquee>./wheel/Mahjong.png</marquee>
+		<video>./snap/Mahjong.mp4</video>
+	</game>
+	<game>
+		<path>./Marchen Veil.fds</path>
+		<name>Marchen Veil</name>
+		<image>./boxart/Marchen Veil.png</image>
+		<marquee>./wheel/Marchen Veil.png</marquee>
+		<video>./snap/Marchen Veil.mp4</video>
+	</game>
+	<game>
+		<path>./Matou no Houkai The Hero of Babel.fds</path>
+		<name>Matou no Houkai The Hero of Babel</name>
+		<image>./boxart/Matou no Houkai The Hero of Babel.png</image>
+		<marquee>./wheel/Matou no Houkai The Hero of Babel.png</marquee>
+		<video>./snap/Matou no Houkai The Hero of Babel.mp4</video>
+	</game>
+	<game>
+		<path>./Meikyuu Jiin Dababa.fds</path>
+		<name>Meikyuu Jiin Dababa</name>
+		<image>./boxart/Meikyuu Jiin Dababa.png</image>
+		<marquee>./wheel/Meikyuu Jiin Dababa.png</marquee>
+		<video>./snap/Meikyuu Jiin Dababa.mp4</video>
+	</game>
+	<game>
+		<path>./Metroid.fds</path>
+		<name>Metroid</name>
+		<image>./boxart/Metroid.png</image>
+		<marquee>./wheel/Metroid.png</marquee>
+		<video>./snap/Metroid.mp4</video>
+	</game>
+	<game>
+		<path>./Michael English Daibouken.fds</path>
+		<name>Michael English Daibouken</name>
+		<image>./boxart/Michael English Daibouken.png</image>
+		<marquee>./wheel/Michael English Daibouken.png</marquee>
+		<video>./snap/Michael English Daibouken.mp4</video>
+	</game>
+	<game>
+		<path>./Moero TwinBee Cinnamon Hakase wo Sukue.fds</path>
+		<name>Moero TwinBee Cinnamon Hakase wo Sukue</name>
+		<image>./boxart/Moero TwinBee Cinnamon Hakase wo Sukue.png</image>
+		<marquee>./wheel/Moero TwinBee Cinnamon Hakase wo Sukue.png</marquee>
+		<video>./snap/Moero TwinBee Cinnamon Hakase wo Sukue.mp4</video>
+	</game>
+	<game>
+		<path>./Monitor Puzzle Kineko The Kinetic Connection.fds</path>
+		<name>Monitor Puzzle Kineko The Kinetic Connection</name>
+		<image>./boxart/Monitor Puzzle Kineko The Kinetic Connection.png</image>
+		<marquee>./wheel/Monitor Puzzle Kineko The Kinetic Connection.png</marquee>
+		<video>./snap/Monitor Puzzle Kineko The Kinetic Connection.mp4</video>
+	</game>
+	<game>
+		<path>./Monty on the Run Monty no Doki Doki Dai Dassou.fds</path>
+		<name>Monty on the Run Monty no Doki Doki Dai Dassou</name>
+		<image>./boxart/Monty on the Run Monty no Doki Doki Dai Dassou.png</image>
+		<marquee>./wheel/Monty on the Run Monty no Doki Doki Dai Dassou.png</marquee>
+		<video>./snap/Monty on the Run Monty no Doki Doki Dai Dassou.mp4</video>
+	</game>
+	<game>
+		<path>./Moonball Magic.fds</path>
+		<name>Moonball Magic</name>
+		<image>./boxart/Moonball Magic.png</image>
+		<marquee>./wheel/Moonball Magic.png</marquee>
+		<video>./snap/Moonball Magic.mp4</video>
+	</game>
+	<game>
+		<path>./Namida no Soukoban Special[En by KingMike v1.0] ~Boxxle Warehouse Evening of Tears.fds</path>
+		<name>Namida no Soukoban Special[En by KingMike v1.0] ~Boxxle Warehouse Evening of Tears</name>
+		<image>./boxart/Namida no Soukoban Special[En by KingMike v1.0] ~Boxxle Warehouse Evening of Tears.png</image>
+		<marquee>./wheel/Namida no Soukoban Special[En by KingMike v1.0] ~Boxxle Warehouse Evening of Tears.png</marquee>
+		<video>./snap/Namida no Soukoban Special[En by KingMike v1.0] ~Boxxle Warehouse Evening of Tears.mp4</video>
+	</game>
+	<game>
+		<path>./Nazo no Kabe Block Kuzushi.fds</path>
+		<name>Nazo no Kabe Block Kuzushi</name>
+		<image>./boxart/Nazo no Kabe Block Kuzushi.png</image>
+		<marquee>./wheel/Nazo no Kabe Block Kuzushi.png</marquee>
+		<video>./snap/Nazo no Kabe Block Kuzushi.mp4</video>
+	</game>
+	<game>
+		<path>./Nazo no Murasame Jou[En by Spinner 8 v1.0] ~Riddle of Murasame Castle.fds</path>
+		<name>Nazo no Murasame Jou[En by Spinner 8 v1.0] ~Riddle of Murasame Castle</name>
+		<image>./boxart/Nazo no Murasame Jou[En by Spinner 8 v1.0] ~Riddle of Murasame Castle.png</image>
+		<marquee>./wheel/Nazo no Murasame Jou[En by Spinner 8 v1.0] ~Riddle of Murasame Castle.png</marquee>
+		<video>./snap/Nazo no Murasame Jou[En by Spinner 8 v1.0] ~Riddle of Murasame Castle.mp4</video>
+	</game>
+	<game>
+		<path>./Nazoraa Land Dai 2 GouNazo Magazine Disk.fds</path>
+		<name>Nazoraa Land Dai 2 GouNazo Magazine Disk</name>
+		<image>./boxart/Nazoraa Land Dai 2 GouNazo Magazine Disk.png</image>
+		<marquee>./wheel/Nazoraa Land Dai 2 GouNazo Magazine Disk.png</marquee>
+		<video>./snap/Nazoraa Land Dai 2 GouNazo Magazine Disk.mp4</video>
+	</game>
+	<game>
+		<path>./Nazoraa Land Dai 3 GouNazo Magazine Disk.fds</path>
+		<name>Nazoraa Land Dai 3 GouNazo Magazine Disk</name>
+		<image>./boxart/Nazoraa Land Dai 3 GouNazo Magazine Disk.png</image>
+		<marquee>./wheel/Nazoraa Land Dai 3 GouNazo Magazine Disk.png</marquee>
+		<video>./snap/Nazoraa Land Dai 3 GouNazo Magazine Disk.mp4</video>
+	</game>
+	<game>
+		<path>./Nazoraa Land Soukan GouNazo Magazine Disk.fds</path>
+		<name>Nazoraa Land Soukan GouNazo Magazine Disk</name>
+		<image>./boxart/Nazoraa Land Soukan GouNazo Magazine Disk.png</image>
+		<marquee>./wheel/Nazoraa Land Soukan GouNazo Magazine Disk.png</marquee>
+		<video>./snap/Nazoraa Land Soukan GouNazo Magazine Disk.mp4</video>
+	</game>
+	<game>
+		<path>./Omoikkiri Tanteidan Haado Gumi Matenrou no Chousenjou.fds</path>
+		<name>Omoikkiri Tanteidan Haado Gumi Matenrou no Chousenjou</name>
+		<image>./boxart/Omoikkiri Tanteidan Haado Gumi Matenrou no Chousenjou.png</image>
+		<marquee>./wheel/Omoikkiri Tanteidan Haado Gumi Matenrou no Chousenjou.png</marquee>
+		<video>./snap/Omoikkiri Tanteidan Haado Gumi Matenrou no Chousenjou.mp4</video>
+	</game>
+	<game>
+		<path>./Otocky.fds</path>
+		<name>Otocky</name>
+		<image>./boxart/Otocky.png</image>
+		<marquee>./wheel/Otocky.png</marquee>
+		<video>./snap/Otocky.mp4</video>
+	</game>
+	<game>
+		<path>./Pac ManDisk Writer.fds</path>
+		<name>Pac ManDisk Writer</name>
+		<image>./boxart/Pac ManDisk Writer.png</image>
+		<marquee>./wheel/Pac ManDisk Writer.png</marquee>
+		<video>./snap/Pac ManDisk Writer.mp4</video>
+	</game>
+	<game>
+		<path>./Pachicom.fds</path>
+		<name>Pachicom</name>
+		<image>./boxart/Pachicom.png</image>
+		<marquee>./wheel/Pachicom.png</marquee>
+		<video>./snap/Pachicom.mp4</video>
+	</game>
+	<game>
+		<path>./Pachinko Grand Prix.fds</path>
+		<name>Pachinko Grand Prix</name>
+		<image>./boxart/Pachinko Grand Prix.png</image>
+		<marquee>./wheel/Pachinko Grand Prix.png</marquee>
+		<video>./snap/Pachinko Grand Prix.mp4</video>
+	</game>
+	<game>
+		<path>./Panic Space Famimaga Disk Vol. 2.fds</path>
+		<name>Panic Space Famimaga Disk Vol. 2</name>
+		<image>./boxart/Panic Space Famimaga Disk Vol. 2.png</image>
+		<marquee>./wheel/Panic Space Famimaga Disk Vol. 2.png</marquee>
+		<video>./snap/Panic Space Famimaga Disk Vol. 2.mp4</video>
+	</game>
+	<game>
+		<path>./Patlabor The Mobile Police Dai 2 Shoutai Shutsudou Seyo[En by Vice v1.0].fds</path>
+		<name>Patlabor The Mobile Police Dai 2 Shoutai Shutsudou Seyo[En by Vice v1.0]</name>
+		<image>./boxart/Patlabor The Mobile Police Dai 2 Shoutai Shutsudou Seyo[En by Vice v1.0].png</image>
+		<marquee>./wheel/Patlabor The Mobile Police Dai 2 Shoutai Shutsudou Seyo[En by Vice v1.0].png</marquee>
+		<video>./snap/Patlabor The Mobile Police Dai 2 Shoutai Shutsudou Seyo[En by Vice v1.0].mp4</video>
+	</game>
+	<game>
+		<path>./Pinball.fds</path>
+		<name>Pinball</name>
+		<image>./boxart/Pinball.png</image>
+		<marquee>./wheel/Pinball.png</marquee>
+		<video>./snap/Pinball.mp4</video>
+	</game>
+	<game>
+		<path>./Pro Golfer Saru Kage no Tournament.fds</path>
+		<name>Pro Golfer Saru Kage no Tournament</name>
+		<image>./boxart/Pro Golfer Saru Kage no Tournament.png</image>
+		<marquee>./wheel/Pro Golfer Saru Kage no Tournament.png</marquee>
+		<video>./snap/Pro Golfer Saru Kage no Tournament.mp4</video>
+	</game>
+	<game>
+		<path>./Professional Mahjong Gokuu.fds</path>
+		<name>Professional Mahjong Gokuu</name>
+		<image>./boxart/Professional Mahjong Gokuu.png</image>
+		<marquee>./wheel/Professional Mahjong Gokuu.png</marquee>
+		<video>./snap/Professional Mahjong Gokuu.mp4</video>
+	</game>
+	<game>
+		<path>./ProWres Famicom Wrestling Association.fds</path>
+		<name>ProWres Famicom Wrestling Association</name>
+		<image>./boxart/ProWres Famicom Wrestling Association.png</image>
+		<marquee>./wheel/ProWres Famicom Wrestling Association.png</marquee>
+		<video>./snap/ProWres Famicom Wrestling Association.mp4</video>
+	</game>
+	<game>
+		<path>./Putt Putt Golf.fds</path>
+		<name>Putt Putt Golf</name>
+		<image>./boxart/Putt Putt Golf.png</image>
+		<marquee>./wheel/Putt Putt Golf.png</marquee>
+		<video>./snap/Putt Putt Golf.mp4</video>
+	</game>
+	<game>
+		<path>./Puyo Puyo Famimaga Disk Vol. 5.fds</path>
+		<name>Puyo Puyo Famimaga Disk Vol. 5</name>
+		<image>./boxart/Puyo Puyo Famimaga Disk Vol. 5.png</image>
+		<marquee>./wheel/Puyo Puyo Famimaga Disk Vol. 5.png</marquee>
+		<video>./snap/Puyo Puyo Famimaga Disk Vol. 5.mp4</video>
+	</game>
+	<game>
+		<path>./Puzzle Boys.fds</path>
+		<name>Puzzle Boys</name>
+		<image>./boxart/Puzzle Boys.png</image>
+		<marquee>./wheel/Puzzle Boys.png</marquee>
+		<video>./snap/Puzzle Boys.mp4</video>
+	</game>
+	<game>
+		<path>./Radical Bomber Jirai kun.fds</path>
+		<name>Radical Bomber Jirai kun</name>
+		<image>./boxart/Radical Bomber Jirai kun.png</image>
+		<marquee>./wheel/Radical Bomber Jirai kun.png</marquee>
+		<video>./snap/Radical Bomber Jirai kun.mp4</video>
+	</game>
+	<game>
+		<path>./Reflect World.fds</path>
+		<name>Reflect World</name>
+		<image>./boxart/Reflect World.png</image>
+		<marquee>./wheel/Reflect World.png</marquee>
+		<video>./snap/Reflect World.mp4</video>
+	</game>
+	<game>
+		<path>./Relics Ankoku Yousai.fds</path>
+		<name>Relics Ankoku Yousai</name>
+		<image>./boxart/Relics Ankoku Yousai.png</image>
+		<marquee>./wheel/Relics Ankoku Yousai.png</marquee>
+		<video>./snap/Relics Ankoku Yousai.mp4</video>
+	</game>
+	<game>
+		<path>./Replicart.fds</path>
+		<name>Replicart</name>
+		<image>./boxart/Replicart.png</image>
+		<marquee>./wheel/Replicart.png</marquee>
+		<video>./snap/Replicart.mp4</video>
+	</game>
+	<game>
+		<path>./Roger Rabbit.fds</path>
+		<name>Roger Rabbit</name>
+		<image>./boxart/Roger Rabbit.png</image>
+		<marquee>./wheel/Roger Rabbit.png</marquee>
+		<video>./snap/Roger Rabbit.mp4</video>
+	</game>
+	<game>
+		<path>./Sailor Fuku Bishoujo Zukan Vol. 1.fds</path>
+		<name>Sailor Fuku Bishoujo Zukan Vol. 1</name>
+		<image>./boxart/Sailor Fuku Bishoujo Zukan Vol. 1.png</image>
+		<marquee>./wheel/Sailor Fuku Bishoujo Zukan Vol. 1.png</marquee>
+		<video>./snap/Sailor Fuku Bishoujo Zukan Vol. 1.mp4</video>
+	</game>
+	<game>
+		<path>./Sailor Fuku Bishoujo Zukan Vol. 2.fds</path>
+		<name>Sailor Fuku Bishoujo Zukan Vol. 2</name>
+		<image>./boxart/Sailor Fuku Bishoujo Zukan Vol. 2.png</image>
+		<marquee>./wheel/Sailor Fuku Bishoujo Zukan Vol. 2.png</marquee>
+		<video>./snap/Sailor Fuku Bishoujo Zukan Vol. 2.mp4</video>
+	</game>
+	<game>
+		<path>./Sailor Fuku Bishoujo Zukan Vol. 3.fds</path>
+		<name>Sailor Fuku Bishoujo Zukan Vol. 3</name>
+		<image>./boxart/Sailor Fuku Bishoujo Zukan Vol. 3.png</image>
+		<marquee>./wheel/Sailor Fuku Bishoujo Zukan Vol. 3.png</marquee>
+		<video>./snap/Sailor Fuku Bishoujo Zukan Vol. 3.mp4</video>
+	</game>
+	<game>
+		<path>./Sailor Fuku Bishoujo Zukan Vol. 4.fds</path>
+		<name>Sailor Fuku Bishoujo Zukan Vol. 4</name>
+		<image>./boxart/Sailor Fuku Bishoujo Zukan Vol. 4.png</image>
+		<marquee>./wheel/Sailor Fuku Bishoujo Zukan Vol. 4.png</marquee>
+		<video>./snap/Sailor Fuku Bishoujo Zukan Vol. 4.mp4</video>
+	</game>
+	<game>
+		<path>./Sailor Fuku Bishoujo Zukan Vol. 5.fds</path>
+		<name>Sailor Fuku Bishoujo Zukan Vol. 5</name>
+		<image>./boxart/Sailor Fuku Bishoujo Zukan Vol. 5.png</image>
+		<marquee>./wheel/Sailor Fuku Bishoujo Zukan Vol. 5.png</marquee>
+		<video>./snap/Sailor Fuku Bishoujo Zukan Vol. 5.mp4</video>
+	</game>
+	<game>
+		<path>./Sailor Fuku Bishoujo Zukan Vol. 6.fds</path>
+		<name>Sailor Fuku Bishoujo Zukan Vol. 6</name>
+		<image>./boxart/Sailor Fuku Bishoujo Zukan Vol. 6.png</image>
+		<marquee>./wheel/Sailor Fuku Bishoujo Zukan Vol. 6.png</marquee>
+		<video>./snap/Sailor Fuku Bishoujo Zukan Vol. 6.mp4</video>
+	</game>
+	<game>
+		<path>./Samurai Sword[En by Mute v1.0].fds</path>
+		<name>Samurai Sword[En by Mute v1.0]</name>
+		<image>./boxart/Samurai Sword[En by Mute v1.0].png</image>
+		<marquee>./wheel/Samurai Sword[En by Mute v1.0].png</marquee>
+		<video>./snap/Samurai Sword[En by Mute v1.0].mp4</video>
+	</game>
+	<game>
+		<path>./Santa Claus no Takarabako[En by Gil Galad v1.01] ~Santa Clauss Toybox.fds</path>
+		<name>Santa Claus no Takarabako[En by Gil Galad v1.01] ~Santa Clauss Toybox</name>
+		<image>./boxart/Santa Claus no Takarabako[En by Gil Galad v1.01] ~Santa Clauss Toybox.png</image>
+		<marquee>./wheel/Santa Claus no Takarabako[En by Gil Galad v1.01] ~Santa Clauss Toybox.png</marquee>
+		<video>./snap/Santa Claus no Takarabako[En by Gil Galad v1.01] ~Santa Clauss Toybox.mp4</video>
+	</game>
+	<game>
+		<path>./SD Gundam World Gachapon Senshi Scramble Wars Map CollectionDisk Writer.fds</path>
+		<name>SD Gundam World Gachapon Senshi Scramble Wars Map CollectionDisk Writer</name>
+		<image>./boxart/SD Gundam World Gachapon Senshi Scramble Wars Map CollectionDisk Writer.png</image>
+		<marquee>./wheel/SD Gundam World Gachapon Senshi Scramble Wars Map CollectionDisk Writer.png</marquee>
+		<video>./snap/SD Gundam World Gachapon Senshi Scramble Wars Map CollectionDisk Writer.mp4</video>
+	</game>
+	<game>
+		<path>./SD Gundam World Gachapon Senshi Scramble Wars.fds</path>
+		<name>SD Gundam World Gachapon Senshi Scramble Wars</name>
+		<image>./boxart/SD Gundam World Gachapon Senshi Scramble Wars.png</image>
+		<marquee>./wheel/SD Gundam World Gachapon Senshi Scramble Wars.png</marquee>
+		<video>./snap/SD Gundam World Gachapon Senshi Scramble Wars.mp4</video>
+	</game>
+	<game>
+		<path>./Section Z.fds</path>
+		<name>Section Z</name>
+		<image>./boxart/Section Z.png</image>
+		<marquee>./wheel/Section Z.png</marquee>
+		<video>./snap/Section Z.mp4</video>
+	</game>
+	<game>
+		<path>./Seiken Psychocalibur Majuu no Mori Densetsu[En by Spoony Bard v1.0].fds</path>
+		<name>Seiken Psychocalibur Majuu no Mori Densetsu[En by Spoony Bard v1.0]</name>
+		<image>./boxart/Seiken Psychocalibur Majuu no Mori Densetsu[En by Spoony Bard v1.0].png</image>
+		<marquee>./wheel/Seiken Psychocalibur Majuu no Mori Densetsu[En by Spoony Bard v1.0].png</marquee>
+		<video>./snap/Seiken Psychocalibur Majuu no Mori Densetsu[En by Spoony Bard v1.0].mp4</video>
+	</game>
+	<game>
+		<path>./Sexy Invaders.fds</path>
+		<name>Sexy Invaders</name>
+		<image>./boxart/Sexy Invaders.png</image>
+		<marquee>./wheel/Sexy Invaders.png</marquee>
+		<video>./snap/Sexy Invaders.mp4</video>
+	</game>
+	<game>
+		<path>./Silviana Ai Ippai no Boukensya[En by Mute v1.0].fds</path>
+		<name>Silviana Ai Ippai no Boukensya[En by Mute v1.0]</name>
+		<image>./boxart/Silviana Ai Ippai no Boukensya[En by Mute v1.0].png</image>
+		<marquee>./wheel/Silviana Ai Ippai no Boukensya[En by Mute v1.0].png</marquee>
+		<video>./snap/Silviana Ai Ippai no Boukensya[En by Mute v1.0].mp4</video>
+	</game>
+	<game>
+		<path>./Smash Ping Pong.fds</path>
+		<name>Smash Ping Pong</name>
+		<image>./boxart/Smash Ping Pong.png</image>
+		<marquee>./wheel/Smash Ping Pong.png</marquee>
+		<video>./snap/Smash Ping Pong.mp4</video>
+	</game>
+	<game>
+		<path>./Soccer.fds</path>
+		<name>Soccer</name>
+		<image>./boxart/Soccer.png</image>
+		<marquee>./wheel/Soccer.png</marquee>
+		<video>./snap/Soccer.mp4</video>
+	</game>
+	<game>
+		<path>./Solomon no Kagi.fds</path>
+		<name>Solomon no Kagi</name>
+		<image>./boxart/Solomon no Kagi.png</image>
+		<marquee>./wheel/Solomon no Kagi.png</marquee>
+		<video>./snap/Solomon no Kagi.mp4</video>
+	</game>
+	<game>
+		<path>./Suishou no Dragon[En by Mute v1.0] ~Crystal Dragon.fds</path>
+		<name>Suishou no Dragon[En by Mute v1.0] ~Crystal Dragon</name>
+		<image>./boxart/Suishou no Dragon[En by Mute v1.0] ~Crystal Dragon.png</image>
+		<marquee>./wheel/Suishou no Dragon[En by Mute v1.0] ~Crystal Dragon.png</marquee>
+		<video>./snap/Suishou no Dragon[En by Mute v1.0] ~Crystal Dragon.mp4</video>
+	</game>
+	<game>
+		<path>./Super Boy Allan.fds</path>
+		<name>Super Boy Allan</name>
+		<image>./boxart/Super Boy Allan.png</image>
+		<marquee>./wheel/Super Boy Allan.png</marquee>
+		<video>./snap/Super Boy Allan.mp4</video>
+	</game>
+	<game>
+		<path>./Super Lode Runner IIDisk Writer.fds</path>
+		<name>Super Lode Runner IIDisk Writer</name>
+		<image>./boxart/Super Lode Runner IIDisk Writer.png</image>
+		<marquee>./wheel/Super Lode Runner IIDisk Writer.png</marquee>
+		<video>./snap/Super Lode Runner IIDisk Writer.mp4</video>
+	</game>
+	<game>
+		<path>./Super Lode Runner.fds</path>
+		<name>Super Lode Runner</name>
+		<image>./boxart/Super Lode Runner.png</image>
+		<marquee>./wheel/Super Lode Runner.png</marquee>
+		<video>./snap/Super Lode Runner.mp4</video>
+	</game>
+	<game>
+		<path>./Super Mario Brothers 2.fds</path>
+		<name>Super Mario Brothers 2</name>
+		<image>./boxart/Super Mario Brothers 2.png</image>
+		<marquee>./wheel/Super Mario Brothers 2.png</marquee>
+		<video>./snap/Super Mario Brothers 2.mp4</video>
+	</game>
+	<game>
+		<path>./Super Mario Brothers.fds</path>
+		<name>Super Mario Brothers</name>
+		<image>./boxart/Super Mario Brothers.png</image>
+		<marquee>./wheel/Super Mario Brothers.png</marquee>
+		<video>./snap/Super Mario Brothers.mp4</video>
+	</game>
+	<game>
+		<path>./Tama & Friends 3 Choume Daibouken.fds</path>
+		<name>Tama & Friends 3 Choume Daibouken</name>
+		<image>./boxart/Tama & Friends 3 Choume Daibouken.png</image>
+		<marquee>./wheel/Tama & Friends 3 Choume Daibouken.png</marquee>
+		<video>./snap/Tama & Friends 3 Choume Daibouken.mp4</video>
+	</game>
+	<game>
+		<path>./Tanigawa Kouji no Shougi Shinan II Meijin heno Michi.fds</path>
+		<name>Tanigawa Kouji no Shougi Shinan II Meijin heno Michi</name>
+		<image>./boxart/Tanigawa Kouji no Shougi Shinan II Meijin heno Michi.png</image>
+		<marquee>./wheel/Tanigawa Kouji no Shougi Shinan II Meijin heno Michi.png</marquee>
+		<video>./snap/Tanigawa Kouji no Shougi Shinan II Meijin heno Michi.mp4</video>
+	</game>
+	<game>
+		<path>./Tennis.fds</path>
+		<name>Tennis</name>
+		<image>./boxart/Tennis.png</image>
+		<marquee>./wheel/Tennis.png</marquee>
+		<video>./snap/Tennis.mp4</video>
+	</game>
+	<game>
+		<path>./Tobidase Daisakusen.fds</path>
+		<name>Tobidase Daisakusen</name>
+		<image>./boxart/Tobidase Daisakusen.png</image>
+		<marquee>./wheel/Tobidase Daisakusen.png</marquee>
+		<video>./snap/Tobidase Daisakusen.mp4</video>
+	</game>
+	<game>
+		<path>./Topple Zip.fds</path>
+		<name>Topple Zip</name>
+		<image>./boxart/Topple Zip.png</image>
+		<marquee>./wheel/Topple Zip.png</marquee>
+		<video>./snap/Topple Zip.mp4</video>
+	</game>
+	<game>
+		<path>./Transformers The Headmasters.fds</path>
+		<name>Transformers The Headmasters</name>
+		<image>./boxart/Transformers The Headmasters.png</image>
+		<marquee>./wheel/Transformers The Headmasters.png</marquee>
+		<video>./snap/Transformers The Headmasters.mp4</video>
+	</game>
+	<game>
+		<path>./TwinBeeDisk Writer.fds</path>
+		<name>TwinBeeDisk Writer</name>
+		<image>./boxart/TwinBeeDisk Writer.png</image>
+		<marquee>./wheel/TwinBeeDisk Writer.png</marquee>
+		<video>./snap/TwinBeeDisk Writer.mp4</video>
+	</game>
+	<game>
+		<path>./Ultraman 2 Shutsugeki Katoku Tai.fds</path>
+		<name>Ultraman 2 Shutsugeki Katoku Tai</name>
+		<image>./boxart/Ultraman 2 Shutsugeki Katoku Tai.png</image>
+		<marquee>./wheel/Ultraman 2 Shutsugeki Katoku Tai.png</marquee>
+		<video>./snap/Ultraman 2 Shutsugeki Katoku Tai.mp4</video>
+	</game>
+	<game>
+		<path>./Ultraman Kaijuu Teikoku no Gyakushuu.fds</path>
+		<name>Ultraman Kaijuu Teikoku no Gyakushuu</name>
+		<image>./boxart/Ultraman Kaijuu Teikoku no Gyakushuu.png</image>
+		<marquee>./wheel/Ultraman Kaijuu Teikoku no Gyakushuu.png</marquee>
+		<video>./snap/Ultraman Kaijuu Teikoku no Gyakushuu.mp4</video>
+	</game>
+	<game>
+		<path>./Volleyball.fds</path>
+		<name>Volleyball</name>
+		<image>./boxart/Volleyball.png</image>
+		<marquee>./wheel/Volleyball.png</marquee>
+		<video>./snap/Volleyball.mp4</video>
+	</game>
+	<game>
+		<path>./Vs. Excitebike.fds</path>
+		<name>Vs. Excitebike</name>
+		<image>./boxart/Vs. Excitebike.png</image>
+		<marquee>./wheel/Vs. Excitebike.png</marquee>
+		<video>./snap/Vs. Excitebike.mp4</video>
+	</game>
+	<game>
+		<path>./Wakusei Aton GaidenNational Tax Agency Demo.fds</path>
+		<name>Wakusei Aton GaidenNational Tax Agency Demo</name>
+		<image>./boxart/Wakusei Aton GaidenNational Tax Agency Demo.png</image>
+		<marquee>./wheel/Wakusei Aton GaidenNational Tax Agency Demo.png</marquee>
+		<video>./snap/Wakusei Aton GaidenNational Tax Agency Demo.mp4</video>
+	</game>
+	<game>
+		<path>./Wardner no Mori.fds</path>
+		<name>Wardner no Mori</name>
+		<image>./boxart/Wardner no Mori.png</image>
+		<marquee>./wheel/Wardner no Mori.png</marquee>
+		<video>./snap/Wardner no Mori.mp4</video>
+	</game>
+	<game>
+		<path>./Winter Games.fds</path>
+		<name>Winter Games</name>
+		<image>./boxart/Winter Games.png</image>
+		<marquee>./wheel/Winter Games.png</marquee>
+		<video>./snap/Winter Games.mp4</video>
+	</game>
+	<game>
+		<path>./Wrecking Crew.fds</path>
+		<name>Wrecking Crew</name>
+		<image>./boxart/Wrecking Crew.png</image>
+		<marquee>./wheel/Wrecking Crew.png</marquee>
+		<video>./snap/Wrecking Crew.mp4</video>
+	</game>
+	<game>
+		<path>./Xevious.fds</path>
+		<name>Xevious</name>
+		<image>./boxart/Xevious.png</image>
+		<marquee>./wheel/Xevious.png</marquee>
+		<video>./snap/Xevious.mp4</video>
+	</game>
+	<game>
+		<path>./Yakyuuken Part II Gals Dungeon [En by Spinner 8 v1.0].fds</path>
+		<name>Yakyuuken Part II Gals Dungeon [En by Spinner 8 v1.0]</name>
+		<image>./boxart/Yakyuuken Part II Gals Dungeon [En by Spinner 8 v1.0].png</image>
+		<marquee>./wheel/Yakyuuken Part II Gals Dungeon [En by Spinner 8 v1.0].png</marquee>
+		<video>./snap/Yakyuuken Part II Gals Dungeon [En by Spinner 8 v1.0].mp4</video>
+	</game>
+	<game>
+		<path>./Youkai Yashiki[En by KingMike v1.0] ~Ghost Manor.fds</path>
+		<name>Youkai Yashiki[En by KingMike v1.0] ~Ghost Manor</name>
+		<image>./boxart/Youkai Yashiki[En by KingMike v1.0] ~Ghost Manor.png</image>
+		<marquee>./wheel/Youkai Yashiki[En by KingMike v1.0] ~Ghost Manor.png</marquee>
+		<video>./snap/Youkai Yashiki[En by KingMike v1.0] ~Ghost Manor.mp4</video>
+	</game>
+	<game>
+		<path>./Yume Koujou Doki Doki Panic[En by Vice v1.0] ~Dream World Doki Doki Panic.fds</path>
+		<name>Yume Koujou Doki Doki Panic[En by Vice v1.0] ~Dream World Doki Doki Panic</name>
+		<image>./boxart/Yume Koujou Doki Doki Panic[En by Vice v1.0] ~Dream World Doki Doki Panic.png</image>
+		<marquee>./wheel/Yume Koujou Doki Doki Panic[En by Vice v1.0] ~Dream World Doki Doki Panic.png</marquee>
+		<video>./snap/Yume Koujou Doki Doki Panic[En by Vice v1.0] ~Dream World Doki Doki Panic.mp4</video>
+	</game>
+	<game>
+		<path>./Yuu Maze.fds</path>
+		<name>Yuu Maze</name>
+		<image>./boxart/Yuu Maze.png</image>
+		<marquee>./wheel/Yuu Maze.png</marquee>
+		<video>./snap/Yuu Maze.mp4</video>
+	</game>
+	<game>
+		<path>./Zanac.fds</path>
+		<name>Zanac</name>
+		<image>./boxart/Zanac.png</image>
+		<marquee>./wheel/Zanac.png</marquee>
+		<video>./snap/Zanac.mp4</video>
+	</game>
+	<game>
+		<path>./Zelda no Densetsu The Hyrule Fantasyv1.1.fds</path>
+		<name>Zelda no Densetsu The Hyrule Fantasyv1.1</name>
+		<image>./boxart/Zelda no Densetsu The Hyrule Fantasyv1.1.png</image>
+		<marquee>./wheel/Zelda no Densetsu The Hyrule Fantasyv1.1.png</marquee>
+		<video>./snap/Zelda no Densetsu The Hyrule Fantasyv1.1.mp4</video>
+	</game>
+</gameList>
