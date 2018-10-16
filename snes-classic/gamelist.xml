@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Contra III The Alien Wars.smc</path>
+		<name>Contra III The Alien Wars</name>
+		<image>./boxart/Contra III The Alien Wars.png</image>
+		<marquee>./wheel/Contra III The Alien Wars.png</marquee>
+		<video>./snap/Contra III The Alien Wars.mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong Country.smc</path>
+		<name>Donkey Kong Country</name>
+		<image>./boxart/Donkey Kong Country.png</image>
+		<marquee>./wheel/Donkey Kong Country.png</marquee>
+		<video>./snap/Donkey Kong Country.mp4</video>
+	</game>
+	<game>
+		<path>./Earthbound.smc</path>
+		<name>Earthbound</name>
+		<image>./boxart/Earthbound.png</image>
+		<marquee>./wheel/Earthbound.png</marquee>
+		<video>./snap/Earthbound.mp4</video>
+	</game>
+	<game>
+		<path>./F ZERO.smc</path>
+		<name>F ZERO</name>
+		<image>./boxart/F ZERO.png</image>
+		<marquee>./wheel/F ZERO.png</marquee>
+		<video>./snap/F ZERO.mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy 3 V1.1.smc</path>
+		<name>Final Fantasy 3 V1.1</name>
+		<image>./boxart/Final Fantasy 3 V1.1.png</image>
+		<marquee>./wheel/Final Fantasy 3 V1.1.png</marquee>
+		<video>./snap/Final Fantasy 3 V1.1.mp4</video>
+	</game>
+	<game>
+		<path>./gamelist.xml</path>
+		<name>gamelist</name>
+		<image>./boxart/gamelist.png</image>
+		<marquee>./wheel/gamelist.png</marquee>
+		<video>./snap/gamelist.mp4</video>
+	</game>
+	<game>
+		<path>./Kirby Super Star.smc</path>
+		<name>Kirby Super Star</name>
+		<image>./boxart/Kirby Super Star.png</image>
+		<marquee>./wheel/Kirby Super Star.png</marquee>
+		<video>./snap/Kirby Super Star.mp4</video>
+	</game>
+	<game>
+		<path>./Kirbys Dream Course.smc</path>
+		<name>Kirbys Dream Course</name>
+		<image>./boxart/Kirbys Dream Course.png</image>
+		<marquee>./wheel/Kirbys Dream Course.png</marquee>
+		<video>./snap/Kirbys Dream Course.mp4</video>
+	</game>
+	<game>
+		<path>./Legend of Zelda The A Link to the Past.smc</path>
+		<name>Legend of Zelda The A Link to the Past</name>
+		<image>./boxart/Legend of Zelda The A Link to the Past.png</image>
+		<marquee>./wheel/Legend of Zelda The A Link to the Past.png</marquee>
+		<video>./snap/Legend of Zelda The A Link to the Past.mp4</video>
+	</game>
+	<game>
+		<path>./Mega Man X E.smc</path>
+		<name>Mega Man X E</name>
+		<image>./boxart/Mega Man X E.png</image>
+		<marquee>./wheel/Mega Man X E.png</marquee>
+		<video>./snap/Mega Man X E.mp4</video>
+	</game>
+	<game>
+		<path>./Secret of Mana.smc</path>
+		<name>Secret of Mana</name>
+		<image>./boxart/Secret of Mana.png</image>
+		<marquee>./wheel/Secret of Mana.png</marquee>
+		<video>./snap/Secret of Mana.mp4</video>
+	</game>
+	<game>
+		<path>./Star Fox 2.sfc</path>
+		<name>Star Fox 2</name>
+		<image>./boxart/Star Fox 2.png</image>
+		<marquee>./wheel/Star Fox 2.png</marquee>
+		<video>./snap/Star Fox 2.mp4</video>
+	</game>
+	<game>
+		<path>./Star Fox.smc</path>
+		<name>Star Fox</name>
+		<image>./boxart/Star Fox.png</image>
+		<marquee>./wheel/Star Fox.png</marquee>
+		<video>./snap/Star Fox.mp4</video>
+	</game>
+	<game>
+		<path>./Street Fighter II Turbo.smc</path>
+		<name>Street Fighter II Turbo</name>
+		<image>./boxart/Street Fighter II Turbo.png</image>
+		<marquee>./wheel/Street Fighter II Turbo.png</marquee>
+		<video>./snap/Street Fighter II Turbo.mp4</video>
+	</game>
+	<game>
+		<path>./Super Castlevania IV.smc</path>
+		<name>Super Castlevania IV</name>
+		<image>./boxart/Super Castlevania IV.png</image>
+		<marquee>./wheel/Super Castlevania IV.png</marquee>
+		<video>./snap/Super Castlevania IV.mp4</video>
+	</game>
+	<game>
+		<path>./Super Ghouls N Ghosts.smc</path>
+		<name>Super Ghouls N Ghosts</name>
+		<image>./boxart/Super Ghouls N Ghosts.png</image>
+		<marquee>./wheel/Super Ghouls N Ghosts.png</marquee>
+		<video>./snap/Super Ghouls N Ghosts.mp4</video>
+	</game>
+	<game>
+		<path>./Super Mario Kart.smc</path>
+		<name>Super Mario Kart</name>
+		<image>./boxart/Super Mario Kart.png</image>
+		<marquee>./wheel/Super Mario Kart.png</marquee>
+		<video>./snap/Super Mario Kart.mp4</video>
+	</game>
+	<game>
+		<path>./Super Mario RPG Legend of the Seven Stars.smc</path>
+		<name>Super Mario RPG Legend of the Seven Stars</name>
+		<image>./boxart/Super Mario RPG Legend of the Seven Stars.png</image>
+		<marquee>./wheel/Super Mario RPG Legend of the Seven Stars.png</marquee>
+		<video>./snap/Super Mario RPG Legend of the Seven Stars.mp4</video>
+	</game>
+	<game>
+		<path>./Super Mario World.smc</path>
+		<name>Super Mario World</name>
+		<image>./boxart/Super Mario World.png</image>
+		<marquee>./wheel/Super Mario World.png</marquee>
+		<video>./snap/Super Mario World.mp4</video>
+	</game>
+	<game>
+		<path>./Super Metroid.smc</path>
+		<name>Super Metroid</name>
+		<image>./boxart/Super Metroid.png</image>
+		<marquee>./wheel/Super Metroid.png</marquee>
+		<video>./snap/Super Metroid.mp4</video>
+	</game>
+	<game>
+		<path>./Super Punch Out.smc</path>
+		<name>Super Punch Out</name>
+		<image>./boxart/Super Punch Out.png</image>
+		<marquee>./wheel/Super Punch Out.png</marquee>
+		<video>./snap/Super Punch Out.mp4</video>
+	</game>
+</gameList>

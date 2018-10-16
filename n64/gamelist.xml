@@ -1,0 +1,2131 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./007 GoldenEye.n64</path>
+		<name>007 GoldenEye</name>
+		<image>./boxart/007 GoldenEye.png</image>
+		<marquee>./wheel/007 GoldenEye.png</marquee>
+		<video>./snap/007 GoldenEye.mp4</video>
+	</game>
+	<game>
+		<path>./007 The World Is Not Enough.n64</path>
+		<name>007 The World Is Not Enough</name>
+		<image>./boxart/007 The World Is Not Enough.png</image>
+		<marquee>./wheel/007 The World Is Not Enough.png</marquee>
+		<video>./snap/007 The World Is Not Enough.mp4</video>
+	</game>
+	<game>
+		<path>./1080 SnowboardingJa.n64</path>
+		<name>1080 SnowboardingJa</name>
+		<image>./boxart/1080 SnowboardingJa.png</image>
+		<marquee>./wheel/1080 SnowboardingJa.png</marquee>
+		<video>./snap/1080 SnowboardingJa.mp4</video>
+	</game>
+	<game>
+		<path>./AeroFighters Assault.n64</path>
+		<name>AeroFighters Assault</name>
+		<image>./boxart/AeroFighters Assault.png</image>
+		<marquee>./wheel/AeroFighters Assault.png</marquee>
+		<video>./snap/AeroFighters Assault.mp4</video>
+	</game>
+	<game>
+		<path>./AeroGauge.n64</path>
+		<name>AeroGauge</name>
+		<image>./boxart/AeroGauge.png</image>
+		<marquee>./wheel/AeroGauge.png</marquee>
+		<video>./snap/AeroGauge.mp4</video>
+	</game>
+	<game>
+		<path>./Aidyn Chronicles The First Mage.n64</path>
+		<name>Aidyn Chronicles The First Mage</name>
+		<image>./boxart/Aidyn Chronicles The First Mage.png</image>
+		<marquee>./wheel/Aidyn Chronicles The First Mage.png</marquee>
+		<video>./snap/Aidyn Chronicles The First Mage.mp4</video>
+	</game>
+	<game>
+		<path>./Air Boarder 64.n64</path>
+		<name>Air Boarder 64</name>
+		<image>./boxart/Air Boarder 64.png</image>
+		<marquee>./wheel/Air Boarder 64.png</marquee>
+		<video>./snap/Air Boarder 64.mp4</video>
+	</game>
+	<game>
+		<path>./All Star Baseball 2000.n64</path>
+		<name>All Star Baseball 2000</name>
+		<image>./boxart/All Star Baseball 2000.png</image>
+		<marquee>./wheel/All Star Baseball 2000.png</marquee>
+		<video>./snap/All Star Baseball 2000.mp4</video>
+	</game>
+	<game>
+		<path>./All Star Baseball 2001.n64</path>
+		<name>All Star Baseball 2001</name>
+		<image>./boxart/All Star Baseball 2001.png</image>
+		<marquee>./wheel/All Star Baseball 2001.png</marquee>
+		<video>./snap/All Star Baseball 2001.mp4</video>
+	</game>
+	<game>
+		<path>./All Star Baseball 99.n64</path>
+		<name>All Star Baseball 99</name>
+		<image>./boxart/All Star Baseball 99.png</image>
+		<marquee>./wheel/All Star Baseball 99.png</marquee>
+		<video>./snap/All Star Baseball 99.mp4</video>
+	</game>
+	<game>
+		<path>./All Star Tennis 99.n64</path>
+		<name>All Star Tennis 99</name>
+		<image>./boxart/All Star Tennis 99.png</image>
+		<marquee>./wheel/All Star Tennis 99.png</marquee>
+		<video>./snap/All Star Tennis 99.mp4</video>
+	</game>
+	<game>
+		<path>./Armorines Project S.W.A.R.M..n64</path>
+		<name>Armorines Project S.W.A.R.M.</name>
+		<image>./boxart/Armorines Project S.W.A.R.M..png</image>
+		<marquee>./wheel/Armorines Project S.W.A.R.M..png</marquee>
+		<video>./snap/Armorines Project S.W.A.R.M..mp4</video>
+	</game>
+	<game>
+		<path>./Army Men Air Combat.n64</path>
+		<name>Army Men Air Combat</name>
+		<image>./boxart/Army Men Air Combat.png</image>
+		<marquee>./wheel/Army Men Air Combat.png</marquee>
+		<video>./snap/Army Men Air Combat.mp4</video>
+	</game>
+	<game>
+		<path>./Army Men Sarges Heroes 2.n64</path>
+		<name>Army Men Sarges Heroes 2</name>
+		<image>./boxart/Army Men Sarges Heroes 2.png</image>
+		<marquee>./wheel/Army Men Sarges Heroes 2.png</marquee>
+		<video>./snap/Army Men Sarges Heroes 2.mp4</video>
+	</game>
+	<game>
+		<path>./Army Men Sarges Heroes.n64</path>
+		<name>Army Men Sarges Heroes</name>
+		<image>./boxart/Army Men Sarges Heroes.png</image>
+		<marquee>./wheel/Army Men Sarges Heroes.png</marquee>
+		<video>./snap/Army Men Sarges Heroes.mp4</video>
+	</game>
+	<game>
+		<path>./Asteroids Hyper 64.n64</path>
+		<name>Asteroids Hyper 64</name>
+		<image>./boxart/Asteroids Hyper 64.png</image>
+		<marquee>./wheel/Asteroids Hyper 64.png</marquee>
+		<video>./snap/Asteroids Hyper 64.mp4</video>
+	</game>
+	<game>
+		<path>./Automobili Lamborghini.n64</path>
+		<name>Automobili Lamborghini</name>
+		<image>./boxart/Automobili Lamborghini.png</image>
+		<marquee>./wheel/Automobili Lamborghini.png</marquee>
+		<video>./snap/Automobili Lamborghini.mp4</video>
+	</game>
+	<game>
+		<path>./Banjo Kazooie.n64</path>
+		<name>Banjo Kazooie</name>
+		<image>./boxart/Banjo Kazooie.png</image>
+		<marquee>./wheel/Banjo Kazooie.png</marquee>
+		<video>./snap/Banjo Kazooie.mp4</video>
+	</game>
+	<game>
+		<path>./Banjo Tooie.n64</path>
+		<name>Banjo Tooie</name>
+		<image>./boxart/Banjo Tooie.png</image>
+		<marquee>./wheel/Banjo Tooie.png</marquee>
+		<video>./snap/Banjo Tooie.mp4</video>
+	</game>
+	<game>
+		<path>./Bassmasters 2000.n64</path>
+		<name>Bassmasters 2000</name>
+		<image>./boxart/Bassmasters 2000.png</image>
+		<marquee>./wheel/Bassmasters 2000.png</marquee>
+		<video>./snap/Bassmasters 2000.mp4</video>
+	</game>
+	<game>
+		<path>./Batman Beyond Return of the Joker.n64</path>
+		<name>Batman Beyond Return of the Joker</name>
+		<image>./boxart/Batman Beyond Return of the Joker.png</image>
+		<marquee>./wheel/Batman Beyond Return of the Joker.png</marquee>
+		<video>./snap/Batman Beyond Return of the Joker.mp4</video>
+	</game>
+	<game>
+		<path>./BattleTanx Global Assault.n64</path>
+		<name>BattleTanx Global Assault</name>
+		<image>./boxart/BattleTanx Global Assault.png</image>
+		<marquee>./wheel/BattleTanx Global Assault.png</marquee>
+		<video>./snap/BattleTanx Global Assault.mp4</video>
+	</game>
+	<game>
+		<path>./BattleTanx.n64</path>
+		<name>BattleTanx</name>
+		<image>./boxart/BattleTanx.png</image>
+		<marquee>./wheel/BattleTanx.png</marquee>
+		<video>./snap/BattleTanx.mp4</video>
+	</game>
+	<game>
+		<path>./Battlezone Rise of the Black Dogs.n64</path>
+		<name>Battlezone Rise of the Black Dogs</name>
+		<image>./boxart/Battlezone Rise of the Black Dogs.png</image>
+		<marquee>./wheel/Battlezone Rise of the Black Dogs.png</marquee>
+		<video>./snap/Battlezone Rise of the Black Dogs.mp4</video>
+	</game>
+	<game>
+		<path>./Beetle Adventure RacingDe.n64</path>
+		<name>Beetle Adventure RacingDe</name>
+		<image>./boxart/Beetle Adventure RacingDe.png</image>
+		<marquee>./wheel/Beetle Adventure RacingDe.png</marquee>
+		<video>./snap/Beetle Adventure RacingDe.mp4</video>
+	</game>
+	<game>
+		<path>./Big Mountain 2000.n64</path>
+		<name>Big Mountain 2000</name>
+		<image>./boxart/Big Mountain 2000.png</image>
+		<marquee>./wheel/Big Mountain 2000.png</marquee>
+		<video>./snap/Big Mountain 2000.mp4</video>
+	</game>
+	<game>
+		<path>./Bio F.R.E.A.K.S..n64</path>
+		<name>Bio F.R.E.A.K.S.</name>
+		<image>./boxart/Bio F.R.E.A.K.S..png</image>
+		<marquee>./wheel/Bio F.R.E.A.K.S..png</marquee>
+		<video>./snap/Bio F.R.E.A.K.S..mp4</video>
+	</game>
+	<game>
+		<path>./Blast Corps.n64</path>
+		<name>Blast Corps</name>
+		<image>./boxart/Blast Corps.png</image>
+		<marquee>./wheel/Blast Corps.png</marquee>
+		<video>./snap/Blast Corps.mp4</video>
+	</game>
+	<game>
+		<path>./Blues Brothers 2000.n64</path>
+		<name>Blues Brothers 2000</name>
+		<image>./boxart/Blues Brothers 2000.png</image>
+		<marquee>./wheel/Blues Brothers 2000.png</marquee>
+		<video>./snap/Blues Brothers 2000.mp4</video>
+	</game>
+	<game>
+		<path>./Body Harvest.n64</path>
+		<name>Body Harvest</name>
+		<image>./boxart/Body Harvest.png</image>
+		<marquee>./wheel/Body Harvest.png</marquee>
+		<video>./snap/Body Harvest.mp4</video>
+	</game>
+	<game>
+		<path>./Bomberman 64 The Second Attack.n64</path>
+		<name>Bomberman 64 The Second Attack</name>
+		<image>./boxart/Bomberman 64 The Second Attack.png</image>
+		<marquee>./wheel/Bomberman 64 The Second Attack.png</marquee>
+		<video>./snap/Bomberman 64 The Second Attack.mp4</video>
+	</game>
+	<game>
+		<path>./Bomberman 64.n64</path>
+		<name>Bomberman 64</name>
+		<image>./boxart/Bomberman 64.png</image>
+		<marquee>./wheel/Bomberman 64.png</marquee>
+		<video>./snap/Bomberman 64.mp4</video>
+	</game>
+	<game>
+		<path>./Bomberman Hero.n64</path>
+		<name>Bomberman Hero</name>
+		<image>./boxart/Bomberman Hero.png</image>
+		<marquee>./wheel/Bomberman Hero.png</marquee>
+		<video>./snap/Bomberman Hero.mp4</video>
+	</game>
+	<game>
+		<path>./Bottom of the 9th.n64</path>
+		<name>Bottom of the 9th</name>
+		<image>./boxart/Bottom of the 9th.png</image>
+		<marquee>./wheel/Bottom of the 9th.png</marquee>
+		<video>./snap/Bottom of the 9th.mp4</video>
+	</game>
+	<game>
+		<path>./Brunswick Circuit Pro Bowling.n64</path>
+		<name>Brunswick Circuit Pro Bowling</name>
+		<image>./boxart/Brunswick Circuit Pro Bowling.png</image>
+		<marquee>./wheel/Brunswick Circuit Pro Bowling.png</marquee>
+		<video>./snap/Brunswick Circuit Pro Bowling.mp4</video>
+	</game>
+	<game>
+		<path>./Buck Bumble.n64</path>
+		<name>Buck Bumble</name>
+		<image>./boxart/Buck Bumble.png</image>
+		<marquee>./wheel/Buck Bumble.png</marquee>
+		<video>./snap/Buck Bumble.mp4</video>
+	</game>
+	<game>
+		<path>./Bugs Life A.n64</path>
+		<name>Bugs Life A</name>
+		<image>./boxart/Bugs Life A.png</image>
+		<marquee>./wheel/Bugs Life A.png</marquee>
+		<video>./snap/Bugs Life A.mp4</video>
+	</game>
+	<game>
+		<path>./Bust A Move 2 Arcade Edition.n64</path>
+		<name>Bust A Move 2 Arcade Edition</name>
+		<image>./boxart/Bust A Move 2 Arcade Edition.png</image>
+		<marquee>./wheel/Bust A Move 2 Arcade Edition.png</marquee>
+		<video>./snap/Bust A Move 2 Arcade Edition.mp4</video>
+	</game>
+	<game>
+		<path>./Bust A Move 99.n64</path>
+		<name>Bust A Move 99</name>
+		<image>./boxart/Bust A Move 99.png</image>
+		<marquee>./wheel/Bust A Move 99.png</marquee>
+		<video>./snap/Bust A Move 99.mp4</video>
+	</game>
+	<game>
+		<path>./California Speed.n64</path>
+		<name>California Speed</name>
+		<image>./boxart/California Speed.png</image>
+		<marquee>./wheel/California Speed.png</marquee>
+		<video>./snap/California Speed.mp4</video>
+	</game>
+	<game>
+		<path>./Carmageddon 64.n64</path>
+		<name>Carmageddon 64</name>
+		<image>./boxart/Carmageddon 64.png</image>
+		<marquee>./wheel/Carmageddon 64.png</marquee>
+		<video>./snap/Carmageddon 64.mp4</video>
+	</game>
+	<game>
+		<path>./Castlevania Legacy of Darkness.n64</path>
+		<name>Castlevania Legacy of Darkness</name>
+		<image>./boxart/Castlevania Legacy of Darkness.png</image>
+		<marquee>./wheel/Castlevania Legacy of Darkness.png</marquee>
+		<video>./snap/Castlevania Legacy of Darkness.mp4</video>
+	</game>
+	<game>
+		<path>./Castlevania.n64</path>
+		<name>Castlevania</name>
+		<image>./boxart/Castlevania.png</image>
+		<marquee>./wheel/Castlevania.png</marquee>
+		<video>./snap/Castlevania.mp4</video>
+	</game>
+	<game>
+		<path>./Centre Court Tennis.n64</path>
+		<name>Centre Court Tennis</name>
+		<image>./boxart/Centre Court Tennis.png</image>
+		<marquee>./wheel/Centre Court Tennis.png</marquee>
+		<video>./snap/Centre Court Tennis.mp4</video>
+	</game>
+	<game>
+		<path>./Chameleon Twist 2.n64</path>
+		<name>Chameleon Twist 2</name>
+		<image>./boxart/Chameleon Twist 2.png</image>
+		<marquee>./wheel/Chameleon Twist 2.png</marquee>
+		<video>./snap/Chameleon Twist 2.mp4</video>
+	</game>
+	<game>
+		<path>./Chameleon Twist.n64</path>
+		<name>Chameleon Twist</name>
+		<image>./boxart/Chameleon Twist.png</image>
+		<marquee>./wheel/Chameleon Twist.png</marquee>
+		<video>./snap/Chameleon Twist.mp4</video>
+	</game>
+	<game>
+		<path>./Charlie Blasts Territory.n64</path>
+		<name>Charlie Blasts Territory</name>
+		<image>./boxart/Charlie Blasts Territory.png</image>
+		<marquee>./wheel/Charlie Blasts Territory.png</marquee>
+		<video>./snap/Charlie Blasts Territory.mp4</video>
+	</game>
+	<game>
+		<path>./Chopper Attack.n64</path>
+		<name>Chopper Attack</name>
+		<image>./boxart/Chopper Attack.png</image>
+		<marquee>./wheel/Chopper Attack.png</marquee>
+		<video>./snap/Chopper Attack.mp4</video>
+	</game>
+	<game>
+		<path>./Clay Fighter 63 1 3.n64</path>
+		<name>Clay Fighter 63 1 3</name>
+		<image>./boxart/Clay Fighter 63 1 3.png</image>
+		<marquee>./wheel/Clay Fighter 63 1 3.png</marquee>
+		<video>./snap/Clay Fighter 63 1 3.mp4</video>
+	</game>
+	<game>
+		<path>./Clay Fighter Sculptors Cut.n64</path>
+		<name>Clay Fighter Sculptors Cut</name>
+		<image>./boxart/Clay Fighter Sculptors Cut.png</image>
+		<marquee>./wheel/Clay Fighter Sculptors Cut.png</marquee>
+		<video>./snap/Clay Fighter Sculptors Cut.mp4</video>
+	</game>
+	<game>
+		<path>./Command & Conquer.n64</path>
+		<name>Command & Conquer</name>
+		<image>./boxart/Command & Conquer.png</image>
+		<marquee>./wheel/Command & Conquer.png</marquee>
+		<video>./snap/Command & Conquer.mp4</video>
+	</game>
+	<game>
+		<path>./Conkers Bad Fur Day.n64</path>
+		<name>Conkers Bad Fur Day</name>
+		<image>./boxart/Conkers Bad Fur Day.png</image>
+		<marquee>./wheel/Conkers Bad Fur Day.png</marquee>
+		<video>./snap/Conkers Bad Fur Day.mp4</video>
+	</game>
+	<game>
+		<path>./Cruisn Exotica.n64</path>
+		<name>Cruisn Exotica</name>
+		<image>./boxart/Cruisn Exotica.png</image>
+		<marquee>./wheel/Cruisn Exotica.png</marquee>
+		<video>./snap/Cruisn Exotica.mp4</video>
+	</game>
+	<game>
+		<path>./Cruisn World.n64</path>
+		<name>Cruisn World</name>
+		<image>./boxart/Cruisn World.png</image>
+		<marquee>./wheel/Cruisn World.png</marquee>
+		<video>./snap/Cruisn World.mp4</video>
+	</game>
+	<game>
+		<path>./Cruisn.n64</path>
+		<name>Cruisn</name>
+		<image>./boxart/Cruisn.png</image>
+		<marquee>./wheel/Cruisn.png</marquee>
+		<video>./snap/Cruisn.mp4</video>
+	</game>
+	<game>
+		<path>./CyberTiger.n64</path>
+		<name>CyberTiger</name>
+		<image>./boxart/CyberTiger.png</image>
+		<marquee>./wheel/CyberTiger.png</marquee>
+		<video>./snap/CyberTiger.mp4</video>
+	</game>
+	<game>
+		<path>./Dark Rift.n64</path>
+		<name>Dark Rift</name>
+		<image>./boxart/Dark Rift.png</image>
+		<marquee>./wheel/Dark Rift.png</marquee>
+		<video>./snap/Dark Rift.mp4</video>
+	</game>
+	<game>
+		<path>./Deadly Arts.n64</path>
+		<name>Deadly Arts</name>
+		<image>./boxart/Deadly Arts.png</image>
+		<marquee>./wheel/Deadly Arts.png</marquee>
+		<video>./snap/Deadly Arts.mp4</video>
+	</game>
+	<game>
+		<path>./Destruction Derby 64.n64</path>
+		<name>Destruction Derby 64</name>
+		<image>./boxart/Destruction Derby 64.png</image>
+		<marquee>./wheel/Destruction Derby 64.png</marquee>
+		<video>./snap/Destruction Derby 64.mp4</video>
+	</game>
+	<game>
+		<path>./Diddy Kong RacingFr.n64</path>
+		<name>Diddy Kong RacingFr</name>
+		<image>./boxart/Diddy Kong RacingFr.png</image>
+		<marquee>./wheel/Diddy Kong RacingFr.png</marquee>
+		<video>./snap/Diddy Kong RacingFr.mp4</video>
+	</game>
+	<game>
+		<path>./Donald Duck Goin QuackersIt.n64</path>
+		<name>Donald Duck Goin QuackersIt</name>
+		<image>./boxart/Donald Duck Goin QuackersIt.png</image>
+		<marquee>./wheel/Donald Duck Goin QuackersIt.png</marquee>
+		<video>./snap/Donald Duck Goin QuackersIt.mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong 64.n64</path>
+		<name>Donkey Kong 64</name>
+		<image>./boxart/Donkey Kong 64.png</image>
+		<marquee>./wheel/Donkey Kong 64.png</marquee>
+		<video>./snap/Donkey Kong 64.mp4</video>
+	</game>
+	<game>
+		<path>./Doom 64.n64</path>
+		<name>Doom 64</name>
+		<image>./boxart/Doom 64.png</image>
+		<marquee>./wheel/Doom 64.png</marquee>
+		<video>./snap/Doom 64.mp4</video>
+	</game>
+	<game>
+		<path>./Dr. Mario 64.n64</path>
+		<name>Dr. Mario 64</name>
+		<image>./boxart/Dr. Mario 64.png</image>
+		<marquee>./wheel/Dr. Mario 64.png</marquee>
+		<video>./snap/Dr. Mario 64.mp4</video>
+	</game>
+	<game>
+		<path>./Dual Heroes.n64</path>
+		<name>Dual Heroes</name>
+		<image>./boxart/Dual Heroes.png</image>
+		<marquee>./wheel/Dual Heroes.png</marquee>
+		<video>./snap/Dual Heroes.mp4</video>
+	</game>
+	<game>
+		<path>./Duck Dodgers Starring Daffy Duck.n64</path>
+		<name>Duck Dodgers Starring Daffy Duck</name>
+		<image>./boxart/Duck Dodgers Starring Daffy Duck.png</image>
+		<marquee>./wheel/Duck Dodgers Starring Daffy Duck.png</marquee>
+		<video>./snap/Duck Dodgers Starring Daffy Duck.mp4</video>
+	</game>
+	<game>
+		<path>./Duke Nukem 64.n64</path>
+		<name>Duke Nukem 64</name>
+		<image>./boxart/Duke Nukem 64.png</image>
+		<marquee>./wheel/Duke Nukem 64.png</marquee>
+		<video>./snap/Duke Nukem 64.mp4</video>
+	</game>
+	<game>
+		<path>./Duke Nukem Zero Hour.n64</path>
+		<name>Duke Nukem Zero Hour</name>
+		<image>./boxart/Duke Nukem Zero Hour.png</image>
+		<marquee>./wheel/Duke Nukem Zero Hour.png</marquee>
+		<video>./snap/Duke Nukem Zero Hour.mp4</video>
+	</game>
+	<game>
+		<path>./Earthworm Jim 3D.n64</path>
+		<name>Earthworm Jim 3D</name>
+		<image>./boxart/Earthworm Jim 3D.png</image>
+		<marquee>./wheel/Earthworm Jim 3D.png</marquee>
+		<video>./snap/Earthworm Jim 3D.mp4</video>
+	</game>
+	<game>
+		<path>./ECW Hardcore Revolution.n64</path>
+		<name>ECW Hardcore Revolution</name>
+		<image>./boxart/ECW Hardcore Revolution.png</image>
+		<marquee>./wheel/ECW Hardcore Revolution.png</marquee>
+		<video>./snap/ECW Hardcore Revolution.mp4</video>
+	</game>
+	<game>
+		<path>./Elmos Letter Adventure.n64</path>
+		<name>Elmos Letter Adventure</name>
+		<image>./boxart/Elmos Letter Adventure.png</image>
+		<marquee>./wheel/Elmos Letter Adventure.png</marquee>
+		<video>./snap/Elmos Letter Adventure.mp4</video>
+	</game>
+	<game>
+		<path>./Elmos Number Journey.n64</path>
+		<name>Elmos Number Journey</name>
+		<image>./boxart/Elmos Number Journey.png</image>
+		<marquee>./wheel/Elmos Number Journey.png</marquee>
+		<video>./snap/Elmos Number Journey.mp4</video>
+	</game>
+	<game>
+		<path>./Excitebike 64.n64</path>
+		<name>Excitebike 64</name>
+		<image>./boxart/Excitebike 64.png</image>
+		<marquee>./wheel/Excitebike 64.png</marquee>
+		<video>./snap/Excitebike 64.mp4</video>
+	</game>
+	<game>
+		<path>./Extreme G XG2.n64</path>
+		<name>Extreme G XG2</name>
+		<image>./boxart/Extreme G XG2.png</image>
+		<marquee>./wheel/Extreme G XG2.png</marquee>
+		<video>./snap/Extreme G XG2.mp4</video>
+	</game>
+	<game>
+		<path>./Extreme G.n64</path>
+		<name>Extreme G</name>
+		<image>./boxart/Extreme G.png</image>
+		<marquee>./wheel/Extreme G.png</marquee>
+		<video>./snap/Extreme G.mp4</video>
+	</game>
+	<game>
+		<path>./F 1 World Grand Prix II.n64</path>
+		<name>F 1 World Grand Prix II</name>
+		<image>./boxart/F 1 World Grand Prix II.png</image>
+		<marquee>./wheel/F 1 World Grand Prix II.png</marquee>
+		<video>./snap/F 1 World Grand Prix II.mp4</video>
+	</game>
+	<game>
+		<path>./F 1 World Grand Prix.n64</path>
+		<name>F 1 World Grand Prix</name>
+		<image>./boxart/F 1 World Grand Prix.png</image>
+		<marquee>./wheel/F 1 World Grand Prix.png</marquee>
+		<video>./snap/F 1 World Grand Prix.mp4</video>
+	</game>
+	<game>
+		<path>./F Zero X.n64</path>
+		<name>F Zero X</name>
+		<image>./boxart/F Zero X.png</image>
+		<marquee>./wheel/F Zero X.png</marquee>
+		<video>./snap/F Zero X.mp4</video>
+	</game>
+	<game>
+		<path>./F1 Pole Position 64De.n64</path>
+		<name>F1 Pole Position 64De</name>
+		<image>./boxart/F1 Pole Position 64De.png</image>
+		<marquee>./wheel/F1 Pole Position 64De.png</marquee>
+		<video>./snap/F1 Pole Position 64De.mp4</video>
+	</game>
+	<game>
+		<path>./F1 Racing ChampionshipIt.n64</path>
+		<name>F1 Racing ChampionshipIt</name>
+		<image>./boxart/F1 Racing ChampionshipIt.png</image>
+		<marquee>./wheel/F1 Racing ChampionshipIt.png</marquee>
+		<video>./snap/F1 Racing ChampionshipIt.mp4</video>
+	</game>
+	<game>
+		<path>./FIFA 99PtSv.n64</path>
+		<name>FIFA 99PtSv</name>
+		<image>./boxart/FIFA 99PtSv.png</image>
+		<marquee>./wheel/FIFA 99PtSv.png</marquee>
+		<video>./snap/FIFA 99PtSv.mp4</video>
+	</game>
+	<game>
+		<path>./FIFA Road to World Cup 98Sv.n64</path>
+		<name>FIFA Road to World Cup 98Sv</name>
+		<image>./boxart/FIFA Road to World Cup 98Sv.png</image>
+		<marquee>./wheel/FIFA Road to World Cup 98Sv.png</marquee>
+		<video>./snap/FIFA Road to World Cup 98Sv.mp4</video>
+	</game>
+	<game>
+		<path>./FIFA Soccer 64De.n64</path>
+		<name>FIFA Soccer 64De</name>
+		<image>./boxart/FIFA Soccer 64De.png</image>
+		<marquee>./wheel/FIFA Soccer 64De.png</marquee>
+		<video>./snap/FIFA Soccer 64De.mp4</video>
+	</game>
+	<game>
+		<path>./Fighter Destiny 2.n64</path>
+		<name>Fighter Destiny 2</name>
+		<image>./boxart/Fighter Destiny 2.png</image>
+		<marquee>./wheel/Fighter Destiny 2.png</marquee>
+		<video>./snap/Fighter Destiny 2.mp4</video>
+	</game>
+	<game>
+		<path>./Fighters Destiny.n64</path>
+		<name>Fighters Destiny</name>
+		<image>./boxart/Fighters Destiny.png</image>
+		<marquee>./wheel/Fighters Destiny.png</marquee>
+		<video>./snap/Fighters Destiny.mp4</video>
+	</game>
+	<game>
+		<path>./Fighting Force 64.n64</path>
+		<name>Fighting Force 64</name>
+		<image>./boxart/Fighting Force 64.png</image>
+		<marquee>./wheel/Fighting Force 64.png</marquee>
+		<video>./snap/Fighting Force 64.mp4</video>
+	</game>
+	<game>
+		<path>./Flying Dragon.n64</path>
+		<name>Flying Dragon</name>
+		<image>./boxart/Flying Dragon.png</image>
+		<marquee>./wheel/Flying Dragon.png</marquee>
+		<video>./snap/Flying Dragon.mp4</video>
+	</game>
+	<game>
+		<path>./Forsaken 64.n64</path>
+		<name>Forsaken 64</name>
+		<image>./boxart/Forsaken 64.png</image>
+		<marquee>./wheel/Forsaken 64.png</marquee>
+		<video>./snap/Forsaken 64.mp4</video>
+	</game>
+	<game>
+		<path>./Fox Sports College Hoops 99.n64</path>
+		<name>Fox Sports College Hoops 99</name>
+		<image>./boxart/Fox Sports College Hoops 99.png</image>
+		<marquee>./wheel/Fox Sports College Hoops 99.png</marquee>
+		<video>./snap/Fox Sports College Hoops 99.mp4</video>
+	</game>
+	<game>
+		<path>./gamelist.xml</path>
+		<name>gamelist</name>
+		<image>./boxart/gamelist.png</image>
+		<marquee>./wheel/gamelist.png</marquee>
+		<video>./snap/gamelist.mp4</video>
+	</game>
+	<game>
+		<path>./Gauntlet Legends.n64</path>
+		<name>Gauntlet Legends</name>
+		<image>./boxart/Gauntlet Legends.png</image>
+		<marquee>./wheel/Gauntlet Legends.png</marquee>
+		<video>./snap/Gauntlet Legends.mp4</video>
+	</game>
+	<game>
+		<path>./Gex 3 Deep Cover Gecko.n64</path>
+		<name>Gex 3 Deep Cover Gecko</name>
+		<image>./boxart/Gex 3 Deep Cover Gecko.png</image>
+		<marquee>./wheel/Gex 3 Deep Cover Gecko.png</marquee>
+		<video>./snap/Gex 3 Deep Cover Gecko.mp4</video>
+	</game>
+	<game>
+		<path>./Gex 64 Enter the Gecko.n64</path>
+		<name>Gex 64 Enter the Gecko</name>
+		<image>./boxart/Gex 64 Enter the Gecko.png</image>
+		<marquee>./wheel/Gex 64 Enter the Gecko.png</marquee>
+		<video>./snap/Gex 64 Enter the Gecko.mp4</video>
+	</game>
+	<game>
+		<path>./Glover.n64</path>
+		<name>Glover</name>
+		<image>./boxart/Glover.png</image>
+		<marquee>./wheel/Glover.png</marquee>
+		<video>./snap/Glover.mp4</video>
+	</game>
+	<game>
+		<path>./Goemons Great Adventure.n64</path>
+		<name>Goemons Great Adventure</name>
+		<image>./boxart/Goemons Great Adventure.png</image>
+		<marquee>./wheel/Goemons Great Adventure.png</marquee>
+		<video>./snap/Goemons Great Adventure.mp4</video>
+	</game>
+	<game>
+		<path>./Golden Nugget 64.n64</path>
+		<name>Golden Nugget 64</name>
+		<image>./boxart/Golden Nugget 64.png</image>
+		<marquee>./wheel/Golden Nugget 64.png</marquee>
+		<video>./snap/Golden Nugget 64.mp4</video>
+	</game>
+	<game>
+		<path>./GT64 Championship Edition.n64</path>
+		<name>GT64 Championship Edition</name>
+		<image>./boxart/GT64 Championship Edition.png</image>
+		<marquee>./wheel/GT64 Championship Edition.png</marquee>
+		<video>./snap/GT64 Championship Edition.mp4</video>
+	</game>
+	<game>
+		<path>./Harvest Moon 64.n64</path>
+		<name>Harvest Moon 64</name>
+		<image>./boxart/Harvest Moon 64.png</image>
+		<marquee>./wheel/Harvest Moon 64.png</marquee>
+		<video>./snap/Harvest Moon 64.mp4</video>
+	</game>
+	<game>
+		<path>./Hercules The Legendary Journeys.n64</path>
+		<name>Hercules The Legendary Journeys</name>
+		<image>./boxart/Hercules The Legendary Journeys.png</image>
+		<marquee>./wheel/Hercules The Legendary Journeys.png</marquee>
+		<video>./snap/Hercules The Legendary Journeys.mp4</video>
+	</game>
+	<game>
+		<path>./Hexen.n64</path>
+		<name>Hexen</name>
+		<image>./boxart/Hexen.png</image>
+		<marquee>./wheel/Hexen.png</marquee>
+		<video>./snap/Hexen.mp4</video>
+	</game>
+	<game>
+		<path>./Hey You Pikachu.n64</path>
+		<name>Hey You Pikachu</name>
+		<image>./boxart/Hey You Pikachu.png</image>
+		<marquee>./wheel/Hey You Pikachu.png</marquee>
+		<video>./snap/Hey You Pikachu.mp4</video>
+	</game>
+	<game>
+		<path>./Hot Wheels Turbo Racing.n64</path>
+		<name>Hot Wheels Turbo Racing</name>
+		<image>./boxart/Hot Wheels Turbo Racing.png</image>
+		<marquee>./wheel/Hot Wheels Turbo Racing.png</marquee>
+		<video>./snap/Hot Wheels Turbo Racing.mp4</video>
+	</game>
+	<game>
+		<path>./Hybrid Heaven.n64</path>
+		<name>Hybrid Heaven</name>
+		<image>./boxart/Hybrid Heaven.png</image>
+		<marquee>./wheel/Hybrid Heaven.png</marquee>
+		<video>./snap/Hybrid Heaven.mp4</video>
+	</game>
+	<game>
+		<path>./Hydro Thunder.n64</path>
+		<name>Hydro Thunder</name>
+		<image>./boxart/Hydro Thunder.png</image>
+		<marquee>./wheel/Hydro Thunder.png</marquee>
+		<video>./snap/Hydro Thunder.mp4</video>
+	</game>
+	<game>
+		<path>./Iggys Reckin Balls.n64</path>
+		<name>Iggys Reckin Balls</name>
+		<image>./boxart/Iggys Reckin Balls.png</image>
+		<marquee>./wheel/Iggys Reckin Balls.png</marquee>
+		<video>./snap/Iggys Reckin Balls.mp4</video>
+	</game>
+	<game>
+		<path>./In Fisherman Bass Hunter 64.n64</path>
+		<name>In Fisherman Bass Hunter 64</name>
+		<image>./boxart/In Fisherman Bass Hunter 64.png</image>
+		<marquee>./wheel/In Fisherman Bass Hunter 64.png</marquee>
+		<video>./snap/In Fisherman Bass Hunter 64.mp4</video>
+	</game>
+	<game>
+		<path>./Indiana Jones and the Infernal Machine.n64</path>
+		<name>Indiana Jones and the Infernal Machine</name>
+		<image>./boxart/Indiana Jones and the Infernal Machine.png</image>
+		<marquee>./wheel/Indiana Jones and the Infernal Machine.png</marquee>
+		<video>./snap/Indiana Jones and the Infernal Machine.mp4</video>
+	</game>
+	<game>
+		<path>./Indy Racing 2000.n64</path>
+		<name>Indy Racing 2000</name>
+		<image>./boxart/Indy Racing 2000.png</image>
+		<marquee>./wheel/Indy Racing 2000.png</marquee>
+		<video>./snap/Indy Racing 2000.mp4</video>
+	</game>
+	<game>
+		<path>./International Superstar Soccer 2000.n64</path>
+		<name>International Superstar Soccer 2000</name>
+		<image>./boxart/International Superstar Soccer 2000.png</image>
+		<marquee>./wheel/International Superstar Soccer 2000.png</marquee>
+		<video>./snap/International Superstar Soccer 2000.mp4</video>
+	</game>
+	<game>
+		<path>./International Superstar Soccer 64.n64</path>
+		<name>International Superstar Soccer 64</name>
+		<image>./boxart/International Superstar Soccer 64.png</image>
+		<marquee>./wheel/International Superstar Soccer 64.png</marquee>
+		<video>./snap/International Superstar Soccer 64.mp4</video>
+	</game>
+	<game>
+		<path>./International Superstar Soccer 98.n64</path>
+		<name>International Superstar Soccer 98</name>
+		<image>./boxart/International Superstar Soccer 98.png</image>
+		<marquee>./wheel/International Superstar Soccer 98.png</marquee>
+		<video>./snap/International Superstar Soccer 98.mp4</video>
+	</game>
+	<game>
+		<path>./International Track & Field 2000.n64</path>
+		<name>International Track & Field 2000</name>
+		<image>./boxart/International Track & Field 2000.png</image>
+		<marquee>./wheel/International Track & Field 2000.png</marquee>
+		<video>./snap/International Track & Field 2000.mp4</video>
+	</game>
+	<game>
+		<path>./Jeopardy.n64</path>
+		<name>Jeopardy</name>
+		<image>./boxart/Jeopardy.png</image>
+		<marquee>./wheel/Jeopardy.png</marquee>
+		<video>./snap/Jeopardy.mp4</video>
+	</game>
+	<game>
+		<path>./Jeremy McGrath Supercross 2000.n64</path>
+		<name>Jeremy McGrath Supercross 2000</name>
+		<image>./boxart/Jeremy McGrath Supercross 2000.png</image>
+		<marquee>./wheel/Jeremy McGrath Supercross 2000.png</marquee>
+		<video>./snap/Jeremy McGrath Supercross 2000.mp4</video>
+	</game>
+	<game>
+		<path>./Jet Force Gemini.n64</path>
+		<name>Jet Force Gemini</name>
+		<image>./boxart/Jet Force Gemini.png</image>
+		<marquee>./wheel/Jet Force Gemini.png</marquee>
+		<video>./snap/Jet Force Gemini.mp4</video>
+	</game>
+	<game>
+		<path>./John Romeros Daikatana.n64</path>
+		<name>John Romeros Daikatana</name>
+		<image>./boxart/John Romeros Daikatana.png</image>
+		<marquee>./wheel/John Romeros Daikatana.png</marquee>
+		<video>./snap/John Romeros Daikatana.mp4</video>
+	</game>
+	<game>
+		<path>./Ken Griffey Jr.s Slugfest.n64</path>
+		<name>Ken Griffey Jr.s Slugfest</name>
+		<image>./boxart/Ken Griffey Jr.s Slugfest.png</image>
+		<marquee>./wheel/Ken Griffey Jr.s Slugfest.png</marquee>
+		<video>./snap/Ken Griffey Jr.s Slugfest.mp4</video>
+	</game>
+	<game>
+		<path>./Killer Instinct Gold.n64</path>
+		<name>Killer Instinct Gold</name>
+		<image>./boxart/Killer Instinct Gold.png</image>
+		<marquee>./wheel/Killer Instinct Gold.png</marquee>
+		<video>./snap/Killer Instinct Gold.mp4</video>
+	</game>
+	<game>
+		<path>./Kirby 64 The Crystal Shards.n64</path>
+		<name>Kirby 64 The Crystal Shards</name>
+		<image>./boxart/Kirby 64 The Crystal Shards.png</image>
+		<marquee>./wheel/Kirby 64 The Crystal Shards.png</marquee>
+		<video>./snap/Kirby 64 The Crystal Shards.mp4</video>
+	</game>
+	<game>
+		<path>./Knife Edge Nose Gunner.n64</path>
+		<name>Knife Edge Nose Gunner</name>
+		<image>./boxart/Knife Edge Nose Gunner.png</image>
+		<marquee>./wheel/Knife Edge Nose Gunner.png</marquee>
+		<video>./snap/Knife Edge Nose Gunner.mp4</video>
+	</game>
+	<game>
+		<path>./Knockout Kings 2000.n64</path>
+		<name>Knockout Kings 2000</name>
+		<image>./boxart/Knockout Kings 2000.png</image>
+		<marquee>./wheel/Knockout Kings 2000.png</marquee>
+		<video>./snap/Knockout Kings 2000.mp4</video>
+	</game>
+	<game>
+		<path>./Kobe Bryants NBA Courtside.n64</path>
+		<name>Kobe Bryants NBA Courtside</name>
+		<image>./boxart/Kobe Bryants NBA Courtside.png</image>
+		<marquee>./wheel/Kobe Bryants NBA Courtside.png</marquee>
+		<video>./snap/Kobe Bryants NBA Courtside.mp4</video>
+	</game>
+	<game>
+		<path>./Legend of Zelda The Majoras Mask.n64</path>
+		<name>Legend of Zelda The Majoras Mask</name>
+		<image>./boxart/Legend of Zelda The Majoras Mask.png</image>
+		<marquee>./wheel/Legend of Zelda The Majoras Mask.png</marquee>
+		<video>./snap/Legend of Zelda The Majoras Mask.mp4</video>
+	</game>
+	<game>
+		<path>./Legend of Zelda The Ocarina of Time.n64</path>
+		<name>Legend of Zelda The Ocarina of Time</name>
+		<image>./boxart/Legend of Zelda The Ocarina of Time.png</image>
+		<marquee>./wheel/Legend of Zelda The Ocarina of Time.png</marquee>
+		<video>./snap/Legend of Zelda The Ocarina of Time.mp4</video>
+	</game>
+	<game>
+		<path>./LEGO RacersNoDaFi.n64</path>
+		<name>LEGO RacersNoDaFi</name>
+		<image>./boxart/LEGO RacersNoDaFi.png</image>
+		<marquee>./wheel/LEGO RacersNoDaFi.png</marquee>
+		<video>./snap/LEGO RacersNoDaFi.mp4</video>
+	</game>
+	<game>
+		<path>./Lode Runner 3 D.n64</path>
+		<name>Lode Runner 3 D</name>
+		<image>./boxart/Lode Runner 3 D.png</image>
+		<marquee>./wheel/Lode Runner 3 D.png</marquee>
+		<video>./snap/Lode Runner 3 D.mp4</video>
+	</game>
+	<game>
+		<path>./Mace The Dark Age.n64</path>
+		<name>Mace The Dark Age</name>
+		<image>./boxart/Mace The Dark Age.png</image>
+		<marquee>./wheel/Mace The Dark Age.png</marquee>
+		<video>./snap/Mace The Dark Age.mp4</video>
+	</game>
+	<game>
+		<path>./Madden Football 64.n64</path>
+		<name>Madden Football 64</name>
+		<image>./boxart/Madden Football 64.png</image>
+		<marquee>./wheel/Madden Football 64.png</marquee>
+		<video>./snap/Madden Football 64.mp4</video>
+	</game>
+	<game>
+		<path>./Madden NFL 2000.n64</path>
+		<name>Madden NFL 2000</name>
+		<image>./boxart/Madden NFL 2000.png</image>
+		<marquee>./wheel/Madden NFL 2000.png</marquee>
+		<video>./snap/Madden NFL 2000.mp4</video>
+	</game>
+	<game>
+		<path>./Madden NFL 2001.n64</path>
+		<name>Madden NFL 2001</name>
+		<image>./boxart/Madden NFL 2001.png</image>
+		<marquee>./wheel/Madden NFL 2001.png</marquee>
+		<video>./snap/Madden NFL 2001.mp4</video>
+	</game>
+	<game>
+		<path>./Madden NFL 2002.n64</path>
+		<name>Madden NFL 2002</name>
+		<image>./boxart/Madden NFL 2002.png</image>
+		<marquee>./wheel/Madden NFL 2002.png</marquee>
+		<video>./snap/Madden NFL 2002.mp4</video>
+	</game>
+	<game>
+		<path>./Madden NFL 99.n64</path>
+		<name>Madden NFL 99</name>
+		<image>./boxart/Madden NFL 99.png</image>
+		<marquee>./wheel/Madden NFL 99.png</marquee>
+		<video>./snap/Madden NFL 99.mp4</video>
+	</game>
+	<game>
+		<path>./Magical Tetris Challenge.n64</path>
+		<name>Magical Tetris Challenge</name>
+		<image>./boxart/Magical Tetris Challenge.png</image>
+		<marquee>./wheel/Magical Tetris Challenge.png</marquee>
+		<video>./snap/Magical Tetris Challenge.mp4</video>
+	</game>
+	<game>
+		<path>./Major League Baseball featuring Ken Griffey Jr..n64</path>
+		<name>Major League Baseball featuring Ken Griffey Jr.</name>
+		<image>./boxart/Major League Baseball featuring Ken Griffey Jr..png</image>
+		<marquee>./wheel/Major League Baseball featuring Ken Griffey Jr..png</marquee>
+		<video>./snap/Major League Baseball featuring Ken Griffey Jr..mp4</video>
+	</game>
+	<game>
+		<path>./Mario Golf.n64</path>
+		<name>Mario Golf</name>
+		<image>./boxart/Mario Golf.png</image>
+		<marquee>./wheel/Mario Golf.png</marquee>
+		<video>./snap/Mario Golf.mp4</video>
+	</game>
+	<game>
+		<path>./Mario Kart 64.n64</path>
+		<name>Mario Kart 64</name>
+		<image>./boxart/Mario Kart 64.png</image>
+		<marquee>./wheel/Mario Kart 64.png</marquee>
+		<video>./snap/Mario Kart 64.mp4</video>
+	</game>
+	<game>
+		<path>./Mario Party 2.n64</path>
+		<name>Mario Party 2</name>
+		<image>./boxart/Mario Party 2.png</image>
+		<marquee>./wheel/Mario Party 2.png</marquee>
+		<video>./snap/Mario Party 2.mp4</video>
+	</game>
+	<game>
+		<path>./Mario Party 3.n64</path>
+		<name>Mario Party 3</name>
+		<image>./boxart/Mario Party 3.png</image>
+		<marquee>./wheel/Mario Party 3.png</marquee>
+		<video>./snap/Mario Party 3.mp4</video>
+	</game>
+	<game>
+		<path>./Mario Party.n64</path>
+		<name>Mario Party</name>
+		<image>./boxart/Mario Party.png</image>
+		<marquee>./wheel/Mario Party.png</marquee>
+		<video>./snap/Mario Party.mp4</video>
+	</game>
+	<game>
+		<path>./Mario Tennis.n64</path>
+		<name>Mario Tennis</name>
+		<image>./boxart/Mario Tennis.png</image>
+		<marquee>./wheel/Mario Tennis.png</marquee>
+		<video>./snap/Mario Tennis.mp4</video>
+	</game>
+	<game>
+		<path>./Mega Man 64.n64</path>
+		<name>Mega Man 64</name>
+		<image>./boxart/Mega Man 64.png</image>
+		<marquee>./wheel/Mega Man 64.png</marquee>
+		<video>./snap/Mega Man 64.mp4</video>
+	</game>
+	<game>
+		<path>./Mia Hamm Soccer 64.n64</path>
+		<name>Mia Hamm Soccer 64</name>
+		<image>./boxart/Mia Hamm Soccer 64.png</image>
+		<marquee>./wheel/Mia Hamm Soccer 64.png</marquee>
+		<video>./snap/Mia Hamm Soccer 64.mp4</video>
+	</game>
+	<game>
+		<path>./Mickeys Speedway.n64</path>
+		<name>Mickeys Speedway</name>
+		<image>./boxart/Mickeys Speedway.png</image>
+		<marquee>./wheel/Mickeys Speedway.png</marquee>
+		<video>./snap/Mickeys Speedway.mp4</video>
+	</game>
+	<game>
+		<path>./Micro Machines 64 Turbo.n64</path>
+		<name>Micro Machines 64 Turbo</name>
+		<image>./boxart/Micro Machines 64 Turbo.png</image>
+		<marquee>./wheel/Micro Machines 64 Turbo.png</marquee>
+		<video>./snap/Micro Machines 64 Turbo.mp4</video>
+	</game>
+	<game>
+		<path>./Midways Greatest Arcade Hits Volume 1.n64</path>
+		<name>Midways Greatest Arcade Hits Volume 1</name>
+		<image>./boxart/Midways Greatest Arcade Hits Volume 1.png</image>
+		<marquee>./wheel/Midways Greatest Arcade Hits Volume 1.png</marquee>
+		<video>./snap/Midways Greatest Arcade Hits Volume 1.mp4</video>
+	</game>
+	<game>
+		<path>./Mike Piazzas StrikeZone.n64</path>
+		<name>Mike Piazzas StrikeZone</name>
+		<image>./boxart/Mike Piazzas StrikeZone.png</image>
+		<marquee>./wheel/Mike Piazzas StrikeZone.png</marquee>
+		<video>./snap/Mike Piazzas StrikeZone.mp4</video>
+	</game>
+	<game>
+		<path>./Milos Astro Lanes.n64</path>
+		<name>Milos Astro Lanes</name>
+		<image>./boxart/Milos Astro Lanes.png</image>
+		<marquee>./wheel/Milos Astro Lanes.png</marquee>
+		<video>./snap/Milos Astro Lanes.mp4</video>
+	</game>
+	<game>
+		<path>./Mischief Makers.n64</path>
+		<name>Mischief Makers</name>
+		<image>./boxart/Mischief Makers.png</image>
+		<marquee>./wheel/Mischief Makers.png</marquee>
+		<video>./snap/Mischief Makers.mp4</video>
+	</game>
+	<game>
+		<path>./Mission Impossible.n64</path>
+		<name>Mission Impossible</name>
+		<image>./boxart/Mission Impossible.png</image>
+		<marquee>./wheel/Mission Impossible.png</marquee>
+		<video>./snap/Mission Impossible.mp4</video>
+	</game>
+	<game>
+		<path>./Monaco Grand Prix.n64</path>
+		<name>Monaco Grand Prix</name>
+		<image>./boxart/Monaco Grand Prix.png</image>
+		<marquee>./wheel/Monaco Grand Prix.png</marquee>
+		<video>./snap/Monaco Grand Prix.mp4</video>
+	</game>
+	<game>
+		<path>./Monopoly.n64</path>
+		<name>Monopoly</name>
+		<image>./boxart/Monopoly.png</image>
+		<marquee>./wheel/Monopoly.png</marquee>
+		<video>./snap/Monopoly.mp4</video>
+	</game>
+	<game>
+		<path>./Monster Truck Madness 64.n64</path>
+		<name>Monster Truck Madness 64</name>
+		<image>./boxart/Monster Truck Madness 64.png</image>
+		<marquee>./wheel/Monster Truck Madness 64.png</marquee>
+		<video>./snap/Monster Truck Madness 64.mp4</video>
+	</game>
+	<game>
+		<path>./Mortal Kombat 4.n64</path>
+		<name>Mortal Kombat 4</name>
+		<image>./boxart/Mortal Kombat 4.png</image>
+		<marquee>./wheel/Mortal Kombat 4.png</marquee>
+		<video>./snap/Mortal Kombat 4.mp4</video>
+	</game>
+	<game>
+		<path>./Mortal Kombat Mythologies Sub Zero.n64</path>
+		<name>Mortal Kombat Mythologies Sub Zero</name>
+		<image>./boxart/Mortal Kombat Mythologies Sub Zero.png</image>
+		<marquee>./wheel/Mortal Kombat Mythologies Sub Zero.png</marquee>
+		<video>./snap/Mortal Kombat Mythologies Sub Zero.mp4</video>
+	</game>
+	<game>
+		<path>./Mortal Kombat Trilogy.n64</path>
+		<name>Mortal Kombat Trilogy</name>
+		<image>./boxart/Mortal Kombat Trilogy.png</image>
+		<marquee>./wheel/Mortal Kombat Trilogy.png</marquee>
+		<video>./snap/Mortal Kombat Trilogy.mp4</video>
+	</game>
+	<game>
+		<path>./MRC Multi Racing Championship.n64</path>
+		<name>MRC Multi Racing Championship</name>
+		<image>./boxart/MRC Multi Racing Championship.png</image>
+		<marquee>./wheel/MRC Multi Racing Championship.png</marquee>
+		<video>./snap/MRC Multi Racing Championship.mp4</video>
+	</game>
+	<game>
+		<path>./Ms. Pac Man Maze Madness.n64</path>
+		<name>Ms. Pac Man Maze Madness</name>
+		<image>./boxart/Ms. Pac Man Maze Madness.png</image>
+		<marquee>./wheel/Ms. Pac Man Maze Madness.png</marquee>
+		<video>./snap/Ms. Pac Man Maze Madness.mp4</video>
+	</game>
+	<game>
+		<path>./Mystical Ninja Starring Goemon.n64</path>
+		<name>Mystical Ninja Starring Goemon</name>
+		<image>./boxart/Mystical Ninja Starring Goemon.png</image>
+		<marquee>./wheel/Mystical Ninja Starring Goemon.png</marquee>
+		<video>./snap/Mystical Ninja Starring Goemon.mp4</video>
+	</game>
+	<game>
+		<path>./Nagano Winter Olympics 98.n64</path>
+		<name>Nagano Winter Olympics 98</name>
+		<image>./boxart/Nagano Winter Olympics 98.png</image>
+		<marquee>./wheel/Nagano Winter Olympics 98.png</marquee>
+		<video>./snap/Nagano Winter Olympics 98.mp4</video>
+	</game>
+	<game>
+		<path>./Namco Museum 64.n64</path>
+		<name>Namco Museum 64</name>
+		<image>./boxart/Namco Museum 64.png</image>
+		<marquee>./wheel/Namco Museum 64.png</marquee>
+		<video>./snap/Namco Museum 64.mp4</video>
+	</game>
+	<game>
+		<path>./NASCAR 2000.n64</path>
+		<name>NASCAR 2000</name>
+		<image>./boxart/NASCAR 2000.png</image>
+		<marquee>./wheel/NASCAR 2000.png</marquee>
+		<video>./snap/NASCAR 2000.mp4</video>
+	</game>
+	<game>
+		<path>./NASCAR 99.n64</path>
+		<name>NASCAR 99</name>
+		<image>./boxart/NASCAR 99.png</image>
+		<marquee>./wheel/NASCAR 99.png</marquee>
+		<video>./snap/NASCAR 99.mp4</video>
+	</game>
+	<game>
+		<path>./NBA Courtside 2 featuring Kobe Bryant.n64</path>
+		<name>NBA Courtside 2 featuring Kobe Bryant</name>
+		<image>./boxart/NBA Courtside 2 featuring Kobe Bryant.png</image>
+		<marquee>./wheel/NBA Courtside 2 featuring Kobe Bryant.png</marquee>
+		<video>./snap/NBA Courtside 2 featuring Kobe Bryant.mp4</video>
+	</game>
+	<game>
+		<path>./NBA Hangtime.n64</path>
+		<name>NBA Hangtime</name>
+		<image>./boxart/NBA Hangtime.png</image>
+		<marquee>./wheel/NBA Hangtime.png</marquee>
+		<video>./snap/NBA Hangtime.mp4</video>
+	</game>
+	<game>
+		<path>./NBA in the Zone 2000.n64</path>
+		<name>NBA in the Zone 2000</name>
+		<image>./boxart/NBA in the Zone 2000.png</image>
+		<marquee>./wheel/NBA in the Zone 2000.png</marquee>
+		<video>./snap/NBA in the Zone 2000.mp4</video>
+	</game>
+	<game>
+		<path>./NBA in the Zone 98.n64</path>
+		<name>NBA in the Zone 98</name>
+		<image>./boxart/NBA in the Zone 98.png</image>
+		<marquee>./wheel/NBA in the Zone 98.png</marquee>
+		<video>./snap/NBA in the Zone 98.mp4</video>
+	</game>
+	<game>
+		<path>./NBA in the Zone 99.n64</path>
+		<name>NBA in the Zone 99</name>
+		<image>./boxart/NBA in the Zone 99.png</image>
+		<marquee>./wheel/NBA in the Zone 99.png</marquee>
+		<video>./snap/NBA in the Zone 99.mp4</video>
+	</game>
+	<game>
+		<path>./NBA Jam 2000.n64</path>
+		<name>NBA Jam 2000</name>
+		<image>./boxart/NBA Jam 2000.png</image>
+		<marquee>./wheel/NBA Jam 2000.png</marquee>
+		<video>./snap/NBA Jam 2000.mp4</video>
+	</game>
+	<game>
+		<path>./NBA Jam 99.n64</path>
+		<name>NBA Jam 99</name>
+		<image>./boxart/NBA Jam 99.png</image>
+		<marquee>./wheel/NBA Jam 99.png</marquee>
+		<video>./snap/NBA Jam 99.mp4</video>
+	</game>
+	<game>
+		<path>./NBA Live 2000.n64</path>
+		<name>NBA Live 2000</name>
+		<image>./boxart/NBA Live 2000.png</image>
+		<marquee>./wheel/NBA Live 2000.png</marquee>
+		<video>./snap/NBA Live 2000.mp4</video>
+	</game>
+	<game>
+		<path>./NBA Live 99It.n64</path>
+		<name>NBA Live 99It</name>
+		<image>./boxart/NBA Live 99It.png</image>
+		<marquee>./wheel/NBA Live 99It.png</marquee>
+		<video>./snap/NBA Live 99It.mp4</video>
+	</game>
+	<game>
+		<path>./NBA Showtime NBA on NBC.n64</path>
+		<name>NBA Showtime NBA on NBC</name>
+		<image>./boxart/NBA Showtime NBA on NBC.png</image>
+		<marquee>./wheel/NBA Showtime NBA on NBC.png</marquee>
+		<video>./snap/NBA Showtime NBA on NBC.mp4</video>
+	</game>
+	<game>
+		<path>./New Tetris The.n64</path>
+		<name>New Tetris The</name>
+		<image>./boxart/New Tetris The.png</image>
+		<marquee>./wheel/New Tetris The.png</marquee>
+		<video>./snap/New Tetris The.mp4</video>
+	</game>
+	<game>
+		<path>./NFL Blitz 2000.n64</path>
+		<name>NFL Blitz 2000</name>
+		<image>./boxart/NFL Blitz 2000.png</image>
+		<marquee>./wheel/NFL Blitz 2000.png</marquee>
+		<video>./snap/NFL Blitz 2000.mp4</video>
+	</game>
+	<game>
+		<path>./NFL Blitz 2001.n64</path>
+		<name>NFL Blitz 2001</name>
+		<image>./boxart/NFL Blitz 2001.png</image>
+		<marquee>./wheel/NFL Blitz 2001.png</marquee>
+		<video>./snap/NFL Blitz 2001.mp4</video>
+	</game>
+	<game>
+		<path>./NFL Blitz Special Edition.n64</path>
+		<name>NFL Blitz Special Edition</name>
+		<image>./boxart/NFL Blitz Special Edition.png</image>
+		<marquee>./wheel/NFL Blitz Special Edition.png</marquee>
+		<video>./snap/NFL Blitz Special Edition.mp4</video>
+	</game>
+	<game>
+		<path>./NFL Blitz.n64</path>
+		<name>NFL Blitz</name>
+		<image>./boxart/NFL Blitz.png</image>
+		<marquee>./wheel/NFL Blitz.png</marquee>
+		<video>./snap/NFL Blitz.mp4</video>
+	</game>
+	<game>
+		<path>./NFL Quarterback Club 2000.n64</path>
+		<name>NFL Quarterback Club 2000</name>
+		<image>./boxart/NFL Quarterback Club 2000.png</image>
+		<marquee>./wheel/NFL Quarterback Club 2000.png</marquee>
+		<video>./snap/NFL Quarterback Club 2000.mp4</video>
+	</game>
+	<game>
+		<path>./NFL Quarterback Club 2001.n64</path>
+		<name>NFL Quarterback Club 2001</name>
+		<image>./boxart/NFL Quarterback Club 2001.png</image>
+		<marquee>./wheel/NFL Quarterback Club 2001.png</marquee>
+		<video>./snap/NFL Quarterback Club 2001.mp4</video>
+	</game>
+	<game>
+		<path>./NFL Quarterback Club 98.n64</path>
+		<name>NFL Quarterback Club 98</name>
+		<image>./boxart/NFL Quarterback Club 98.png</image>
+		<marquee>./wheel/NFL Quarterback Club 98.png</marquee>
+		<video>./snap/NFL Quarterback Club 98.mp4</video>
+	</game>
+	<game>
+		<path>./NFL Quarterback Club 99.n64</path>
+		<name>NFL Quarterback Club 99</name>
+		<image>./boxart/NFL Quarterback Club 99.png</image>
+		<marquee>./wheel/NFL Quarterback Club 99.png</marquee>
+		<video>./snap/NFL Quarterback Club 99.mp4</video>
+	</game>
+	<game>
+		<path>./NHL 99.n64</path>
+		<name>NHL 99</name>
+		<image>./boxart/NHL 99.png</image>
+		<marquee>./wheel/NHL 99.png</marquee>
+		<video>./snap/NHL 99.mp4</video>
+	</game>
+	<game>
+		<path>./NHL Blades of Steel 99.n64</path>
+		<name>NHL Blades of Steel 99</name>
+		<image>./boxart/NHL Blades of Steel 99.png</image>
+		<marquee>./wheel/NHL Blades of Steel 99.png</marquee>
+		<video>./snap/NHL Blades of Steel 99.mp4</video>
+	</game>
+	<game>
+		<path>./NHL Breakaway 98.n64</path>
+		<name>NHL Breakaway 98</name>
+		<image>./boxart/NHL Breakaway 98.png</image>
+		<marquee>./wheel/NHL Breakaway 98.png</marquee>
+		<video>./snap/NHL Breakaway 98.mp4</video>
+	</game>
+	<game>
+		<path>./NHL Breakaway 99.n64</path>
+		<name>NHL Breakaway 99</name>
+		<image>./boxart/NHL Breakaway 99.png</image>
+		<marquee>./wheel/NHL Breakaway 99.png</marquee>
+		<video>./snap/NHL Breakaway 99.mp4</video>
+	</game>
+	<game>
+		<path>./Nightmare Creatures.n64</path>
+		<name>Nightmare Creatures</name>
+		<image>./boxart/Nightmare Creatures.png</image>
+		<marquee>./wheel/Nightmare Creatures.png</marquee>
+		<video>./snap/Nightmare Creatures.mp4</video>
+	</game>
+	<game>
+		<path>./Nuclear Strike 64.n64</path>
+		<name>Nuclear Strike 64</name>
+		<image>./boxart/Nuclear Strike 64.png</image>
+		<marquee>./wheel/Nuclear Strike 64.png</marquee>
+		<video>./snap/Nuclear Strike 64.mp4</video>
+	</game>
+	<game>
+		<path>./Off Road Challenge.n64</path>
+		<name>Off Road Challenge</name>
+		<image>./boxart/Off Road Challenge.png</image>
+		<marquee>./wheel/Off Road Challenge.png</marquee>
+		<video>./snap/Off Road Challenge.mp4</video>
+	</game>
+	<game>
+		<path>./Ogre Battle 64 Person of Lordly Caliber.n64</path>
+		<name>Ogre Battle 64 Person of Lordly Caliber</name>
+		<image>./boxart/Ogre Battle 64 Person of Lordly Caliber.png</image>
+		<marquee>./wheel/Ogre Battle 64 Person of Lordly Caliber.png</marquee>
+		<video>./snap/Ogre Battle 64 Person of Lordly Caliber.mp4</video>
+	</game>
+	<game>
+		<path>./Olympic Hockey 98.n64</path>
+		<name>Olympic Hockey 98</name>
+		<image>./boxart/Olympic Hockey 98.png</image>
+		<marquee>./wheel/Olympic Hockey 98.png</marquee>
+		<video>./snap/Olympic Hockey 98.mp4</video>
+	</game>
+	<game>
+		<path>./Paper Mario.n64</path>
+		<name>Paper Mario</name>
+		<image>./boxart/Paper Mario.png</image>
+		<marquee>./wheel/Paper Mario.png</marquee>
+		<video>./snap/Paper Mario.mp4</video>
+	</game>
+	<game>
+		<path>./Paperboy.n64</path>
+		<name>Paperboy</name>
+		<image>./boxart/Paperboy.png</image>
+		<marquee>./wheel/Paperboy.png</marquee>
+		<video>./snap/Paperboy.mp4</video>
+	</game>
+	<game>
+		<path>./Penny Racers.n64</path>
+		<name>Penny Racers</name>
+		<image>./boxart/Penny Racers.png</image>
+		<marquee>./wheel/Penny Racers.png</marquee>
+		<video>./snap/Penny Racers.mp4</video>
+	</game>
+	<game>
+		<path>./Perfect Dark.n64</path>
+		<name>Perfect Dark</name>
+		<image>./boxart/Perfect Dark.png</image>
+		<marquee>./wheel/Perfect Dark.png</marquee>
+		<video>./snap/Perfect Dark.mp4</video>
+	</game>
+	<game>
+		<path>./PGA European Tour.n64</path>
+		<name>PGA European Tour</name>
+		<image>./boxart/PGA European Tour.png</image>
+		<marquee>./wheel/PGA European Tour.png</marquee>
+		<video>./snap/PGA European Tour.mp4</video>
+	</game>
+	<game>
+		<path>./Pilotwings 64.n64</path>
+		<name>Pilotwings 64</name>
+		<image>./boxart/Pilotwings 64.png</image>
+		<marquee>./wheel/Pilotwings 64.png</marquee>
+		<video>./snap/Pilotwings 64.mp4</video>
+	</game>
+	<game>
+		<path>./Pokemon Puzzle League.n64</path>
+		<name>Pokemon Puzzle League</name>
+		<image>./boxart/Pokemon Puzzle League.png</image>
+		<marquee>./wheel/Pokemon Puzzle League.png</marquee>
+		<video>./snap/Pokemon Puzzle League.mp4</video>
+	</game>
+	<game>
+		<path>./Pokemon Snap.n64</path>
+		<name>Pokemon Snap</name>
+		<image>./boxart/Pokemon Snap.png</image>
+		<marquee>./wheel/Pokemon Snap.png</marquee>
+		<video>./snap/Pokemon Snap.mp4</video>
+	</game>
+	<game>
+		<path>./Pokemon Stadium 2.n64</path>
+		<name>Pokemon Stadium 2</name>
+		<image>./boxart/Pokemon Stadium 2.png</image>
+		<marquee>./wheel/Pokemon Stadium 2.png</marquee>
+		<video>./snap/Pokemon Stadium 2.mp4</video>
+	</game>
+	<game>
+		<path>./Pokemon Stadium.n64</path>
+		<name>Pokemon Stadium</name>
+		<image>./boxart/Pokemon Stadium.png</image>
+		<marquee>./wheel/Pokemon Stadium.png</marquee>
+		<video>./snap/Pokemon Stadium.mp4</video>
+	</game>
+	<game>
+		<path>./Polaris SnoCross.n64</path>
+		<name>Polaris SnoCross</name>
+		<image>./boxart/Polaris SnoCross.png</image>
+		<marquee>./wheel/Polaris SnoCross.png</marquee>
+		<video>./snap/Polaris SnoCross.mp4</video>
+	</game>
+	<game>
+		<path>./Power Rangers Lightspeed Rescue.n64</path>
+		<name>Power Rangers Lightspeed Rescue</name>
+		<image>./boxart/Power Rangers Lightspeed Rescue.png</image>
+		<marquee>./wheel/Power Rangers Lightspeed Rescue.png</marquee>
+		<video>./snap/Power Rangers Lightspeed Rescue.mp4</video>
+	</game>
+	<game>
+		<path>./Powerpuff Girls The Chemical X Traction.n64</path>
+		<name>Powerpuff Girls The Chemical X Traction</name>
+		<image>./boxart/Powerpuff Girls The Chemical X Traction.png</image>
+		<marquee>./wheel/Powerpuff Girls The Chemical X Traction.png</marquee>
+		<video>./snap/Powerpuff Girls The Chemical X Traction.mp4</video>
+	</game>
+	<game>
+		<path>./Premier Manager 64.n64</path>
+		<name>Premier Manager 64</name>
+		<image>./boxart/Premier Manager 64.png</image>
+		<marquee>./wheel/Premier Manager 64.png</marquee>
+		<video>./snap/Premier Manager 64.mp4</video>
+	</game>
+	<game>
+		<path>./Quake 64.n64</path>
+		<name>Quake 64</name>
+		<image>./boxart/Quake 64.png</image>
+		<marquee>./wheel/Quake 64.png</marquee>
+		<video>./snap/Quake 64.mp4</video>
+	</game>
+	<game>
+		<path>./Quake II.n64</path>
+		<name>Quake II</name>
+		<image>./boxart/Quake II.png</image>
+		<marquee>./wheel/Quake II.png</marquee>
+		<video>./snap/Quake II.mp4</video>
+	</game>
+	<game>
+		<path>./Quest 64.n64</path>
+		<name>Quest 64</name>
+		<image>./boxart/Quest 64.png</image>
+		<marquee>./wheel/Quest 64.png</marquee>
+		<video>./snap/Quest 64.mp4</video>
+	</game>
+	<game>
+		<path>./Rakuga Kids.n64</path>
+		<name>Rakuga Kids</name>
+		<image>./boxart/Rakuga Kids.png</image>
+		<marquee>./wheel/Rakuga Kids.png</marquee>
+		<video>./snap/Rakuga Kids.mp4</video>
+	</game>
+	<game>
+		<path>./Rally Challenge 2000.n64</path>
+		<name>Rally Challenge 2000</name>
+		<image>./boxart/Rally Challenge 2000.png</image>
+		<marquee>./wheel/Rally Challenge 2000.png</marquee>
+		<video>./snap/Rally Challenge 2000.mp4</video>
+	</game>
+	<game>
+		<path>./Rampage 2 Universal Tour.n64</path>
+		<name>Rampage 2 Universal Tour</name>
+		<image>./boxart/Rampage 2 Universal Tour.png</image>
+		<marquee>./wheel/Rampage 2 Universal Tour.png</marquee>
+		<video>./snap/Rampage 2 Universal Tour.mp4</video>
+	</game>
+	<game>
+		<path>./Rampage World Tour.n64</path>
+		<name>Rampage World Tour</name>
+		<image>./boxart/Rampage World Tour.png</image>
+		<marquee>./wheel/Rampage World Tour.png</marquee>
+		<video>./snap/Rampage World Tour.mp4</video>
+	</game>
+	<game>
+		<path>./Rat AttackNl.n64</path>
+		<name>Rat AttackNl</name>
+		<image>./boxart/Rat AttackNl.png</image>
+		<marquee>./wheel/Rat AttackNl.png</marquee>
+		<video>./snap/Rat AttackNl.mp4</video>
+	</game>
+	<game>
+		<path>./Rayman 2 The Great EscapeIt.n64</path>
+		<name>Rayman 2 The Great EscapeIt</name>
+		<image>./boxart/Rayman 2 The Great EscapeIt.png</image>
+		<marquee>./wheel/Rayman 2 The Great EscapeIt.png</marquee>
+		<video>./snap/Rayman 2 The Great EscapeIt.mp4</video>
+	</game>
+	<game>
+		<path>./Razor Freestyle Scooter.n64</path>
+		<name>Razor Freestyle Scooter</name>
+		<image>./boxart/Razor Freestyle Scooter.png</image>
+		<marquee>./wheel/Razor Freestyle Scooter.png</marquee>
+		<video>./snap/Razor Freestyle Scooter.mp4</video>
+	</game>
+	<game>
+		<path>./Re Volt.n64</path>
+		<name>Re Volt</name>
+		<image>./boxart/Re Volt.png</image>
+		<marquee>./wheel/Re Volt.png</marquee>
+		<video>./snap/Re Volt.mp4</video>
+	</game>
+	<game>
+		<path>./Ready 2 Rumble Boxing Round 2.n64</path>
+		<name>Ready 2 Rumble Boxing Round 2</name>
+		<image>./boxart/Ready 2 Rumble Boxing Round 2.png</image>
+		<marquee>./wheel/Ready 2 Rumble Boxing Round 2.png</marquee>
+		<video>./snap/Ready 2 Rumble Boxing Round 2.mp4</video>
+	</game>
+	<game>
+		<path>./Ready 2 Rumble Boxing.n64</path>
+		<name>Ready 2 Rumble Boxing</name>
+		<image>./boxart/Ready 2 Rumble Boxing.png</image>
+		<marquee>./wheel/Ready 2 Rumble Boxing.png</marquee>
+		<video>./snap/Ready 2 Rumble Boxing.mp4</video>
+	</game>
+	<game>
+		<path>./Resident Evil 2.n64</path>
+		<name>Resident Evil 2</name>
+		<image>./boxart/Resident Evil 2.png</image>
+		<marquee>./wheel/Resident Evil 2.png</marquee>
+		<video>./snap/Resident Evil 2.mp4</video>
+	</game>
+	<game>
+		<path>./Road Rash 64.n64</path>
+		<name>Road Rash 64</name>
+		<image>./boxart/Road Rash 64.png</image>
+		<marquee>./wheel/Road Rash 64.png</marquee>
+		<video>./snap/Road Rash 64.mp4</video>
+	</game>
+	<game>
+		<path>./Roadsters Trophy.n64</path>
+		<name>Roadsters Trophy</name>
+		<image>./boxart/Roadsters Trophy.png</image>
+		<marquee>./wheel/Roadsters Trophy.png</marquee>
+		<video>./snap/Roadsters Trophy.mp4</video>
+	</game>
+	<game>
+		<path>./Robotron 64.n64</path>
+		<name>Robotron 64</name>
+		<image>./boxart/Robotron 64.png</image>
+		<marquee>./wheel/Robotron 64.png</marquee>
+		<video>./snap/Robotron 64.mp4</video>
+	</game>
+	<game>
+		<path>./Rocket Robot on Wheels.n64</path>
+		<name>Rocket Robot on Wheels</name>
+		<image>./boxart/Rocket Robot on Wheels.png</image>
+		<marquee>./wheel/Rocket Robot on Wheels.png</marquee>
+		<video>./snap/Rocket Robot on Wheels.mp4</video>
+	</game>
+	<game>
+		<path>./RR64 Ridge Racer 64.n64</path>
+		<name>RR64 Ridge Racer 64</name>
+		<image>./boxart/RR64 Ridge Racer 64.png</image>
+		<marquee>./wheel/RR64 Ridge Racer 64.png</marquee>
+		<video>./snap/RR64 Ridge Racer 64.mp4</video>
+	</game>
+	<game>
+		<path>./Rugrats in Paris The Movie.n64</path>
+		<name>Rugrats in Paris The Movie</name>
+		<image>./boxart/Rugrats in Paris The Movie.png</image>
+		<marquee>./wheel/Rugrats in Paris The Movie.png</marquee>
+		<video>./snap/Rugrats in Paris The Movie.mp4</video>
+	</game>
+	<game>
+		<path>./Rugrats Scavenger Hunt.n64</path>
+		<name>Rugrats Scavenger Hunt</name>
+		<image>./boxart/Rugrats Scavenger Hunt.png</image>
+		<marquee>./wheel/Rugrats Scavenger Hunt.png</marquee>
+		<video>./snap/Rugrats Scavenger Hunt.mp4</video>
+	</game>
+	<game>
+		<path>./Rush 2 Extreme Racing.n64</path>
+		<name>Rush 2 Extreme Racing</name>
+		<image>./boxart/Rush 2 Extreme Racing.png</image>
+		<marquee>./wheel/Rush 2 Extreme Racing.png</marquee>
+		<video>./snap/Rush 2 Extreme Racing.mp4</video>
+	</game>
+	<game>
+		<path>./S.C.A.R.S..n64</path>
+		<name>S.C.A.R.S.</name>
+		<image>./boxart/S.C.A.R.S..png</image>
+		<marquee>./wheel/S.C.A.R.S..png</marquee>
+		<video>./snap/S.C.A.R.S..mp4</video>
+	</game>
+	<game>
+		<path>./San Francisco Rush 2049.n64</path>
+		<name>San Francisco Rush 2049</name>
+		<image>./boxart/San Francisco Rush 2049.png</image>
+		<marquee>./wheel/San Francisco Rush 2049.png</marquee>
+		<video>./snap/San Francisco Rush 2049.mp4</video>
+	</game>
+	<game>
+		<path>./San Francisco Rush Extreme RacingDe.n64</path>
+		<name>San Francisco Rush Extreme RacingDe</name>
+		<image>./boxart/San Francisco Rush Extreme RacingDe.png</image>
+		<marquee>./wheel/San Francisco Rush Extreme RacingDe.png</marquee>
+		<video>./snap/San Francisco Rush Extreme RacingDe.mp4</video>
+	</game>
+	<game>
+		<path>./Scooby Doo Classic Creep Capers.n64</path>
+		<name>Scooby Doo Classic Creep Capers</name>
+		<image>./boxart/Scooby Doo Classic Creep Capers.png</image>
+		<marquee>./wheel/Scooby Doo Classic Creep Capers.png</marquee>
+		<video>./snap/Scooby Doo Classic Creep Capers.mp4</video>
+	</game>
+	<game>
+		<path>./Shadow Man.n64</path>
+		<name>Shadow Man</name>
+		<image>./boxart/Shadow Man.png</image>
+		<marquee>./wheel/Shadow Man.png</marquee>
+		<video>./snap/Shadow Man.mp4</video>
+	</game>
+	<game>
+		<path>./Shadowgate 64 Trials of the Four Towers.n64</path>
+		<name>Shadowgate 64 Trials of the Four Towers</name>
+		<image>./boxart/Shadowgate 64 Trials of the Four Towers.png</image>
+		<marquee>./wheel/Shadowgate 64 Trials of the Four Towers.png</marquee>
+		<video>./snap/Shadowgate 64 Trials of the Four Towers.mp4</video>
+	</game>
+	<game>
+		<path>./Snowboard Kids 2.n64</path>
+		<name>Snowboard Kids 2</name>
+		<image>./boxart/Snowboard Kids 2.png</image>
+		<marquee>./wheel/Snowboard Kids 2.png</marquee>
+		<video>./snap/Snowboard Kids 2.mp4</video>
+	</game>
+	<game>
+		<path>./Snowboard Kids.n64</path>
+		<name>Snowboard Kids</name>
+		<image>./boxart/Snowboard Kids.png</image>
+		<marquee>./wheel/Snowboard Kids.png</marquee>
+		<video>./snap/Snowboard Kids.mp4</video>
+	</game>
+	<game>
+		<path>./South Park Chefs Luv Shack.n64</path>
+		<name>South Park Chefs Luv Shack</name>
+		<image>./boxart/South Park Chefs Luv Shack.png</image>
+		<marquee>./wheel/South Park Chefs Luv Shack.png</marquee>
+		<video>./snap/South Park Chefs Luv Shack.mp4</video>
+	</game>
+	<game>
+		<path>./South Park Rally.n64</path>
+		<name>South Park Rally</name>
+		<image>./boxart/South Park Rally.png</image>
+		<marquee>./wheel/South Park Rally.png</marquee>
+		<video>./snap/South Park Rally.mp4</video>
+	</game>
+	<game>
+		<path>./South Park.n64</path>
+		<name>South Park</name>
+		<image>./boxart/South Park.png</image>
+		<marquee>./wheel/South Park.png</marquee>
+		<video>./snap/South Park.mp4</video>
+	</game>
+	<game>
+		<path>./Space Invaders.n64</path>
+		<name>Space Invaders</name>
+		<image>./boxart/Space Invaders.png</image>
+		<marquee>./wheel/Space Invaders.png</marquee>
+		<video>./snap/Space Invaders.mp4</video>
+	</game>
+	<game>
+		<path>./SpaceStation Silicon Valley.n64</path>
+		<name>SpaceStation Silicon Valley</name>
+		<image>./boxart/SpaceStation Silicon Valley.png</image>
+		<marquee>./wheel/SpaceStation Silicon Valley.png</marquee>
+		<video>./snap/SpaceStation Silicon Valley.mp4</video>
+	</game>
+	<game>
+		<path>./Spider Man.n64</path>
+		<name>Spider Man</name>
+		<image>./boxart/Spider Man.png</image>
+		<marquee>./wheel/Spider Man.png</marquee>
+		<video>./snap/Spider Man.mp4</video>
+	</game>
+	<game>
+		<path>./Star Fox 64.n64</path>
+		<name>Star Fox 64</name>
+		<image>./boxart/Star Fox 64.png</image>
+		<marquee>./wheel/Star Fox 64.png</marquee>
+		<video>./snap/Star Fox 64.mp4</video>
+	</game>
+	<game>
+		<path>./Star Soldier Vanishing Earth.n64</path>
+		<name>Star Soldier Vanishing Earth</name>
+		<image>./boxart/Star Soldier Vanishing Earth.png</image>
+		<marquee>./wheel/Star Soldier Vanishing Earth.png</marquee>
+		<video>./snap/Star Soldier Vanishing Earth.mp4</video>
+	</game>
+	<game>
+		<path>./Star Wars Episode I Battle for Naboo.n64</path>
+		<name>Star Wars Episode I Battle for Naboo</name>
+		<image>./boxart/Star Wars Episode I Battle for Naboo.png</image>
+		<marquee>./wheel/Star Wars Episode I Battle for Naboo.png</marquee>
+		<video>./snap/Star Wars Episode I Battle for Naboo.mp4</video>
+	</game>
+	<game>
+		<path>./Star Wars Episode I Racer.n64</path>
+		<name>Star Wars Episode I Racer</name>
+		<image>./boxart/Star Wars Episode I Racer.png</image>
+		<marquee>./wheel/Star Wars Episode I Racer.png</marquee>
+		<video>./snap/Star Wars Episode I Racer.mp4</video>
+	</game>
+	<game>
+		<path>./Star Wars Rogue Squadron.n64</path>
+		<name>Star Wars Rogue Squadron</name>
+		<image>./boxart/Star Wars Rogue Squadron.png</image>
+		<marquee>./wheel/Star Wars Rogue Squadron.png</marquee>
+		<video>./snap/Star Wars Rogue Squadron.mp4</video>
+	</game>
+	<game>
+		<path>./Star Wars Shadows of the Empire.n64</path>
+		<name>Star Wars Shadows of the Empire</name>
+		<image>./boxart/Star Wars Shadows of the Empire.png</image>
+		<marquee>./wheel/Star Wars Shadows of the Empire.png</marquee>
+		<video>./snap/Star Wars Shadows of the Empire.mp4</video>
+	</game>
+	<game>
+		<path>./StarCraft 64.n64</path>
+		<name>StarCraft 64</name>
+		<image>./boxart/StarCraft 64.png</image>
+		<marquee>./wheel/StarCraft 64.png</marquee>
+		<video>./snap/StarCraft 64.mp4</video>
+	</game>
+	<game>
+		<path>./Starshot Space Circus Fever.n64</path>
+		<name>Starshot Space Circus Fever</name>
+		<image>./boxart/Starshot Space Circus Fever.png</image>
+		<marquee>./wheel/Starshot Space Circus Fever.png</marquee>
+		<video>./snap/Starshot Space Circus Fever.mp4</video>
+	</game>
+	<game>
+		<path>./Stunt Racer 64.n64</path>
+		<name>Stunt Racer 64</name>
+		<image>./boxart/Stunt Racer 64.png</image>
+		<marquee>./wheel/Stunt Racer 64.png</marquee>
+		<video>./snap/Stunt Racer 64.mp4</video>
+	</game>
+	<game>
+		<path>./Super Bowling.n64</path>
+		<name>Super Bowling</name>
+		<image>./boxart/Super Bowling.png</image>
+		<marquee>./wheel/Super Bowling.png</marquee>
+		<video>./snap/Super Bowling.mp4</video>
+	</game>
+	<game>
+		<path>./Super Mario 64.n64</path>
+		<name>Super Mario 64</name>
+		<image>./boxart/Super Mario 64.png</image>
+		<marquee>./wheel/Super Mario 64.png</marquee>
+		<video>./snap/Super Mario 64.mp4</video>
+	</game>
+	<game>
+		<path>./Super Smash Bros..n64</path>
+		<name>Super Smash Bros.</name>
+		<image>./boxart/Super Smash Bros..png</image>
+		<marquee>./wheel/Super Smash Bros..png</marquee>
+		<video>./snap/Super Smash Bros..mp4</video>
+	</game>
+	<game>
+		<path>./Supercross 2000.n64</path>
+		<name>Supercross 2000</name>
+		<image>./boxart/Supercross 2000.png</image>
+		<marquee>./wheel/Supercross 2000.png</marquee>
+		<video>./snap/Supercross 2000.mp4</video>
+	</game>
+	<game>
+		<path>./Superman.n64</path>
+		<name>Superman</name>
+		<image>./boxart/Superman.png</image>
+		<marquee>./wheel/Superman.png</marquee>
+		<video>./snap/Superman.mp4</video>
+	</game>
+	<game>
+		<path>./Tarzan.n64</path>
+		<name>Tarzan</name>
+		<image>./boxart/Tarzan.png</image>
+		<marquee>./wheel/Tarzan.png</marquee>
+		<video>./snap/Tarzan.mp4</video>
+	</game>
+	<game>
+		<path>./Taz ExpressNl.n64</path>
+		<name>Taz ExpressNl</name>
+		<image>./boxart/Taz ExpressNl.png</image>
+		<marquee>./wheel/Taz ExpressNl.png</marquee>
+		<video>./snap/Taz ExpressNl.mp4</video>
+	</game>
+	<game>
+		<path>./Tetrisphere.n64</path>
+		<name>Tetrisphere</name>
+		<image>./boxart/Tetrisphere.png</image>
+		<marquee>./wheel/Tetrisphere.png</marquee>
+		<video>./snap/Tetrisphere.mp4</video>
+	</game>
+	<game>
+		<path>./Tiggers Honey Hunt.n64</path>
+		<name>Tiggers Honey Hunt</name>
+		<image>./boxart/Tiggers Honey Hunt.png</image>
+		<marquee>./wheel/Tiggers Honey Hunt.png</marquee>
+		<video>./snap/Tiggers Honey Hunt.mp4</video>
+	</game>
+	<game>
+		<path>./Tom and Jerry in Fists of Furry.n64</path>
+		<name>Tom and Jerry in Fists of Furry</name>
+		<image>./boxart/Tom and Jerry in Fists of Furry.png</image>
+		<marquee>./wheel/Tom and Jerry in Fists of Furry.png</marquee>
+		<video>./snap/Tom and Jerry in Fists of Furry.mp4</video>
+	</game>
+	<game>
+		<path>./Tom Clancys Rainbow Six.n64</path>
+		<name>Tom Clancys Rainbow Six</name>
+		<image>./boxart/Tom Clancys Rainbow Six.png</image>
+		<marquee>./wheel/Tom Clancys Rainbow Six.png</marquee>
+		<video>./snap/Tom Clancys Rainbow Six.mp4</video>
+	</game>
+	<game>
+		<path>./Tonic Trouble.n64</path>
+		<name>Tonic Trouble</name>
+		<image>./boxart/Tonic Trouble.png</image>
+		<marquee>./wheel/Tonic Trouble.png</marquee>
+		<video>./snap/Tonic Trouble.mp4</video>
+	</game>
+	<game>
+		<path>./Tony Hawks Pro Skater 2.n64</path>
+		<name>Tony Hawks Pro Skater 2</name>
+		<image>./boxart/Tony Hawks Pro Skater 2.png</image>
+		<marquee>./wheel/Tony Hawks Pro Skater 2.png</marquee>
+		<video>./snap/Tony Hawks Pro Skater 2.mp4</video>
+	</game>
+	<game>
+		<path>./Tony Hawks Pro Skater 3.n64</path>
+		<name>Tony Hawks Pro Skater 3</name>
+		<image>./boxart/Tony Hawks Pro Skater 3.png</image>
+		<marquee>./wheel/Tony Hawks Pro Skater 3.png</marquee>
+		<video>./snap/Tony Hawks Pro Skater 3.mp4</video>
+	</game>
+	<game>
+		<path>./Tony Hawks Pro Skater.n64</path>
+		<name>Tony Hawks Pro Skater</name>
+		<image>./boxart/Tony Hawks Pro Skater.png</image>
+		<marquee>./wheel/Tony Hawks Pro Skater.png</marquee>
+		<video>./snap/Tony Hawks Pro Skater.mp4</video>
+	</game>
+	<game>
+		<path>./Top Gear Hyper Bike.n64</path>
+		<name>Top Gear Hyper Bike</name>
+		<image>./boxart/Top Gear Hyper Bike.png</image>
+		<marquee>./wheel/Top Gear Hyper Bike.png</marquee>
+		<video>./snap/Top Gear Hyper Bike.mp4</video>
+	</game>
+	<game>
+		<path>./Top Gear Overdrive.n64</path>
+		<name>Top Gear Overdrive</name>
+		<image>./boxart/Top Gear Overdrive.png</image>
+		<marquee>./wheel/Top Gear Overdrive.png</marquee>
+		<video>./snap/Top Gear Overdrive.mp4</video>
+	</game>
+	<game>
+		<path>./Top Gear Rally 2.n64</path>
+		<name>Top Gear Rally 2</name>
+		<image>./boxart/Top Gear Rally 2.png</image>
+		<marquee>./wheel/Top Gear Rally 2.png</marquee>
+		<video>./snap/Top Gear Rally 2.mp4</video>
+	</game>
+	<game>
+		<path>./Top Gear Rally.n64</path>
+		<name>Top Gear Rally</name>
+		<image>./boxart/Top Gear Rally.png</image>
+		<marquee>./wheel/Top Gear Rally.png</marquee>
+		<video>./snap/Top Gear Rally.mp4</video>
+	</game>
+	<game>
+		<path>./Toy Story 2.n64</path>
+		<name>Toy Story 2</name>
+		<image>./boxart/Toy Story 2.png</image>
+		<marquee>./wheel/Toy Story 2.png</marquee>
+		<video>./snap/Toy Story 2.mp4</video>
+	</game>
+	<game>
+		<path>./Transformers Beast Wars Transmetals.n64</path>
+		<name>Transformers Beast Wars Transmetals</name>
+		<image>./boxart/Transformers Beast Wars Transmetals.png</image>
+		<marquee>./wheel/Transformers Beast Wars Transmetals.png</marquee>
+		<video>./snap/Transformers Beast Wars Transmetals.mp4</video>
+	</game>
+	<game>
+		<path>./Triple Play 2000.n64</path>
+		<name>Triple Play 2000</name>
+		<image>./boxart/Triple Play 2000.png</image>
+		<marquee>./wheel/Triple Play 2000.png</marquee>
+		<video>./snap/Triple Play 2000.mp4</video>
+	</game>
+	<game>
+		<path>./Turok 2 Seeds of Evil.n64</path>
+		<name>Turok 2 Seeds of Evil</name>
+		<image>./boxart/Turok 2 Seeds of Evil.png</image>
+		<marquee>./wheel/Turok 2 Seeds of Evil.png</marquee>
+		<video>./snap/Turok 2 Seeds of Evil.mp4</video>
+	</game>
+	<game>
+		<path>./Turok 3 Shadow of Oblivion.n64</path>
+		<name>Turok 3 Shadow of Oblivion</name>
+		<image>./boxart/Turok 3 Shadow of Oblivion.png</image>
+		<marquee>./wheel/Turok 3 Shadow of Oblivion.png</marquee>
+		<video>./snap/Turok 3 Shadow of Oblivion.mp4</video>
+	</game>
+	<game>
+		<path>./Turok Dinosaur Hunter.n64</path>
+		<name>Turok Dinosaur Hunter</name>
+		<image>./boxart/Turok Dinosaur Hunter.png</image>
+		<marquee>./wheel/Turok Dinosaur Hunter.png</marquee>
+		<video>./snap/Turok Dinosaur Hunter.mp4</video>
+	</game>
+	<game>
+		<path>./Turok Rage Wars.n64</path>
+		<name>Turok Rage Wars</name>
+		<image>./boxart/Turok Rage Wars.png</image>
+		<marquee>./wheel/Turok Rage Wars.png</marquee>
+		<video>./snap/Turok Rage Wars.mp4</video>
+	</game>
+	<game>
+		<path>./Twisted Edge Extreme Snowboarding.n64</path>
+		<name>Twisted Edge Extreme Snowboarding</name>
+		<image>./boxart/Twisted Edge Extreme Snowboarding.png</image>
+		<marquee>./wheel/Twisted Edge Extreme Snowboarding.png</marquee>
+		<video>./snap/Twisted Edge Extreme Snowboarding.mp4</video>
+	</game>
+	<game>
+		<path>./V Rally Edition 99.n64</path>
+		<name>V Rally Edition 99</name>
+		<image>./boxart/V Rally Edition 99.png</image>
+		<marquee>./wheel/V Rally Edition 99.png</marquee>
+		<video>./snap/V Rally Edition 99.mp4</video>
+	</game>
+	<game>
+		<path>./Vigilante 8 2nd Offense.n64</path>
+		<name>Vigilante 8 2nd Offense</name>
+		<image>./boxart/Vigilante 8 2nd Offense.png</image>
+		<marquee>./wheel/Vigilante 8 2nd Offense.png</marquee>
+		<video>./snap/Vigilante 8 2nd Offense.mp4</video>
+	</game>
+	<game>
+		<path>./Vigilante 8.n64</path>
+		<name>Vigilante 8</name>
+		<image>./boxart/Vigilante 8.png</image>
+		<marquee>./wheel/Vigilante 8.png</marquee>
+		<video>./snap/Vigilante 8.mp4</video>
+	</game>
+	<game>
+		<path>./Virtual Chess 64.n64</path>
+		<name>Virtual Chess 64</name>
+		<image>./boxart/Virtual Chess 64.png</image>
+		<marquee>./wheel/Virtual Chess 64.png</marquee>
+		<video>./snap/Virtual Chess 64.mp4</video>
+	</game>
+	<game>
+		<path>./Virtual Pool 64.n64</path>
+		<name>Virtual Pool 64</name>
+		<image>./boxart/Virtual Pool 64.png</image>
+		<marquee>./wheel/Virtual Pool 64.png</marquee>
+		<video>./snap/Virtual Pool 64.mp4</video>
+	</game>
+	<game>
+		<path>./Waialae Country Club True Golf Classics.n64</path>
+		<name>Waialae Country Club True Golf Classics</name>
+		<image>./boxart/Waialae Country Club True Golf Classics.png</image>
+		<marquee>./wheel/Waialae Country Club True Golf Classics.png</marquee>
+		<video>./snap/Waialae Country Club True Golf Classics.mp4</video>
+	</game>
+	<game>
+		<path>./War Gods.n64</path>
+		<name>War Gods</name>
+		<image>./boxart/War Gods.png</image>
+		<marquee>./wheel/War Gods.png</marquee>
+		<video>./snap/War Gods.mp4</video>
+	</game>
+	<game>
+		<path>./Wave Race 64.n64</path>
+		<name>Wave Race 64</name>
+		<image>./boxart/Wave Race 64.png</image>
+		<marquee>./wheel/Wave Race 64.png</marquee>
+		<video>./snap/Wave Race 64.mp4</video>
+	</game>
+	<game>
+		<path>./Wayne Gretzkys 3D Hockey 98.n64</path>
+		<name>Wayne Gretzkys 3D Hockey 98</name>
+		<image>./boxart/Wayne Gretzkys 3D Hockey 98.png</image>
+		<marquee>./wheel/Wayne Gretzkys 3D Hockey 98.png</marquee>
+		<video>./snap/Wayne Gretzkys 3D Hockey 98.mp4</video>
+	</game>
+	<game>
+		<path>./Wayne Gretzkys 3D Hockey.n64</path>
+		<name>Wayne Gretzkys 3D Hockey</name>
+		<image>./boxart/Wayne Gretzkys 3D Hockey.png</image>
+		<marquee>./wheel/Wayne Gretzkys 3D Hockey.png</marquee>
+		<video>./snap/Wayne Gretzkys 3D Hockey.mp4</video>
+	</game>
+	<game>
+		<path>./WCW Backstage Assault.n64</path>
+		<name>WCW Backstage Assault</name>
+		<image>./boxart/WCW Backstage Assault.png</image>
+		<marquee>./wheel/WCW Backstage Assault.png</marquee>
+		<video>./snap/WCW Backstage Assault.mp4</video>
+	</game>
+	<game>
+		<path>./WCW Mayhem.n64</path>
+		<name>WCW Mayhem</name>
+		<image>./boxart/WCW Mayhem.png</image>
+		<marquee>./wheel/WCW Mayhem.png</marquee>
+		<video>./snap/WCW Mayhem.mp4</video>
+	</game>
+	<game>
+		<path>./WCW Nitro.n64</path>
+		<name>WCW Nitro</name>
+		<image>./boxart/WCW Nitro.png</image>
+		<marquee>./wheel/WCW Nitro.png</marquee>
+		<video>./snap/WCW Nitro.mp4</video>
+	</game>
+	<game>
+		<path>./WCW nWo Revenge.n64</path>
+		<name>WCW nWo Revenge</name>
+		<image>./boxart/WCW nWo Revenge.png</image>
+		<marquee>./wheel/WCW nWo Revenge.png</marquee>
+		<video>./snap/WCW nWo Revenge.mp4</video>
+	</game>
+	<game>
+		<path>./WCW vs. nWo World Tour.n64</path>
+		<name>WCW vs. nWo World Tour</name>
+		<image>./boxart/WCW vs. nWo World Tour.png</image>
+		<marquee>./wheel/WCW vs. nWo World Tour.png</marquee>
+		<video>./snap/WCW vs. nWo World Tour.mp4</video>
+	</game>
+	<game>
+		<path>./WetrixNl.n64</path>
+		<name>WetrixNl</name>
+		<image>./boxart/WetrixNl.png</image>
+		<marquee>./wheel/WetrixNl.png</marquee>
+		<video>./snap/WetrixNl.mp4</video>
+	</game>
+	<game>
+		<path>./Wheel of Fortune.n64</path>
+		<name>Wheel of Fortune</name>
+		<image>./boxart/Wheel of Fortune.png</image>
+		<marquee>./wheel/Wheel of Fortune.png</marquee>
+		<video>./snap/Wheel of Fortune.mp4</video>
+	</game>
+	<game>
+		<path>./WinBack Covert Operations.n64</path>
+		<name>WinBack Covert Operations</name>
+		<image>./boxart/WinBack Covert Operations.png</image>
+		<marquee>./wheel/WinBack Covert Operations.png</marquee>
+		<video>./snap/WinBack Covert Operations.mp4</video>
+	</game>
+	<game>
+		<path>./Wipeout 64.n64</path>
+		<name>Wipeout 64</name>
+		<image>./boxart/Wipeout 64.png</image>
+		<marquee>./wheel/Wipeout 64.png</marquee>
+		<video>./snap/Wipeout 64.mp4</video>
+	</game>
+	<game>
+		<path>./World Cup 98.n64</path>
+		<name>World Cup 98</name>
+		<image>./boxart/World Cup 98.png</image>
+		<marquee>./wheel/World Cup 98.png</marquee>
+		<video>./snap/World Cup 98.mp4</video>
+	</game>
+	<game>
+		<path>./World Driver Championship.n64</path>
+		<name>World Driver Championship</name>
+		<image>./boxart/World Driver Championship.png</image>
+		<marquee>./wheel/World Driver Championship.png</marquee>
+		<video>./snap/World Driver Championship.mp4</video>
+	</game>
+	<game>
+		<path>./Worms Armageddon.n64</path>
+		<name>Worms Armageddon</name>
+		<image>./boxart/Worms Armageddon.png</image>
+		<marquee>./wheel/Worms Armageddon.png</marquee>
+		<video>./snap/Worms Armageddon.mp4</video>
+	</game>
+	<game>
+		<path>./WWF Attitude.n64</path>
+		<name>WWF Attitude</name>
+		<image>./boxart/WWF Attitude.png</image>
+		<marquee>./wheel/WWF Attitude.png</marquee>
+		<video>./snap/WWF Attitude.mp4</video>
+	</game>
+	<game>
+		<path>./WWF No Mercy.n64</path>
+		<name>WWF No Mercy</name>
+		<image>./boxart/WWF No Mercy.png</image>
+		<marquee>./wheel/WWF No Mercy.png</marquee>
+		<video>./snap/WWF No Mercy.mp4</video>
+	</game>
+	<game>
+		<path>./WWF War Zone.n64</path>
+		<name>WWF War Zone</name>
+		<image>./boxart/WWF War Zone.png</image>
+		<marquee>./wheel/WWF War Zone.png</marquee>
+		<video>./snap/WWF War Zone.mp4</video>
+	</game>
+	<game>
+		<path>./WWF WrestleMania 2000.n64</path>
+		<name>WWF WrestleMania 2000</name>
+		<image>./boxart/WWF WrestleMania 2000.png</image>
+		<marquee>./wheel/WWF WrestleMania 2000.png</marquee>
+		<video>./snap/WWF WrestleMania 2000.mp4</video>
+	</game>
+	<game>
+		<path>./Xena Warrior Princess The Talisman of Fate.n64</path>
+		<name>Xena Warrior Princess The Talisman of Fate</name>
+		<image>./boxart/Xena Warrior Princess The Talisman of Fate.png</image>
+		<marquee>./wheel/Xena Warrior Princess The Talisman of Fate.png</marquee>
+		<video>./snap/Xena Warrior Princess The Talisman of Fate.mp4</video>
+	</game>
+	<game>
+		<path>./Yoshis StoryJa.n64</path>
+		<name>Yoshis StoryJa</name>
+		<image>./boxart/Yoshis StoryJa.png</image>
+		<marquee>./wheel/Yoshis StoryJa.png</marquee>
+		<video>./snap/Yoshis StoryJa.mp4</video>
+	</game>
+</gameList>
